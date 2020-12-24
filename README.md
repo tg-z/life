@@ -30,7 +30,7 @@ To use the web app, you have to visit a URL like the following:
 in the above example, the query parameters are the following, URL encoded:
 
 - `repo`: Your repository on GitHub, e.g., `tg-z/life`
-- `api`: The data you want to visualize, e.g., `wakatime-tracking`, which corresponds to the directory in [`./data`](./data)
+- `api`: The data you want to visualize, e.g., `wakatime-time-tracking`, which corresponds to the directory in [`./data`](./data)
 - `latest`: The visualization to display, based on the specific `api.json` keys, e.g., `top-overview.days`
 
 Here are some more visualization of real-time data from my life:
