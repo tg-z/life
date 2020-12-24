@@ -4,7 +4,6 @@ this repository contains the data for [tg-z](https://pond.computer)'s life. it's
 
 [![Powered by Stethoscope](https://stethoscope.js.org/branding/badge-small.svg)](https://stethoscope.js.org)
 [![Stethoscope CI](https://github.com/tg-z/life/workflows/Stethoscope%20CI/badge.svg)](https://github.com/tg-z/life/actions?query=workflow%3A%22Stethoscope+CI%22)
-[![Update Template CI](https://github.com/tg-z/life/workflows/Update%20Template%20CI/badge.svg)](https://github.com/tg-z/life/actions?query=workflow%3A%22Update+Template+CI%22)
 
 **view my life data: https://pond.computer/life/**
 
@@ -24,7 +23,8 @@ this repository contains the data for [tg-z](https://pond.computer)'s life. it's
 
 To use the web app, you have to visit a URL like the following:
 
-https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-tracking&latest=top-overview.weeks
+https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&latest=weeks&color=%D73A49
+https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&latest=days&color=%2316a085
 
 In the above example, the query parameters are the following, URL encoded:
 
@@ -37,7 +37,7 @@ Here are some more visualization of real-time data from my life:
 - Sleep tracking: [this week](https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=oura-sleep&latest=total.weeks) · [this month](https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=oura-sleep&latest=total.days) · [this year](https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=oura-sleep&latest=total.months)
 - Programming time: [this week](https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=wakatime-time-tracking&latest=weeks) · [this month](https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=wakatime-time-tracking&latest=days) · [this year](https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=wakatime-time-tracking&latest=months)
 
-## 📄 License
+## 📄 license
 
 - Based on: [stethoscope-js/stethoscope](https://github.com/stethoscope-js/stethoscope)
 - Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com)
