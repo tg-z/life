@@ -23,11 +23,11 @@ this repository contains the data for [tg-z](https://pond.computer)'s life. it's
 
 To use the web app, you have to visit a URL like the following:
 
-https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&path=summary%2Fweeks%2F2020%2F52.json&color=%23D73A49&chart=bar
-https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&latest=days&color=%2316a085&chart=bar
-https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&path=summary%2Fdays%2F2020%2F12.json&color=%2316a089&chart=bar
+- https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&path=summary%2Fweeks%2F2020%2F52.json&color=%23D73A49&chart=bar
+- https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&latest=days&color=%2316a085&chart=bar
+- https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&path=summary%2Fdays%2F2020%2F12.json&color=%2316a089&chart=bar
 
-In the above example, the query parameters are the following, URL encoded:
+in the above example, the query parameters are the following, URL encoded:
 
 - `repo`: Your repository on GitHub, e.g., `tg-z/life`
 - `api`: The data you want to visualize, e.g., `wakatime-tracking`, which corresponds to the directory in [`./data`](./data)
