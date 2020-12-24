@@ -23,8 +23,9 @@ this repository contains the data for [tg-z](https://pond.computer)'s life. it's
 
 To use the web app, you have to visit a URL like the following:
 
-https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&latest=weeks&color=%D73A49
-https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&latest=days&color=%2316a085
+https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&path=summary%2Fweeks%2F2020%2F52.json&color=%23D73A49&chart=bar
+https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&latest=days&color=%2316a085&chart=bar
+https://stethoscope.js.org/embed/?repo=tg-z%2Flife&api=wakatime-time-tracking&path=summary%2Fdays%2F2020%2F12.json&color=%2316a089&chart=bar
 
 In the above example, the query parameters are the following, URL encoded:
 
