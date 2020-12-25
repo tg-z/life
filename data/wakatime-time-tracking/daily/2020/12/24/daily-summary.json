@@ -1,24 +1,181 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "3:12:44",
+        "hours": 3,
+        "minutes": 12,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 44,
+        "text": "3 hrs 12 mins",
+        "total_seconds": 11564.533536
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "2:25:28",
+        "hours": 2,
+        "minutes": 25,
+        "name": "Zsh",
+        "percent": 75.48,
+        "seconds": 28,
+        "text": "2 hrs 25 mins",
+        "total_seconds": 8728.993538
+      },
+      {
+        "digital": "0:47:15",
+        "hours": 0,
+        "minutes": 47,
+        "name": "Vim",
+        "percent": 24.52,
+        "seconds": 15,
+        "text": "47 mins",
+        "total_seconds": 2835.539998
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "3:12",
+      "hours": 3,
+      "minutes": 12,
+      "text": "3 hrs 12 mins",
+      "total_seconds": 11564.533536
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "2:25:28",
+        "hours": 2,
+        "minutes": 25,
+        "name": "sh",
+        "percent": 75.48,
+        "seconds": 28,
+        "text": "2 hrs 25 mins",
+        "total_seconds": 8728.993538
+      },
+      {
+        "digital": "0:28:01",
+        "hours": 0,
+        "minutes": 28,
+        "name": "Markdown",
+        "percent": 14.54,
+        "seconds": 1,
+        "text": "28 mins",
+        "total_seconds": 1681.09788
+      },
+      {
+        "digital": "0:12:39",
+        "hours": 0,
+        "minutes": 12,
+        "name": "VimL",
+        "percent": 6.57,
+        "seconds": 39,
+        "text": "12 mins",
+        "total_seconds": 759.627266
+      },
+      {
+        "digital": "0:06:29",
+        "hours": 0,
+        "minutes": 6,
+        "name": "Text",
+        "percent": 3.37,
+        "seconds": 29,
+        "text": "6 mins",
+        "total_seconds": 389.28877
+      },
+      {
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 0.05,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.526082
+      }
+    ],
+    "machines": [
+      {
+        "digital": "3:12:44",
+        "hours": 3,
+        "machine_name_id": "e22e856a-a6ae-4bc9-a904-57d8295b362c",
+        "minutes": 12,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 44,
+        "text": "3 hrs 12 mins",
+        "total_seconds": 11564.533536
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "3:12:44",
+        "hours": 3,
+        "minutes": 12,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 44,
+        "text": "3 hrs 12 mins",
+        "total_seconds": 11564.533536
+      }
+    ],
+    "projects": [
+      {
+        "digital": "2:10:25",
+        "hours": 2,
+        "minutes": 10,
+        "name": "Terminal",
+        "percent": 67.67,
+        "seconds": 25,
+        "text": "2 hrs 10 mins",
+        "total_seconds": 7825.99699
+      },
+      {
+        "digital": "0:42:58",
+        "hours": 0,
+        "minutes": 42,
+        "name": "zet",
+        "percent": 22.3,
+        "seconds": 58,
+        "text": "42 mins",
+        "total_seconds": 2578.747071
+      },
+      {
+        "digital": "0:19:08",
+        "hours": 0,
+        "minutes": 19,
+        "name": "Unknown Project",
+        "percent": 9.93,
+        "seconds": 8,
+        "text": "19 mins",
+        "total_seconds": 1148.916036
+      },
+      {
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "bashflix",
+        "percent": 0.05,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.526082
+      },
+      {
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "data",
+        "percent": 0.05,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.347357
+      }
+    ],
     "range": {
       "date": "2020-12-24",
       "end": "2020-12-25T07:59:59Z",
       "start": "2020-12-24T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
