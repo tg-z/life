@@ -5,7 +5,6 @@ this repository contains the data for [tg-z](https://pond.computer)'s life. it's
 [![Powered by Stethoscope](https://stethoscope.js.org/branding/badge-small.svg)](https://stethoscope.js.org)
 [![Stethoscope CI](https://github.com/tg-z/life/workflows/Stethoscope%20CI/badge.svg)](https://github.com/tg-z/life/actions?query=workflow%3A%22Stethoscope+CI%22)
 
-**view my life data: https://pond.computer/life/**
 
 ## 🌟 services
 
