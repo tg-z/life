@@ -1,24 +1,172 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "digital": "2:07:24",
+        "hours": 2,
+        "minutes": 7,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 24,
+        "text": "2 hrs 7 mins",
+        "total_seconds": 7644.86269
+      }
+    ],
+    "dependencies": [
+      {
+        "digital": "0:00:12",
+        "hours": 0,
+        "minutes": 0,
+        "name": "\"https://instant.page/5.1.0\"",
+        "percent": 100,
+        "seconds": 12,
+        "text": "12 secs",
+        "total_seconds": 12.713291
+      }
+    ],
+    "editors": [
+      {
+        "digital": "1:50:08",
+        "hours": 1,
+        "minutes": 50,
+        "name": "Zsh",
+        "percent": 86.45,
+        "seconds": 8,
+        "text": "1 hr 50 mins",
+        "total_seconds": 6608.755743
+      },
+      {
+        "digital": "0:17:16",
+        "hours": 0,
+        "minutes": 17,
+        "name": "Vim",
+        "percent": 13.55,
+        "seconds": 16,
+        "text": "17 mins",
+        "total_seconds": 1036.106947
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "2:07",
+      "hours": 2,
+      "minutes": 7,
+      "text": "2 hrs 7 mins",
+      "total_seconds": 7644.86269
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "1:50:08",
+        "hours": 1,
+        "minutes": 50,
+        "name": "sh",
+        "percent": 86.45,
+        "seconds": 8,
+        "text": "1 hr 50 mins",
+        "total_seconds": 6608.755743
+      },
+      {
+        "digital": "0:14:31",
+        "hours": 0,
+        "minutes": 14,
+        "name": "Markdown",
+        "percent": 11.4,
+        "seconds": 31,
+        "text": "14 mins",
+        "total_seconds": 871.541954
+      },
+      {
+        "digital": "0:02:44",
+        "hours": 0,
+        "minutes": 2,
+        "name": "HTML",
+        "percent": 2.15,
+        "seconds": 44,
+        "text": "2 mins",
+        "total_seconds": 164.564993
+      }
+    ],
+    "machines": [
+      {
+        "digital": "2:07:24",
+        "hours": 2,
+        "machine_name_id": "9fafe3c5-43c2-4b6e-9d42-4dc2f1e41cc7",
+        "minutes": 7,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 24,
+        "text": "2 hrs 7 mins",
+        "total_seconds": 7644.86269
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "2:07:24",
+        "hours": 2,
+        "minutes": 7,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 24,
+        "text": "2 hrs 7 mins",
+        "total_seconds": 7644.86269
+      }
+    ],
+    "projects": [
+      {
+        "digital": "1:14:22",
+        "hours": 1,
+        "minutes": 14,
+        "name": "Terminal",
+        "percent": 58.37,
+        "seconds": 22,
+        "text": "1 hr 14 mins",
+        "total_seconds": 4462.256271
+      },
+      {
+        "digital": "0:32:24",
+        "hours": 0,
+        "minutes": 32,
+        "name": "zet",
+        "percent": 25.43,
+        "seconds": 24,
+        "text": "32 mins",
+        "total_seconds": 1944.378367
+      },
+      {
+        "digital": "0:17:09",
+        "hours": 0,
+        "minutes": 17,
+        "name": "TabFS",
+        "percent": 13.46,
+        "seconds": 9,
+        "text": "17 mins",
+        "total_seconds": 1029.271408
+      },
+      {
+        "digital": "0:02:44",
+        "hours": 0,
+        "minutes": 2,
+        "name": "Unknown Project",
+        "percent": 2.15,
+        "seconds": 44,
+        "text": "2 mins",
+        "total_seconds": 164.564993
+      },
+      {
+        "digital": "0:00:44",
+        "hours": 0,
+        "minutes": 0,
+        "name": "rsync-for-android",
+        "percent": 0.58,
+        "seconds": 44,
+        "text": "44 secs",
+        "total_seconds": 44.391651
+      }
+    ],
     "range": {
       "date": "2021-01-01",
       "end": "2021-01-02T07:59:59Z",
       "start": "2021-01-01T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
