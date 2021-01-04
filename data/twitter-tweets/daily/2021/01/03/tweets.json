@@ -1,17 +1,38 @@
 [
   {
-    "created_at": "Fri Dec 04 23:11:30 +0000 2020",
-    "id": 1334998794727985200,
-    "id_str": "1334998794727985156",
-    "text": "pretty boy swag",
+    "created_at": "Sun Jan 03 05:38:18 +0000 2021",
+    "id": 1345605385718153200,
+    "id_str": "1345605385718153217",
+    "text": "RT @y2k_aesthetic: Please keep Terrell Davis @terrellllllll in your memory. He is the OG neo-Y2K artist and we wouldn’t be here without him…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "y2k_aesthetic",
+          "name": "Y2K Aesthetic Institute 💽 BLM",
+          "id": 1069854632371863600,
+          "id_str": "1069854632371863552",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "terrellllllll",
+          "name": "t®",
+          "id": 420616976,
+          "id_str": "420616976",
+          "indices": [
+            45,
+            59
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -82,108 +103,130 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Fri Dec 04 22:53:18 +0000 2020",
-    "id": 1334994214015414300,
-    "id_str": "1334994214015414277",
-    "text": "how bout next time i just spit in ur mouth",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
-    },
-    "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 2902176888,
-      "id_str": "2902176888",
-      "name": "tiger *",
-      "screen_name": "parasite______",
-      "location": "Los Angeles, CA",
-      "description": "alive unwell",
-      "url": "https://t.co/54ngFNYYWu",
+    "retweeted_status": {
+      "created_at": "Sat Jan 02 21:38:20 +0000 2021",
+      "id": 1345484595102290000,
+      "id_str": "1345484595102289920",
+      "text": "Please keep Terrell Davis @terrellllllll in your memory. He is the OG neo-Y2K artist and we wouldn’t be here withou… https://t.co/NIioKGhAry",
+      "truncated": true,
       "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/54ngFNYYWu",
-              "expanded_url": "https://pond.computer",
-              "display_url": "pond.computer",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "terrellllllll",
+            "name": "t®",
+            "id": 420616976,
+            "id_str": "420616976",
+            "indices": [
+              26,
+              40
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NIioKGhAry",
+            "expanded_url": "https://twitter.com/i/web/status/1345484595102289920",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
       },
-      "protected": false,
-      "followers_count": 238,
-      "friends_count": 661,
-      "listed_count": 1,
-      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
-      "favourites_count": 16670,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 3856,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "000000",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1256254304706457600/2f22unq5_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256254304706457600/2f22unq5_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2902176888/1605062316",
-      "profile_link_color": "ABB8C2",
-      "profile_sidebar_border_color": "000000",
-      "profile_sidebar_fill_color": "000000",
-      "profile_text_color": "000000",
-      "profile_use_background_image": false,
-      "has_extended_profile": true,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1069854632371863600,
+        "id_str": "1069854632371863552",
+        "name": "Y2K Aesthetic Institute 💽 BLM",
+        "screen_name": "y2k_aesthetic",
+        "location": "ACAB",
+        "description": "Official account of the Y2K Aesthetic Institute. Run by @EvanCollins90 and @FroyoTam. Logo and banner graphics by @FroyoTam",
+        "url": "https://t.co/7Dq5WFXg0l",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7Dq5WFXg0l",
+                "expanded_url": "https://www.patreon.com/y2kaestheticinstitute",
+                "display_url": "patreon.com/y2kaestheticin…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 47987,
+        "friends_count": 142,
+        "listed_count": 176,
+        "created_at": "Tue Dec 04 07:23:16 +0000 2018",
+        "favourites_count": 1608,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1421,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1069857520728981504/ItOd4Z5G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069857520728981504/ItOd4Z5G_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069854632371863552/1543909174",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2044,
+      "favorite_count": 5999,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
     },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 2044,
     "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
+    "favorited": true,
+    "retweeted": true,
     "lang": "en"
   },
   {
-    "created_at": "Fri Dec 04 22:53:17 +0000 2020",
-    "id": 1334994212723568600,
-    "id_str": "1334994212723568640",
-    "text": "hey miley",
+    "created_at": "Sun Jan 03 05:31:51 +0000 2021",
+    "id": 1345603763457953800,
+    "id_str": "1345603763457953793",
+    "text": "i love newsboat",
     "truncated": false,
     "entities": {
       "hashtags": [],
