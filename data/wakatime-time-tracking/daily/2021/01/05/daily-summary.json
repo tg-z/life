@@ -1,24 +1,151 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "1:10:23",
+        "hours": 1,
+        "minutes": 10,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 23,
+        "text": "1 hr 10 mins",
+        "total_seconds": 4223.676215
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:35:48",
+        "hours": 0,
+        "minutes": 35,
+        "name": "Vim",
+        "percent": 50.86,
+        "seconds": 48,
+        "text": "35 mins",
+        "total_seconds": 2148.14651
+      },
+      {
+        "digital": "0:34:35",
+        "hours": 0,
+        "minutes": 34,
+        "name": "Zsh",
+        "percent": 49.14,
+        "seconds": 35,
+        "text": "34 mins",
+        "total_seconds": 2075.529705
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "1:10",
+      "hours": 1,
+      "minutes": 10,
+      "text": "1 hr 10 mins",
+      "total_seconds": 4223.676215
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:35:48",
+        "hours": 0,
+        "minutes": 35,
+        "name": "Markdown",
+        "percent": 50.86,
+        "seconds": 48,
+        "text": "35 mins",
+        "total_seconds": 2148.14651
+      },
+      {
+        "digital": "0:34:35",
+        "hours": 0,
+        "minutes": 34,
+        "name": "sh",
+        "percent": 49.14,
+        "seconds": 35,
+        "text": "34 mins",
+        "total_seconds": 2075.529705
+      }
+    ],
+    "machines": [
+      {
+        "digital": "1:10:23",
+        "hours": 1,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 10,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 23,
+        "text": "1 hr 10 mins",
+        "total_seconds": 4223.676215
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "1:10:23",
+        "hours": 1,
+        "minutes": 10,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 23,
+        "text": "1 hr 10 mins",
+        "total_seconds": 4223.676215
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:41:18",
+        "hours": 0,
+        "minutes": 41,
+        "name": "zet",
+        "percent": 58.69,
+        "seconds": 18,
+        "text": "41 mins",
+        "total_seconds": 2478.695963
+      },
+      {
+        "digital": "0:13:41",
+        "hours": 0,
+        "minutes": 13,
+        "name": "Terminal",
+        "percent": 19.46,
+        "seconds": 41,
+        "text": "13 mins",
+        "total_seconds": 821.904878
+      },
+      {
+        "digital": "0:11:53",
+        "hours": 0,
+        "minutes": 11,
+        "name": "life",
+        "percent": 16.89,
+        "seconds": 53,
+        "text": "11 mins",
+        "total_seconds": 713.491097
+      },
+      {
+        "digital": "0:03:13",
+        "hours": 0,
+        "minutes": 3,
+        "name": "spotify-archive",
+        "percent": 4.58,
+        "seconds": 13,
+        "text": "3 mins",
+        "total_seconds": 193.344596
+      },
+      {
+        "digital": "0:00:16",
+        "hours": 0,
+        "minutes": 0,
+        "name": "lifelogger",
+        "percent": 0.38,
+        "seconds": 16,
+        "text": "16 secs",
+        "total_seconds": 16.239681
+      }
+    ],
     "range": {
       "date": "2021-01-05",
       "end": "2021-01-06T07:59:59Z",
       "start": "2021-01-05T08:00:00Z",
-      "text": "Today",
+      "text": "Tue Jan 5th 2021",
       "timezone": "America/Los_Angeles"
     }
   }
