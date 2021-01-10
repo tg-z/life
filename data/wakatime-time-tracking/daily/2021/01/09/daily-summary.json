@@ -1,24 +1,302 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "digital": "15:05:15",
+        "hours": 15,
+        "minutes": 5,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 15,
+        "text": "15 hrs 5 mins",
+        "total_seconds": 54315.996422
+      }
+    ],
+    "dependencies": [
+      {
+        "digital": "0:16:58",
+        "hours": 0,
+        "minutes": 16,
+        "name": "\"https://platform.twitter.com/widgets.js\"",
+        "percent": 100,
+        "seconds": 58,
+        "text": "16 mins",
+        "total_seconds": 1018.257534
+      }
+    ],
+    "editors": [
+      {
+        "digital": "9:00:41",
+        "hours": 9,
+        "minutes": 0,
+        "name": "Zsh",
+        "percent": 59.73,
+        "seconds": 41,
+        "text": "9 hrs",
+        "total_seconds": 32441.986974
+      },
+      {
+        "digital": "6:04:34",
+        "hours": 6,
+        "minutes": 4,
+        "name": "Vim",
+        "percent": 40.27,
+        "seconds": 34,
+        "text": "6 hrs 4 mins",
+        "total_seconds": 21874.009448
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "15:05",
+      "hours": 15,
+      "minutes": 5,
+      "text": "15 hrs 5 mins",
+      "total_seconds": 54315.996422
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "9:00:41",
+        "hours": 9,
+        "minutes": 0,
+        "name": "sh",
+        "percent": 59.73,
+        "seconds": 41,
+        "text": "9 hrs",
+        "total_seconds": 32441.986974
+      },
+      {
+        "digital": "2:07:56",
+        "hours": 2,
+        "minutes": 7,
+        "name": "HTML",
+        "percent": 14.13,
+        "seconds": 56,
+        "text": "2 hrs 7 mins",
+        "total_seconds": 7676.788024
+      },
+      {
+        "digital": "2:03:57",
+        "hours": 2,
+        "minutes": 3,
+        "name": "Markdown",
+        "percent": 13.69,
+        "seconds": 57,
+        "text": "2 hrs 3 mins",
+        "total_seconds": 7437.096603
+      },
+      {
+        "digital": "1:30:24",
+        "hours": 1,
+        "minutes": 30,
+        "name": "Other",
+        "percent": 9.99,
+        "seconds": 24,
+        "text": "1 hr 30 mins",
+        "total_seconds": 5424.087192
+      },
+      {
+        "digital": "0:11:28",
+        "hours": 0,
+        "minutes": 11,
+        "name": "CSS",
+        "percent": 1.27,
+        "seconds": 28,
+        "text": "11 mins",
+        "total_seconds": 688.02053
+      },
+      {
+        "digital": "0:09:58",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Bash",
+        "percent": 1.1,
+        "seconds": 58,
+        "text": "9 mins",
+        "total_seconds": 598.041146
+      },
+      {
+        "digital": "0:00:32",
+        "hours": 0,
+        "minutes": 0,
+        "name": "VimL",
+        "percent": 0.06,
+        "seconds": 32,
+        "text": "32 secs",
+        "total_seconds": 32.528181
+      },
+      {
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.03,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.447772
+      }
+    ],
+    "machines": [
+      {
+        "digital": "15:05:15",
+        "hours": 15,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 5,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 15,
+        "text": "15 hrs 5 mins",
+        "total_seconds": 54315.996422
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "15:05:15",
+        "hours": 15,
+        "minutes": 5,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 15,
+        "text": "15 hrs 5 mins",
+        "total_seconds": 54315.996422
+      }
+    ],
+    "projects": [
+      {
+        "digital": "5:03:24",
+        "hours": 5,
+        "minutes": 3,
+        "name": "Terminal",
+        "percent": 33.52,
+        "seconds": 24,
+        "text": "5 hrs 3 mins",
+        "total_seconds": 18204.543955
+      },
+      {
+        "digital": "4:52:05",
+        "hours": 4,
+        "minutes": 52,
+        "name": "zet",
+        "percent": 32.27,
+        "seconds": 5,
+        "text": "4 hrs 52 mins",
+        "total_seconds": 17525.821679
+      },
+      {
+        "digital": "2:59:06",
+        "hours": 2,
+        "minutes": 59,
+        "name": "Unknown Project",
+        "percent": 19.78,
+        "seconds": 6,
+        "text": "2 hrs 59 mins",
+        "total_seconds": 10746.023611
+      },
+      {
+        "digital": "1:20:44",
+        "hours": 1,
+        "minutes": 20,
+        "name": "zit",
+        "percent": 8.92,
+        "seconds": 44,
+        "text": "1 hr 20 mins",
+        "total_seconds": 4844.168062
+      },
+      {
+        "digital": "0:09:58",
+        "hours": 0,
+        "minutes": 9,
+        "name": ".zsh.d",
+        "percent": 1.1,
+        "seconds": 58,
+        "text": "9 mins",
+        "total_seconds": 598.041146
+      },
+      {
+        "digital": "0:09:55",
+        "hours": 0,
+        "minutes": 9,
+        "name": "torrents-csv-server",
+        "percent": 1.1,
+        "seconds": 55,
+        "text": "9 mins",
+        "total_seconds": 595.644063
+      },
+      {
+        "digital": "0:09:40",
+        "hours": 0,
+        "minutes": 9,
+        "name": "tg-z",
+        "percent": 1.07,
+        "seconds": 40,
+        "text": "9 mins",
+        "total_seconds": 580.707002
+      },
+      {
+        "digital": "0:09:05",
+        "hours": 0,
+        "minutes": 9,
+        "name": "search-notes",
+        "percent": 1,
+        "seconds": 5,
+        "text": "9 mins",
+        "total_seconds": 545.612273
+      },
+      {
+        "digital": "0:08:02",
+        "hours": 0,
+        "minutes": 8,
+        "name": "snail-cli",
+        "percent": 0.89,
+        "seconds": 2,
+        "text": "8 mins",
+        "total_seconds": 482.689462
+      },
+      {
+        "digital": "0:01:29",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Command-line-text-processing",
+        "percent": 0.16,
+        "seconds": 29,
+        "text": "1 min",
+        "total_seconds": 89.389906
+      },
+      {
+        "digital": "0:00:50",
+        "hours": 0,
+        "minutes": 0,
+        "name": "twitteraccountshistory",
+        "percent": 0.09,
+        "seconds": 50,
+        "text": "50 secs",
+        "total_seconds": 50.468901
+      },
+      {
+        "digital": "0:00:45",
+        "hours": 0,
+        "minutes": 0,
+        "name": "jfs",
+        "percent": 0.08,
+        "seconds": 45,
+        "text": "45 secs",
+        "total_seconds": 45.584829
+      },
+      {
+        "digital": "0:00:07",
+        "hours": 0,
+        "minutes": 0,
+        "name": "asterisk",
+        "percent": 0.01,
+        "seconds": 7,
+        "text": "7 secs",
+        "total_seconds": 7.301533
+      }
+    ],
     "range": {
       "date": "2021-01-09",
       "end": "2021-01-10T07:59:59Z",
       "start": "2021-01-09T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
