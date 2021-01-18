@@ -2,23 +2,33 @@
   {
     "categories": [
       {
-        "digital": "8:54:24",
-        "hours": 8,
-        "minutes": 54,
+        "digital": "12:53:43",
+        "hours": 12,
+        "minutes": 53,
         "name": "Coding",
         "percent": 100,
-        "seconds": 24,
-        "text": "8 hrs 54 mins",
-        "total_seconds": 32064.765439
+        "seconds": 43,
+        "text": "12 hrs 53 mins",
+        "total_seconds": 46423.999741
       }
     ],
     "dependencies": [
+      {
+        "digital": "1:16:18",
+        "hours": 1,
+        "minutes": 16,
+        "name": "dominate",
+        "percent": 37.37,
+        "seconds": 18,
+        "text": "1 hr 16 mins",
+        "total_seconds": 4578.356595
+      },
       {
         "digital": "0:16:18",
         "hours": 0,
         "minutes": 16,
         "name": "re",
-        "percent": 12.76,
+        "percent": 7.99,
         "seconds": 18,
         "text": "16 mins",
         "total_seconds": 978.576217
@@ -28,7 +38,7 @@
         "hours": 0,
         "minutes": 12,
         "name": "ctypes",
-        "percent": 10.06,
+        "percent": 6.3,
         "seconds": 51,
         "text": "12 mins",
         "total_seconds": 771.406886
@@ -38,7 +48,7 @@
         "hours": 0,
         "minutes": 11,
         "name": "HTMLParser",
-        "percent": 8.86,
+        "percent": 5.54,
         "seconds": 19,
         "text": "11 mins",
         "total_seconds": 679.158272
@@ -48,7 +58,7 @@
         "hours": 0,
         "minutes": 11,
         "name": "json",
-        "percent": 8.86,
+        "percent": 5.54,
         "seconds": 19,
         "text": "11 mins",
         "total_seconds": 679.158272
@@ -58,7 +68,7 @@
         "hours": 0,
         "minutes": 11,
         "name": "optparse",
-        "percent": 8.86,
+        "percent": 5.54,
         "seconds": 19,
         "text": "11 mins",
         "total_seconds": 679.158272
@@ -68,7 +78,7 @@
         "hours": 0,
         "minutes": 10,
         "name": "doctools",
-        "percent": 7.95,
+        "percent": 4.98,
         "seconds": 9,
         "text": "10 mins",
         "total_seconds": 609.686711
@@ -78,7 +88,7 @@
         "hours": 0,
         "minutes": 6,
         "name": "cStringIO",
-        "percent": 4.92,
+        "percent": 3.08,
         "seconds": 17,
         "text": "6 mins",
         "total_seconds": 377.312594
@@ -88,17 +98,7 @@
         "hours": 0,
         "minutes": 6,
         "name": "doc_html",
-        "percent": 4.81,
-        "seconds": 8,
-        "text": "6 mins",
-        "total_seconds": 368.889506
-      },
-      {
-        "digital": "0:06:08",
-        "hours": 0,
-        "minutes": 6,
-        "name": "oil_doc",
-        "percent": 4.81,
+        "percent": 3.01,
         "seconds": 8,
         "text": "6 mins",
         "total_seconds": 368.889506
@@ -108,7 +108,17 @@
         "hours": 0,
         "minutes": 6,
         "name": "html_lib",
-        "percent": 4.81,
+        "percent": 3.01,
+        "seconds": 8,
+        "text": "6 mins",
+        "total_seconds": 368.889506
+      },
+      {
+        "digital": "0:06:08",
+        "hours": 0,
+        "minutes": 6,
+        "name": "oil_doc",
+        "percent": 3.01,
         "seconds": 8,
         "text": "6 mins",
         "total_seconds": 368.889506
@@ -118,7 +128,7 @@
         "hours": 0,
         "minutes": 5,
         "name": "lazylex",
-        "percent": 4.09,
+        "percent": 2.56,
         "seconds": 13,
         "text": "5 mins",
         "total_seconds": 313.370348
@@ -127,8 +137,8 @@
         "digital": "0:04:59",
         "hours": 0,
         "minutes": 4,
-        "name": "pygments",
-        "percent": 3.91,
+        "name": "cgi",
+        "percent": 2.44,
         "seconds": 59,
         "text": "4 mins",
         "total_seconds": 299.417945
@@ -137,58 +147,58 @@
         "digital": "0:04:59",
         "hours": 0,
         "minutes": 4,
-        "name": "cgi",
-        "percent": 3.91,
+        "name": "pygments",
+        "percent": 2.44,
         "seconds": 59,
         "text": "4 mins",
         "total_seconds": 299.417945
       },
       {
-        "digital": "0:01:59",
+        "digital": "0:02:00",
         "hours": 0,
-        "minutes": 1,
-        "name": "express",
-        "percent": 1.55,
-        "seconds": 59,
-        "text": "1 min",
-        "total_seconds": 119.00501
-      },
-      {
-        "digital": "0:01:59",
-        "hours": 0,
-        "minutes": 1,
-        "name": "body-parser",
-        "percent": 1.55,
-        "seconds": 59,
-        "text": "1 min",
-        "total_seconds": 119.00501
-      },
-      {
-        "digital": "0:01:59",
-        "hours": 0,
-        "minutes": 1,
+        "minutes": 2,
         "name": "nodemon",
-        "percent": 1.55,
-        "seconds": 59,
-        "text": "1 min",
-        "total_seconds": 119.00501
+        "percent": 0.98,
+        "seconds": 0,
+        "text": "2 mins",
+        "total_seconds": 120.057727
       },
       {
-        "digital": "0:01:59",
+        "digital": "0:02:00",
         "hours": 0,
-        "minutes": 1,
+        "minutes": 2,
+        "name": "body-parser",
+        "percent": 0.98,
+        "seconds": 0,
+        "text": "2 mins",
+        "total_seconds": 120.057727
+      },
+      {
+        "digital": "0:02:00",
+        "hours": 0,
+        "minutes": 2,
+        "name": "express",
+        "percent": 0.98,
+        "seconds": 0,
+        "text": "2 mins",
+        "total_seconds": 120.057727
+      },
+      {
+        "digital": "0:02:00",
+        "hours": 0,
+        "minutes": 2,
         "name": "npm",
-        "percent": 1.55,
-        "seconds": 59,
-        "text": "1 min",
-        "total_seconds": 119.00501
+        "percent": 0.98,
+        "seconds": 0,
+        "text": "2 mins",
+        "total_seconds": 120.057727
       },
       {
         "digital": "0:01:32",
         "hours": 0,
         "minutes": 1,
         "name": "platform",
-        "percent": 1.2,
+        "percent": 0.75,
         "seconds": 32,
         "text": "1 min",
         "total_seconds": 92.248614
@@ -197,8 +207,8 @@
         "digital": "0:01:17",
         "hours": 0,
         "minutes": 1,
-        "name": "unittest",
-        "percent": 1.02,
+        "name": "cmark",
+        "percent": 0.64,
         "seconds": 17,
         "text": "1 min",
         "total_seconds": 77.894649
@@ -207,99 +217,99 @@
         "digital": "0:01:17",
         "hours": 0,
         "minutes": 1,
-        "name": "cmark",
-        "percent": 1.02,
+        "name": "unittest",
+        "percent": 0.64,
         "seconds": 17,
         "text": "1 min",
         "total_seconds": 77.894649
       },
       {
-        "digital": "0:01:14",
-        "hours": 0,
-        "minutes": 1,
-        "name": "express-validator",
-        "percent": 0.98,
-        "seconds": 14,
-        "text": "1 min",
-        "total_seconds": 74.752939
-      },
-      {
-        "digital": "0:01:14",
+        "digital": "0:01:15",
         "hours": 0,
         "minutes": 1,
         "name": "path",
-        "percent": 0.98,
-        "seconds": 14,
+        "percent": 0.62,
+        "seconds": 15,
         "text": "1 min",
-        "total_seconds": 74.752939
+        "total_seconds": 75.805656
+      },
+      {
+        "digital": "0:01:15",
+        "hours": 0,
+        "minutes": 1,
+        "name": "express-validator",
+        "percent": 0.62,
+        "seconds": 15,
+        "text": "1 min",
+        "total_seconds": 75.805656
       }
     ],
     "editors": [
       {
-        "digital": "7:32:33",
-        "hours": 7,
-        "minutes": 32,
+        "digital": "9:49:17",
+        "hours": 9,
+        "minutes": 49,
         "name": "Zsh",
-        "percent": 84.68,
-        "seconds": 33,
-        "text": "7 hrs 32 mins",
-        "total_seconds": 27153.837275
+        "percent": 76.16,
+        "seconds": 17,
+        "text": "9 hrs 49 mins",
+        "total_seconds": 35357.130067
       },
       {
-        "digital": "1:21:50",
-        "hours": 1,
-        "minutes": 21,
+        "digital": "3:04:26",
+        "hours": 3,
+        "minutes": 4,
         "name": "Vim",
-        "percent": 15.32,
-        "seconds": 50,
-        "text": "1 hr 21 mins",
-        "total_seconds": 4910.928164
+        "percent": 23.84,
+        "seconds": 26,
+        "text": "3 hrs 4 mins",
+        "total_seconds": 11066.869674
       }
     ],
     "grand_total": {
-      "digital": "8:54",
-      "hours": 8,
-      "minutes": 54,
-      "text": "8 hrs 54 mins",
-      "total_seconds": 32064.765439
+      "digital": "12:53",
+      "hours": 12,
+      "minutes": 53,
+      "text": "12 hrs 53 mins",
+      "total_seconds": 46423.999741
     },
     "languages": [
       {
-        "digital": "7:32:33",
-        "hours": 7,
-        "minutes": 32,
+        "digital": "9:49:17",
+        "hours": 9,
+        "minutes": 49,
         "name": "sh",
-        "percent": 84.68,
-        "seconds": 33,
-        "text": "7 hrs 32 mins",
-        "total_seconds": 27153.837275
+        "percent": 76.16,
+        "seconds": 17,
+        "text": "9 hrs 49 mins",
+        "total_seconds": 35357.130067
       },
       {
-        "digital": "0:33:30",
-        "hours": 0,
-        "minutes": 33,
-        "name": "Bash",
-        "percent": 6.27,
-        "seconds": 30,
-        "text": "33 mins",
-        "total_seconds": 2010.404933
-      },
-      {
-        "digital": "0:19:08",
-        "hours": 0,
-        "minutes": 19,
+        "digital": "1:35:27",
+        "hours": 1,
+        "minutes": 35,
         "name": "Python",
-        "percent": 3.58,
-        "seconds": 8,
-        "text": "19 mins",
-        "total_seconds": 1148.71948
+        "percent": 12.34,
+        "seconds": 27,
+        "text": "1 hr 35 mins",
+        "total_seconds": 5727.212158
+      },
+      {
+        "digital": "0:50:43",
+        "hours": 0,
+        "minutes": 50,
+        "name": "Bash",
+        "percent": 6.56,
+        "seconds": 43,
+        "text": "50 mins",
+        "total_seconds": 3043.237614
       },
       {
         "digital": "0:16:30",
         "hours": 0,
         "minutes": 16,
         "name": "Other",
-        "percent": 3.09,
+        "percent": 2.13,
         "seconds": 30,
         "text": "16 mins",
         "total_seconds": 990.403445
@@ -309,134 +319,164 @@
         "hours": 0,
         "minutes": 9,
         "name": "JavaScript",
-        "percent": 1.76,
+        "percent": 1.22,
         "seconds": 24,
         "text": "9 mins",
         "total_seconds": 564.928578
       },
       {
-        "digital": "0:01:59",
+        "digital": "0:06:32",
         "hours": 0,
-        "minutes": 1,
-        "name": "JSON",
-        "percent": 0.37,
-        "seconds": 59,
-        "text": "1 min",
-        "total_seconds": 119.00501
+        "minutes": 6,
+        "name": "Markdown",
+        "percent": 0.84,
+        "seconds": 32,
+        "text": "6 mins",
+        "total_seconds": 392.033495
       },
       {
-        "digital": "0:01:17",
+        "digital": "0:03:48",
         "hours": 0,
-        "minutes": 1,
-        "name": "Markdown",
-        "percent": 0.24,
-        "seconds": 17,
-        "text": "1 min",
-        "total_seconds": 77.466718
+        "minutes": 3,
+        "name": "HTML",
+        "percent": 0.49,
+        "seconds": 48,
+        "text": "3 mins",
+        "total_seconds": 228.996657
+      },
+      {
+        "digital": "0:02:00",
+        "hours": 0,
+        "minutes": 2,
+        "name": "JSON",
+        "percent": 0.26,
+        "seconds": 0,
+        "text": "2 mins",
+        "total_seconds": 120.057727
       }
     ],
     "machines": [
       {
-        "digital": "8:54:24",
-        "hours": 8,
+        "digital": "12:53:43",
+        "hours": 12,
         "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
-        "minutes": 54,
+        "minutes": 53,
         "name": "bluetooths-macbook-pro.local",
         "percent": 100,
-        "seconds": 24,
-        "text": "8 hrs 54 mins",
-        "total_seconds": 32064.765439
+        "seconds": 43,
+        "text": "12 hrs 53 mins",
+        "total_seconds": 46423.999741
       }
     ],
     "operating_systems": [
       {
-        "digital": "8:54:24",
-        "hours": 8,
-        "minutes": 54,
+        "digital": "12:53:43",
+        "hours": 12,
+        "minutes": 53,
         "name": "Mac",
         "percent": 100,
-        "seconds": 24,
-        "text": "8 hrs 54 mins",
-        "total_seconds": 32064.765439
+        "seconds": 43,
+        "text": "12 hrs 53 mins",
+        "total_seconds": 46423.999741
       }
     ],
     "projects": [
       {
-        "digital": "3:14:47",
+        "digital": "3:42:19",
         "hours": 3,
-        "minutes": 14,
+        "minutes": 42,
         "name": "Terminal",
-        "percent": 36.45,
-        "seconds": 47,
-        "text": "3 hrs 14 mins",
-        "total_seconds": 11687.372755
+        "percent": 28.73,
+        "seconds": 19,
+        "text": "3 hrs 42 mins",
+        "total_seconds": 13339.886901
       },
       {
-        "digital": "2:44:32",
+        "digital": "3:11:57",
+        "hours": 3,
+        "minutes": 11,
+        "name": "til",
+        "percent": 24.81,
+        "seconds": 57,
+        "text": "3 hrs 11 mins",
+        "total_seconds": 11517.310363
+      },
+      {
+        "digital": "2:48:12",
         "hours": 2,
-        "minutes": 44,
+        "minutes": 48,
         "name": "oil",
-        "percent": 30.79,
-        "seconds": 32,
-        "text": "2 hrs 44 mins",
-        "total_seconds": 9872.587118
+        "percent": 21.74,
+        "seconds": 12,
+        "text": "2 hrs 48 mins",
+        "total_seconds": 10092.786237
       },
       {
-        "digital": "1:23:47",
+        "digital": "1:36:04",
         "hours": 1,
-        "minutes": 23,
+        "minutes": 36,
         "name": "zet",
-        "percent": 15.68,
-        "seconds": 47,
-        "text": "1 hr 23 mins",
-        "total_seconds": 5027.892194
+        "percent": 12.42,
+        "seconds": 4,
+        "text": "1 hr 36 mins",
+        "total_seconds": 5764.600106
       },
       {
-        "digital": "1:10:40",
+        "digital": "1:10:41",
         "hours": 1,
         "minutes": 10,
         "name": "pond",
-        "percent": 13.22,
-        "seconds": 40,
+        "percent": 9.14,
+        "seconds": 41,
         "text": "1 hr 10 mins",
-        "total_seconds": 4240.167592
+        "total_seconds": 4241.220309
       },
       {
         "digital": "0:16:30",
         "hours": 0,
         "minutes": 16,
         "name": "Unknown Project",
-        "percent": 3.09,
+        "percent": 2.13,
         "seconds": 30,
         "text": "16 mins",
         "total_seconds": 990.403445
+      },
+      {
+        "digital": "0:03:11",
+        "hours": 0,
+        "minutes": 3,
+        "name": "blog-code",
+        "percent": 0.41,
+        "seconds": 11,
+        "text": "3 mins",
+        "total_seconds": 191.941569
       },
       {
         "digital": "0:02:09",
         "hours": 0,
         "minutes": 2,
         "name": "ProductHunt-scraper",
-        "percent": 0.4,
+        "percent": 0.28,
         "seconds": 9,
         "text": "2 mins",
         "total_seconds": 129.078239
       },
       {
-        "digital": "0:01:18",
+        "digital": "0:01:58",
         "hours": 0,
         "minutes": 1,
         "name": "orbit",
-        "percent": 0.25,
-        "seconds": 18,
+        "percent": 0.26,
+        "seconds": 58,
         "text": "1 min",
-        "total_seconds": 78.892343
+        "total_seconds": 118.400819
       },
       {
         "digital": "0:00:36",
         "hours": 0,
         "minutes": 0,
         "name": "new-module",
-        "percent": 0.11,
+        "percent": 0.08,
         "seconds": 36,
         "text": "36 secs",
         "total_seconds": 36.169995
@@ -446,7 +486,7 @@
         "hours": 0,
         "minutes": 0,
         "name": "216a46aec31cec19a95f91adfe929bf2",
-        "percent": 0.01,
+        "percent": 0,
         "seconds": 2,
         "text": "2 secs",
         "total_seconds": 2.201758
@@ -456,7 +496,7 @@
       "date": "2021-01-16",
       "end": "2021-01-17T07:59:59Z",
       "start": "2021-01-16T08:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Los_Angeles"
     }
   }
