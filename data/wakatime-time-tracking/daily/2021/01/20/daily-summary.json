@@ -1,24 +1,252 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "digital": "3:38:08",
+        "hours": 3,
+        "minutes": 38,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 8,
+        "text": "3 hrs 38 mins",
+        "total_seconds": 13088.473378
+      }
+    ],
+    "dependencies": [
+      {
+        "digital": "0:01:35",
+        "hours": 0,
+        "minutes": 1,
+        "name": "\"https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js\"",
+        "percent": 100,
+        "seconds": 35,
+        "text": "1 min",
+        "total_seconds": 95.081702
+      }
+    ],
+    "editors": [
+      {
+        "digital": "2:46:05",
+        "hours": 2,
+        "minutes": 46,
+        "name": "Zsh",
+        "percent": 76.14,
+        "seconds": 5,
+        "text": "2 hrs 46 mins",
+        "total_seconds": 9965.744315
+      },
+      {
+        "digital": "0:52:02",
+        "hours": 0,
+        "minutes": 52,
+        "name": "Vim",
+        "percent": 23.86,
+        "seconds": 2,
+        "text": "52 mins",
+        "total_seconds": 3122.729063
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "3:38",
+      "hours": 3,
+      "minutes": 38,
+      "text": "3 hrs 38 mins",
+      "total_seconds": 13088.473378
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "2:46:05",
+        "hours": 2,
+        "minutes": 46,
+        "name": "sh",
+        "percent": 76.14,
+        "seconds": 5,
+        "text": "2 hrs 46 mins",
+        "total_seconds": 9965.744315
+      },
+      {
+        "digital": "0:17:30",
+        "hours": 0,
+        "minutes": 17,
+        "name": "HTML",
+        "percent": 8.02,
+        "seconds": 30,
+        "text": "17 mins",
+        "total_seconds": 1050.1834
+      },
+      {
+        "digital": "0:16:33",
+        "hours": 0,
+        "minutes": 16,
+        "name": "Other",
+        "percent": 7.59,
+        "seconds": 33,
+        "text": "16 mins",
+        "total_seconds": 993.255146
+      },
+      {
+        "digital": "0:15:45",
+        "hours": 0,
+        "minutes": 15,
+        "name": "JSON",
+        "percent": 7.22,
+        "seconds": 45,
+        "text": "15 mins",
+        "total_seconds": 945.392765
+      },
+      {
+        "digital": "0:00:55",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 0.42,
+        "seconds": 55,
+        "text": "55 secs",
+        "total_seconds": 55.154232
+      },
+      {
+        "digital": "0:00:41",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Crontab",
+        "percent": 0.31,
+        "seconds": 41,
+        "text": "41 secs",
+        "total_seconds": 41.186456
+      },
+      {
+        "digital": "0:00:37",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Git",
+        "percent": 0.29,
+        "seconds": 37,
+        "text": "37 secs",
+        "total_seconds": 37.557064
+      }
+    ],
+    "machines": [
+      {
+        "digital": "3:38:08",
+        "hours": 3,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 38,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 8,
+        "text": "3 hrs 38 mins",
+        "total_seconds": 13088.473378
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "3:38:08",
+        "hours": 3,
+        "minutes": 38,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 8,
+        "text": "3 hrs 38 mins",
+        "total_seconds": 13088.473378
+      }
+    ],
+    "projects": [
+      {
+        "digital": "1:40:48",
+        "hours": 1,
+        "minutes": 40,
+        "name": "Terminal",
+        "percent": 46.22,
+        "seconds": 48,
+        "text": "1 hr 40 mins",
+        "total_seconds": 6048.862644
+      },
+      {
+        "digital": "0:32:59",
+        "hours": 0,
+        "minutes": 32,
+        "name": "Unknown Project",
+        "percent": 15.13,
+        "seconds": 59,
+        "text": "32 mins",
+        "total_seconds": 1979.834367
+      },
+      {
+        "digital": "0:24:48",
+        "hours": 0,
+        "minutes": 24,
+        "name": "orbit",
+        "percent": 11.37,
+        "seconds": 48,
+        "text": "24 mins",
+        "total_seconds": 1488.434079
+      },
+      {
+        "digital": "0:24:10",
+        "hours": 0,
+        "minutes": 24,
+        "name": "Anime-Girls-Holding-Programming-Books",
+        "percent": 11.08,
+        "seconds": 10,
+        "text": "24 mins",
+        "total_seconds": 1450.144184
+      },
+      {
+        "digital": "0:23:49",
+        "hours": 0,
+        "minutes": 23,
+        "name": "til",
+        "percent": 10.92,
+        "seconds": 49,
+        "text": "23 mins",
+        "total_seconds": 1429.387858
+      },
+      {
+        "digital": "0:08:55",
+        "hours": 0,
+        "minutes": 8,
+        "name": "zet",
+        "percent": 4.09,
+        "seconds": 55,
+        "text": "8 mins",
+        "total_seconds": 535.807406
+      },
+      {
+        "digital": "0:01:36",
+        "hours": 0,
+        "minutes": 1,
+        "name": "frece",
+        "percent": 0.74,
+        "seconds": 36,
+        "text": "1 min",
+        "total_seconds": 96.868423
+      },
+      {
+        "digital": "0:00:55",
+        "hours": 0,
+        "minutes": 0,
+        "name": ".zsh.d",
+        "percent": 0.42,
+        "seconds": 55,
+        "text": "55 secs",
+        "total_seconds": 55.31702
+      },
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "cli",
+        "percent": 0.03,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.817397
+      }
+    ],
     "range": {
       "date": "2021-01-20",
       "end": "2021-01-21T07:59:59Z",
       "start": "2021-01-20T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
