@@ -1,24 +1,372 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "digital": "7:28:49",
+        "hours": 7,
+        "minutes": 28,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 49,
+        "text": "7 hrs 28 mins",
+        "total_seconds": 26929.167392
+      }
+    ],
+    "dependencies": [
+      {
+        "digital": "0:16:19",
+        "hours": 0,
+        "minutes": 16,
+        "name": "npm",
+        "percent": 12.42,
+        "seconds": 19,
+        "text": "16 mins",
+        "total_seconds": 979.778857
+      },
+      {
+        "digital": "0:14:33",
+        "hours": 0,
+        "minutes": 14,
+        "name": "parameterize",
+        "percent": 11.08,
+        "seconds": 33,
+        "text": "14 mins",
+        "total_seconds": 873.868785
+      },
+      {
+        "digital": "0:14:33",
+        "hours": 0,
+        "minutes": 14,
+        "name": "axios",
+        "percent": 11.08,
+        "seconds": 33,
+        "text": "14 mins",
+        "total_seconds": 873.868785
+      },
+      {
+        "digital": "0:14:33",
+        "hours": 0,
+        "minutes": 14,
+        "name": "yargs",
+        "percent": 11.08,
+        "seconds": 33,
+        "text": "14 mins",
+        "total_seconds": 873.868785
+      },
+      {
+        "digital": "0:14:33",
+        "hours": 0,
+        "minutes": 14,
+        "name": "chalk",
+        "percent": 11.08,
+        "seconds": 33,
+        "text": "14 mins",
+        "total_seconds": 873.868785
+      },
+      {
+        "digital": "0:14:33",
+        "hours": 0,
+        "minutes": 14,
+        "name": "mime",
+        "percent": 11.08,
+        "seconds": 33,
+        "text": "14 mins",
+        "total_seconds": 873.868785
+      },
+      {
+        "digital": "0:14:33",
+        "hours": 0,
+        "minutes": 14,
+        "name": "ramda",
+        "percent": 11.08,
+        "seconds": 33,
+        "text": "14 mins",
+        "total_seconds": 873.868785
+      },
+      {
+        "digital": "0:14:33",
+        "hours": 0,
+        "minutes": 14,
+        "name": "np",
+        "percent": 11.08,
+        "seconds": 33,
+        "text": "14 mins",
+        "total_seconds": 873.868785
+      },
+      {
+        "digital": "0:05:29",
+        "hours": 0,
+        "minutes": 5,
+        "name": "make-dir",
+        "percent": 4.17,
+        "seconds": 29,
+        "text": "5 mins",
+        "total_seconds": 329.343903
+      },
+      {
+        "digital": "0:05:27",
+        "hours": 0,
+        "minutes": 5,
+        "name": "update-notifier",
+        "percent": 4.15,
+        "seconds": 27,
+        "text": "5 mins",
+        "total_seconds": 327.749468
+      },
+      {
+        "digital": "0:01:45",
+        "hours": 0,
+        "minutes": 1,
+        "name": "choo",
+        "percent": 1.34,
+        "seconds": 45,
+        "text": "1 min",
+        "total_seconds": 105.910072
+      },
+      {
+        "digital": "0:00:29",
+        "hours": 0,
+        "minutes": 0,
+        "name": "\"static/script.js\"",
+        "percent": 0.37,
+        "seconds": 29,
+        "text": "29 secs",
+        "total_seconds": 29.519952
+      }
+    ],
+    "editors": [
+      {
+        "digital": "5:01:33",
+        "hours": 5,
+        "minutes": 1,
+        "name": "Zsh",
+        "percent": 67.19,
+        "seconds": 33,
+        "text": "5 hrs 1 min",
+        "total_seconds": 18093.034245
+      },
+      {
+        "digital": "2:27:16",
+        "hours": 2,
+        "minutes": 27,
+        "name": "Vim",
+        "percent": 32.81,
+        "seconds": 16,
+        "text": "2 hrs 27 mins",
+        "total_seconds": 8836.133147
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "7:28",
+      "hours": 7,
+      "minutes": 28,
+      "text": "7 hrs 28 mins",
+      "total_seconds": 26929.167392
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "5:01:33",
+        "hours": 5,
+        "minutes": 1,
+        "name": "sh",
+        "percent": 67.19,
+        "seconds": 33,
+        "text": "5 hrs 1 min",
+        "total_seconds": 18093.034245
+      },
+      {
+        "digital": "1:48:44",
+        "hours": 1,
+        "minutes": 48,
+        "name": "JavaScript",
+        "percent": 24.23,
+        "seconds": 44,
+        "text": "1 hr 48 mins",
+        "total_seconds": 6524.115287
+      },
+      {
+        "digital": "0:16:19",
+        "hours": 0,
+        "minutes": 16,
+        "name": "JSON",
+        "percent": 3.64,
+        "seconds": 19,
+        "text": "16 mins",
+        "total_seconds": 979.778857
+      },
+      {
+        "digital": "0:15:02",
+        "hours": 0,
+        "minutes": 15,
+        "name": "Other",
+        "percent": 3.35,
+        "seconds": 2,
+        "text": "15 mins",
+        "total_seconds": 902.121452
+      },
+      {
+        "digital": "0:05:33",
+        "hours": 0,
+        "minutes": 5,
+        "name": "Markdown",
+        "percent": 1.24,
+        "seconds": 33,
+        "text": "5 mins",
+        "total_seconds": 333.403345
+      },
+      {
+        "digital": "0:00:46",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Nginx configuration file",
+        "percent": 0.17,
+        "seconds": 46,
+        "text": "46 secs",
+        "total_seconds": 46.019867
+      },
+      {
+        "digital": "0:00:29",
+        "hours": 0,
+        "minutes": 0,
+        "name": "HTML",
+        "percent": 0.11,
+        "seconds": 29,
+        "text": "29 secs",
+        "total_seconds": 29.519952
+      },
+      {
+        "digital": "0:00:21",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 0.08,
+        "seconds": 21,
+        "text": "21 secs",
+        "total_seconds": 21.174387
+      }
+    ],
+    "machines": [
+      {
+        "digital": "7:28:49",
+        "hours": 7,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 28,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 49,
+        "text": "7 hrs 28 mins",
+        "total_seconds": 26929.167392
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "7:28:49",
+        "hours": 7,
+        "minutes": 28,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 49,
+        "text": "7 hrs 28 mins",
+        "total_seconds": 26929.167392
+      }
+    ],
+    "projects": [
+      {
+        "digital": "4:34:32",
+        "hours": 4,
+        "minutes": 34,
+        "name": "arena-chan-dl",
+        "percent": 61.17,
+        "seconds": 32,
+        "text": "4 hrs 34 mins",
+        "total_seconds": 16472.038797
+      },
+      {
+        "digital": "1:35:16",
+        "hours": 1,
+        "minutes": 35,
+        "name": "Terminal",
+        "percent": 21.23,
+        "seconds": 16,
+        "text": "1 hr 35 mins",
+        "total_seconds": 5716.986013
+      },
+      {
+        "digital": "0:21:11",
+        "hours": 0,
+        "minutes": 21,
+        "name": "orbit",
+        "percent": 4.72,
+        "seconds": 11,
+        "text": "21 mins",
+        "total_seconds": 1271.125815
+      },
+      {
+        "digital": "0:21:05",
+        "hours": 0,
+        "minutes": 21,
+        "name": "there.am",
+        "percent": 4.7,
+        "seconds": 5,
+        "text": "21 mins",
+        "total_seconds": 1265.850204
+      },
+      {
+        "digital": "0:17:07",
+        "hours": 0,
+        "minutes": 17,
+        "name": "arena-js",
+        "percent": 3.81,
+        "seconds": 7,
+        "text": "17 mins",
+        "total_seconds": 1027.098118
+      },
+      {
+        "digital": "0:16:09",
+        "hours": 0,
+        "minutes": 16,
+        "name": "Unknown Project",
+        "percent": 3.6,
+        "seconds": 9,
+        "text": "16 mins",
+        "total_seconds": 969.315706
+      },
+      {
+        "digital": "0:01:54",
+        "hours": 0,
+        "minutes": 1,
+        "name": "update-notifier",
+        "percent": 0.43,
+        "seconds": 54,
+        "text": "1 min",
+        "total_seconds": 114.954007
+      },
+      {
+        "digital": "0:01:23",
+        "hours": 0,
+        "minutes": 1,
+        "name": "zet",
+        "percent": 0.31,
+        "seconds": 23,
+        "text": "1 min",
+        "total_seconds": 83.244657
+      },
+      {
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "spotify-archive",
+        "percent": 0.03,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.554075
+      }
+    ],
     "range": {
       "date": "2021-01-22",
       "end": "2021-01-23T07:59:59Z",
       "start": "2021-01-22T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
