@@ -37,7 +37,17 @@
         "digital": "0:14:33",
         "hours": 0,
         "minutes": 14,
-        "name": "axios",
+        "name": "chalk",
+        "percent": 11.08,
+        "seconds": 33,
+        "text": "14 mins",
+        "total_seconds": 873.868785
+      },
+      {
+        "digital": "0:14:33",
+        "hours": 0,
+        "minutes": 14,
+        "name": "ramda",
         "percent": 11.08,
         "seconds": 33,
         "text": "14 mins",
@@ -57,7 +67,7 @@
         "digital": "0:14:33",
         "hours": 0,
         "minutes": 14,
-        "name": "chalk",
+        "name": "axios",
         "percent": 11.08,
         "seconds": 33,
         "text": "14 mins",
@@ -68,16 +78,6 @@
         "hours": 0,
         "minutes": 14,
         "name": "mime",
-        "percent": 11.08,
-        "seconds": 33,
-        "text": "14 mins",
-        "total_seconds": 873.868785
-      },
-      {
-        "digital": "0:14:33",
-        "hours": 0,
-        "minutes": 14,
-        "name": "ramda",
         "percent": 11.08,
         "seconds": 33,
         "text": "14 mins",
@@ -366,7 +366,7 @@
       "date": "2021-01-22",
       "end": "2021-01-23T07:59:59Z",
       "start": "2021-01-22T08:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Los_Angeles"
     }
   }
