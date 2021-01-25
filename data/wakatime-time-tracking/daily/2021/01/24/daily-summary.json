@@ -1,24 +1,101 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:26:21",
+        "hours": 0,
+        "minutes": 26,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 21,
+        "text": "26 mins",
+        "total_seconds": 1581.584861
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:26:21",
+        "hours": 0,
+        "minutes": 26,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 21,
+        "text": "26 mins",
+        "total_seconds": 1581.584861
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:26",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 26,
+      "text": "26 mins",
+      "total_seconds": 1581.584861
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:26:21",
+        "hours": 0,
+        "minutes": 26,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 21,
+        "text": "26 mins",
+        "total_seconds": 1581.584861
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:26:21",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 26,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 21,
+        "text": "26 mins",
+        "total_seconds": 1581.584861
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:26:21",
+        "hours": 0,
+        "minutes": 26,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 21,
+        "text": "26 mins",
+        "total_seconds": 1581.584861
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:26:10",
+        "hours": 0,
+        "minutes": 26,
+        "name": "Terminal",
+        "percent": 99.31,
+        "seconds": 10,
+        "text": "26 mins",
+        "total_seconds": 1570.652634
+      },
+      {
+        "digital": "0:00:10",
+        "hours": 0,
+        "minutes": 0,
+        "name": "zet",
+        "percent": 0.69,
+        "seconds": 10,
+        "text": "10 secs",
+        "total_seconds": 10.932227
+      }
+    ],
     "range": {
       "date": "2021-01-24",
       "end": "2021-01-25T07:59:59Z",
       "start": "2021-01-24T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
