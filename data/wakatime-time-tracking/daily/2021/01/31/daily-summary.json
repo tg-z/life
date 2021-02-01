@@ -1,24 +1,171 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "1:23:17",
+        "hours": 1,
+        "minutes": 23,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 17,
+        "text": "1 hr 23 mins",
+        "total_seconds": 4997.067115
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "1:12:40",
+        "hours": 1,
+        "minutes": 12,
+        "name": "Zsh",
+        "percent": 87.26,
+        "seconds": 40,
+        "text": "1 hr 12 mins",
+        "total_seconds": 4360.535594
+      },
+      {
+        "digital": "0:10:36",
+        "hours": 0,
+        "minutes": 10,
+        "name": "Vim",
+        "percent": 12.74,
+        "seconds": 36,
+        "text": "10 mins",
+        "total_seconds": 636.531521
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "1:23",
+      "hours": 1,
+      "minutes": 23,
+      "text": "1 hr 23 mins",
+      "total_seconds": 4997.067115
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "1:12:40",
+        "hours": 1,
+        "minutes": 12,
+        "name": "sh",
+        "percent": 87.26,
+        "seconds": 40,
+        "text": "1 hr 12 mins",
+        "total_seconds": 4360.535594
+      },
+      {
+        "digital": "0:10:36",
+        "hours": 0,
+        "minutes": 10,
+        "name": "Markdown",
+        "percent": 12.74,
+        "seconds": 36,
+        "text": "10 mins",
+        "total_seconds": 636.531521
+      }
+    ],
+    "machines": [
+      {
+        "digital": "1:23:17",
+        "hours": 1,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 23,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 17,
+        "text": "1 hr 23 mins",
+        "total_seconds": 4997.067115
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "1:23:17",
+        "hours": 1,
+        "minutes": 23,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 17,
+        "text": "1 hr 23 mins",
+        "total_seconds": 4997.067115
+      }
+    ],
+    "projects": [
+      {
+        "digital": "1:08:04",
+        "hours": 1,
+        "minutes": 8,
+        "name": "Terminal",
+        "percent": 81.73,
+        "seconds": 4,
+        "text": "1 hr 8 mins",
+        "total_seconds": 4084.28447
+      },
+      {
+        "digital": "0:10:36",
+        "hours": 0,
+        "minutes": 10,
+        "name": "zet",
+        "percent": 12.74,
+        "seconds": 36,
+        "text": "10 mins",
+        "total_seconds": 636.531521
+      },
+      {
+        "digital": "0:02:06",
+        "hours": 0,
+        "minutes": 2,
+        "name": "pocket-cli",
+        "percent": 2.53,
+        "seconds": 6,
+        "text": "2 mins",
+        "total_seconds": 126.318807
+      },
+      {
+        "digital": "0:01:10",
+        "hours": 0,
+        "minutes": 1,
+        "name": "deneir",
+        "percent": 1.41,
+        "seconds": 10,
+        "text": "1 min",
+        "total_seconds": 70.211328
+      },
+      {
+        "digital": "0:01:05",
+        "hours": 0,
+        "minutes": 1,
+        "name": "files2details",
+        "percent": 1.3,
+        "seconds": 5,
+        "text": "1 min",
+        "total_seconds": 65.156912
+      },
+      {
+        "digital": "0:00:07",
+        "hours": 0,
+        "minutes": 0,
+        "name": "scripts",
+        "percent": 0.16,
+        "seconds": 7,
+        "text": "7 secs",
+        "total_seconds": 7.774199
+      },
+      {
+        "digital": "0:00:06",
+        "hours": 0,
+        "minutes": 0,
+        "name": "life",
+        "percent": 0.14,
+        "seconds": 6,
+        "text": "6 secs",
+        "total_seconds": 6.789878
+      }
+    ],
     "range": {
       "date": "2021-01-31",
       "end": "2021-02-01T07:59:59Z",
       "start": "2021-01-31T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
