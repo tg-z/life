@@ -1,24 +1,101 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:38:39",
+        "hours": 0,
+        "minutes": 38,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 39,
+        "text": "38 mins",
+        "total_seconds": 2319.493666
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:38:39",
+        "hours": 0,
+        "minutes": 38,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 39,
+        "text": "38 mins",
+        "total_seconds": 2319.493666
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:38",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 38,
+      "text": "38 mins",
+      "total_seconds": 2319.493666
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:38:39",
+        "hours": 0,
+        "minutes": 38,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 39,
+        "text": "38 mins",
+        "total_seconds": 2319.493666
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:38:39",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 38,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 39,
+        "text": "38 mins",
+        "total_seconds": 2319.493666
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:38:39",
+        "hours": 0,
+        "minutes": 38,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 39,
+        "text": "38 mins",
+        "total_seconds": 2319.493666
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:38:19",
+        "hours": 0,
+        "minutes": 38,
+        "name": "Terminal",
+        "percent": 99.13,
+        "seconds": 19,
+        "text": "38 mins",
+        "total_seconds": 2299.419179
+      },
+      {
+        "digital": "0:00:20",
+        "hours": 0,
+        "minutes": 0,
+        "name": "spotify-archive",
+        "percent": 0.87,
+        "seconds": 20,
+        "text": "20 secs",
+        "total_seconds": 20.074487
+      }
+    ],
     "range": {
       "date": "2021-02-06",
       "end": "2021-02-07T07:59:59Z",
       "start": "2021-02-06T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
