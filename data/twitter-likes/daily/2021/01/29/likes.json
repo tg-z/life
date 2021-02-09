@@ -44,16 +44,16 @@
         }
       },
       "protected": true,
-      "followers_count": 2991,
-      "friends_count": 2054,
+      "followers_count": 2989,
+      "friends_count": 2055,
       "listed_count": 51,
       "created_at": "Sun May 07 07:13:50 +0000 2017",
-      "favourites_count": 90268,
+      "favourites_count": 90287,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 12935,
+      "statuses_count": 12934,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -248,16 +248,16 @@
         }
       },
       "protected": false,
-      "followers_count": 4904,
-      "friends_count": 770,
-      "listed_count": 4,
+      "followers_count": 4962,
+      "friends_count": 777,
+      "listed_count": 0,
       "created_at": "Sun Sep 27 18:35:28 +0000 2020",
-      "favourites_count": 1265,
+      "favourites_count": 1280,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 1555,
+      "statuses_count": 1570,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -287,11 +287,166 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 17410,
-    "favorite_count": 141018,
+    "retweet_count": 17400,
+    "favorite_count": 140951,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 29 06:56:17 +0000 2021",
+    "id": 1355047095514763300,
+    "id_str": "1355047095514763270",
+    "text": "at least i know i have somewhere to go and i don’t have to keep living at my parents house i’m so happy https://t.co/aZVu9RBRmX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1355047092062875600,
+          "id_str": "1355047092062875649",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/Es4YJqBVcAEQYjP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Es4YJqBVcAEQYjP.jpg",
+          "url": "https://t.co/aZVu9RBRmX",
+          "display_url": "pic.twitter.com/aZVu9RBRmX",
+          "expanded_url": "https://twitter.com/toadcummies/status/1355047095514763270/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1355047092062875600,
+          "id_str": "1355047092062875649",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/Es4YJqBVcAEQYjP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Es4YJqBVcAEQYjP.jpg",
+          "url": "https://t.co/aZVu9RBRmX",
+          "display_url": "pic.twitter.com/aZVu9RBRmX",
+          "expanded_url": "https://twitter.com/toadcummies/status/1355047095514763270/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1243280352874877000,
+      "id_str": "1243280352874876928",
+      "name": "ok",
+      "screen_name": "toadcummies",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": true,
+      "followers_count": 18,
+      "friends_count": 67,
+      "listed_count": 0,
+      "created_at": "Thu Mar 26 20:55:18 +0000 2020",
+      "favourites_count": 411,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 517,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1248496488906231808/j-5Zb9_1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248496488906231808/j-5Zb9_1_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": true,
     "lang": "en"
   }
 ]
