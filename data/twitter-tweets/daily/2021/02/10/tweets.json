@@ -1,33 +1,22 @@
 [
   {
-    "created_at": "Sun Feb 07 21:01:56 +0000 2021",
-    "id": 1358521398080114700,
-    "id_str": "1358521398080114688",
-    "text": "@lilpearlita I wish it was longer",
+    "created_at": "Wed Feb 10 00:03:40 +0000 2021",
+    "id": 1359291909898965000,
+    "id_str": "1359291909898964992",
+    "text": "i love the crow",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "lilpearlita",
-          "name": "𝖕𝖜𝖎𝖓𝖈𝖊𝖘𝖘",
-          "id": 955275587995631600,
-          "id_str": "955275587995631616",
-          "indices": [
-            0,
-            12
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1358479741687197700,
-    "in_reply_to_status_id_str": "1358479741687197696",
-    "in_reply_to_user_id": 955275587995631600,
-    "in_reply_to_user_id_str": "955275587995631616",
-    "in_reply_to_screen_name": "lilpearlita",
+    "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "user": {
       "id": 2902176888,
       "id_str": "2902176888",
@@ -95,7 +84,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "en"
