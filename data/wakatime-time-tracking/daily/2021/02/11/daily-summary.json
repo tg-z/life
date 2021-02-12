@@ -1,24 +1,222 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "digital": "6:33:08",
+        "hours": 6,
+        "minutes": 33,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 8,
+        "text": "6 hrs 33 mins",
+        "total_seconds": 23588.803933
+      }
+    ],
+    "dependencies": [
+      {
+        "digital": "0:55:40",
+        "hours": 0,
+        "minutes": 55,
+        "name": "promnesia",
+        "percent": 96.29,
+        "seconds": 40,
+        "text": "55 mins",
+        "total_seconds": 3340.535461
+      },
+      {
+        "digital": "0:01:04",
+        "hours": 0,
+        "minutes": 1,
+        "name": "\"https://unpkg.com/@highlightjs/cdn-assets@10.5.0/highlight.min.js\"",
+        "percent": 1.86,
+        "seconds": 4,
+        "text": "1 min",
+        "total_seconds": 64.407474
+      },
+      {
+        "digital": "0:01:04",
+        "hours": 0,
+        "minutes": 1,
+        "name": "\"https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js\"",
+        "percent": 1.86,
+        "seconds": 4,
+        "text": "1 min",
+        "total_seconds": 64.407474
+      }
+    ],
+    "editors": [
+      {
+        "digital": "5:03:26",
+        "hours": 5,
+        "minutes": 3,
+        "name": "Zsh",
+        "percent": 77.18,
+        "seconds": 26,
+        "text": "5 hrs 3 mins",
+        "total_seconds": 18206.253925
+      },
+      {
+        "digital": "1:29:42",
+        "hours": 1,
+        "minutes": 29,
+        "name": "Vim",
+        "percent": 22.82,
+        "seconds": 42,
+        "text": "1 hr 29 mins",
+        "total_seconds": 5382.550008
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "6:33",
+      "hours": 6,
+      "minutes": 33,
+      "text": "6 hrs 33 mins",
+      "total_seconds": 23588.803933
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "5:03:26",
+        "hours": 5,
+        "minutes": 3,
+        "name": "sh",
+        "percent": 77.18,
+        "seconds": 26,
+        "text": "5 hrs 3 mins",
+        "total_seconds": 18206.253925
+      },
+      {
+        "digital": "0:55:40",
+        "hours": 0,
+        "minutes": 55,
+        "name": "Python",
+        "percent": 14.16,
+        "seconds": 40,
+        "text": "55 mins",
+        "total_seconds": 3340.535461
+      },
+      {
+        "digital": "0:26:37",
+        "hours": 0,
+        "minutes": 26,
+        "name": "Other",
+        "percent": 6.77,
+        "seconds": 37,
+        "text": "26 mins",
+        "total_seconds": 1597.935162
+      },
+      {
+        "digital": "0:03:50",
+        "hours": 0,
+        "minutes": 3,
+        "name": "JavaScript",
+        "percent": 0.98,
+        "seconds": 50,
+        "text": "3 mins",
+        "total_seconds": 230.1449
+      },
+      {
+        "digital": "0:02:29",
+        "hours": 0,
+        "minutes": 2,
+        "name": "VimL",
+        "percent": 0.63,
+        "seconds": 29,
+        "text": "2 mins",
+        "total_seconds": 149.527011
+      },
+      {
+        "digital": "0:01:04",
+        "hours": 0,
+        "minutes": 1,
+        "name": "EJS",
+        "percent": 0.27,
+        "seconds": 4,
+        "text": "1 min",
+        "total_seconds": 64.407474
+      }
+    ],
+    "machines": [
+      {
+        "digital": "6:33:08",
+        "hours": 6,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 33,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 8,
+        "text": "6 hrs 33 mins",
+        "total_seconds": 23588.803933
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "6:33:08",
+        "hours": 6,
+        "minutes": 33,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 8,
+        "text": "6 hrs 33 mins",
+        "total_seconds": 23588.803933
+      }
+    ],
+    "projects": [
+      {
+        "digital": "4:53:26",
+        "hours": 4,
+        "minutes": 53,
+        "name": "Terminal",
+        "percent": 74.64,
+        "seconds": 26,
+        "text": "4 hrs 53 mins",
+        "total_seconds": 17606.207158
+      },
+      {
+        "digital": "1:24:47",
+        "hours": 1,
+        "minutes": 24,
+        "name": "Unknown Project",
+        "percent": 21.57,
+        "seconds": 47,
+        "text": "1 hr 24 mins",
+        "total_seconds": 5087.997634
+      },
+      {
+        "digital": "0:10:09",
+        "hours": 0,
+        "minutes": 10,
+        "name": "til",
+        "percent": 2.59,
+        "seconds": 9,
+        "text": "10 mins",
+        "total_seconds": 609.90757
+      },
+      {
+        "digital": "0:03:13",
+        "hours": 0,
+        "minutes": 3,
+        "name": "spotify-archive",
+        "percent": 0.82,
+        "seconds": 13,
+        "text": "3 mins",
+        "total_seconds": 193.65877
+      },
+      {
+        "digital": "0:01:31",
+        "hours": 0,
+        "minutes": 1,
+        "name": "wikidaily",
+        "percent": 0.39,
+        "seconds": 31,
+        "text": "1 min",
+        "total_seconds": 91.032801
+      }
+    ],
     "range": {
       "date": "2021-02-11",
       "end": "2021-02-12T07:59:59Z",
       "start": "2021-02-11T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
