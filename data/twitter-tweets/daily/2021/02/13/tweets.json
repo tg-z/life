@@ -1,22 +1,33 @@
 [
   {
-    "created_at": "Tue Jan 26 20:56:21 +0000 2021",
-    "id": 1354171342472368000,
-    "id_str": "1354171342472368129",
-    "text": "She doesn't know what she's missing",
+    "created_at": "Sat Feb 13 03:10:22 +0000 2021",
+    "id": 1360426059561193500,
+    "id_str": "1360426059561193475",
+    "text": "@2000Myspace Relatable",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "2000Myspace",
+          "name": "sanguine",
+          "id": 1002818771206017000,
+          "id_str": "1002818771206017025",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1360100166120865800,
+    "in_reply_to_status_id_str": "1360100166120865793",
+    "in_reply_to_user_id": 1002818771206017000,
+    "in_reply_to_user_id_str": "1002818771206017025",
+    "in_reply_to_screen_name": "2000Myspace",
     "user": {
       "id": 2902176888,
       "id_str": "2902176888",
@@ -84,7 +95,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "en"
