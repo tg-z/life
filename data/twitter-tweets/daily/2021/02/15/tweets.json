@@ -1,15 +1,25 @@
 [
   {
-    "created_at": "Fri Jan 29 02:58:59 +0000 2021",
-    "id": 1354987374300848000,
-    "id_str": "1354987374300848129",
-    "text": "Epic showdown",
+    "created_at": "Mon Feb 15 21:54:27 +0000 2021",
+    "id": 1361433719773552600,
+    "id_str": "1361433719773552646",
+    "text": "fav crunchyroll client - its foss ;) https://t.co/OlrPdLAa0d",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/OlrPdLAa0d",
+          "expanded_url": "https://nani.ninja/",
+          "display_url": "nani.ninja",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
     "in_reply_to_status_id": null,
@@ -84,9 +94,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "en"
   }
 ]
