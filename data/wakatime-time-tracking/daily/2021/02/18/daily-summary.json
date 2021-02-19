@@ -1,24 +1,231 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "6:25:45",
+        "hours": 6,
+        "minutes": 25,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 45,
+        "text": "6 hrs 25 mins",
+        "total_seconds": 23145.843161
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "5:13:51",
+        "hours": 5,
+        "minutes": 13,
+        "name": "Zsh",
+        "percent": 81.36,
+        "seconds": 51,
+        "text": "5 hrs 13 mins",
+        "total_seconds": 18831.975739
+      },
+      {
+        "digital": "1:11:53",
+        "hours": 1,
+        "minutes": 11,
+        "name": "Vim",
+        "percent": 18.64,
+        "seconds": 53,
+        "text": "1 hr 11 mins",
+        "total_seconds": 4313.867422
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "6:25",
+      "hours": 6,
+      "minutes": 25,
+      "text": "6 hrs 25 mins",
+      "total_seconds": 23145.843161
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "5:13:51",
+        "hours": 5,
+        "minutes": 13,
+        "name": "sh",
+        "percent": 81.36,
+        "seconds": 51,
+        "text": "5 hrs 13 mins",
+        "total_seconds": 18831.975739
+      },
+      {
+        "digital": "0:38:39",
+        "hours": 0,
+        "minutes": 38,
+        "name": "Markdown",
+        "percent": 10.02,
+        "seconds": 39,
+        "text": "38 mins",
+        "total_seconds": 2319.209553
+      },
+      {
+        "digital": "0:17:48",
+        "hours": 0,
+        "minutes": 17,
+        "name": "Bash",
+        "percent": 4.61,
+        "seconds": 48,
+        "text": "17 mins",
+        "total_seconds": 1068.053291
+      },
+      {
+        "digital": "0:14:48",
+        "hours": 0,
+        "minutes": 14,
+        "name": "VimL",
+        "percent": 3.84,
+        "seconds": 48,
+        "text": "14 mins",
+        "total_seconds": 888.693741
+      },
+      {
+        "digital": "0:00:37",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.16,
+        "seconds": 37,
+        "text": "37 secs",
+        "total_seconds": 37.910837
+      }
+    ],
+    "machines": [
+      {
+        "digital": "6:25:45",
+        "hours": 6,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 25,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 45,
+        "text": "6 hrs 25 mins",
+        "total_seconds": 23145.843161
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "6:25:45",
+        "hours": 6,
+        "minutes": 25,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 45,
+        "text": "6 hrs 25 mins",
+        "total_seconds": 23145.843161
+      }
+    ],
+    "projects": [
+      {
+        "digital": "2:54:36",
+        "hours": 2,
+        "minutes": 54,
+        "name": "zet",
+        "percent": 45.26,
+        "seconds": 36,
+        "text": "2 hrs 54 mins",
+        "total_seconds": 10476.083569
+      },
+      {
+        "digital": "2:26:21",
+        "hours": 2,
+        "minutes": 26,
+        "name": "Terminal",
+        "percent": 37.94,
+        "seconds": 21,
+        "text": "2 hrs 26 mins",
+        "total_seconds": 8781.518346
+      },
+      {
+        "digital": "0:17:48",
+        "hours": 0,
+        "minutes": 17,
+        "name": ".zsh.d",
+        "percent": 4.61,
+        "seconds": 48,
+        "text": "17 mins",
+        "total_seconds": 1068.053291
+      },
+      {
+        "digital": "0:15:26",
+        "hours": 0,
+        "minutes": 15,
+        "name": "Unknown Project",
+        "percent": 4,
+        "seconds": 26,
+        "text": "15 mins",
+        "total_seconds": 926.604578
+      },
+      {
+        "digital": "0:12:10",
+        "hours": 0,
+        "minutes": 12,
+        "name": "Anime-Girls-Holding-Programming-Books",
+        "percent": 3.16,
+        "seconds": 10,
+        "text": "12 mins",
+        "total_seconds": 730.414596
+      },
+      {
+        "digital": "0:12:00",
+        "hours": 0,
+        "minutes": 12,
+        "name": "spotify-archive",
+        "percent": 3.11,
+        "seconds": 0,
+        "text": "12 mins",
+        "total_seconds": 720.83065
+      },
+      {
+        "digital": "0:05:04",
+        "hours": 0,
+        "minutes": 5,
+        "name": "markdown-live-preview",
+        "percent": 1.31,
+        "seconds": 4,
+        "text": "5 mins",
+        "total_seconds": 304.153019
+      },
+      {
+        "digital": "0:01:44",
+        "hours": 0,
+        "minutes": 1,
+        "name": "wikidaily",
+        "percent": 0.45,
+        "seconds": 44,
+        "text": "1 min",
+        "total_seconds": 104.265778
+      },
+      {
+        "digital": "0:00:30",
+        "hours": 0,
+        "minutes": 0,
+        "name": "simple-markdown-showcase",
+        "percent": 0.13,
+        "seconds": 30,
+        "text": "30 secs",
+        "total_seconds": 30.555506
+      },
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Anime4K-rs",
+        "percent": 0.01,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.363828
+      }
+    ],
     "range": {
       "date": "2021-02-18",
       "end": "2021-02-19T07:59:59Z",
       "start": "2021-02-18T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
