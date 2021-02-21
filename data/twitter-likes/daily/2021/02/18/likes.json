@@ -160,7 +160,7 @@
       "protected": false,
       "followers_count": 51784,
       "friends_count": 143,
-      "listed_count": 206,
+      "listed_count": 208,
       "created_at": "Tue Dec 04 07:23:16 +0000 2018",
       "favourites_count": 1664,
       "utc_offset": null,
@@ -197,8 +197,423 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 176,
-    "favorite_count": 1062,
+    "retweet_count": 180,
+    "favorite_count": 1081,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 18 22:25:40 +0000 2021",
+    "id": 1362528738546573300,
+    "id_str": "1362528738546573315",
+    "text": "https://t.co/FAbQrn53gN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1362528735509942300,
+          "id_str": "1362528735509942273",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuisqnxVEAEUzDe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuisqnxVEAEUzDe.jpg",
+          "url": "https://t.co/FAbQrn53gN",
+          "display_url": "pic.twitter.com/FAbQrn53gN",
+          "expanded_url": "https://twitter.com/scumbagdezz/status/1362528738546573315/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 720,
+              "h": 716,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 676,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 716,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1362528735509942300,
+          "id_str": "1362528735509942273",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuisqnxVEAEUzDe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuisqnxVEAEUzDe.jpg",
+          "url": "https://t.co/FAbQrn53gN",
+          "display_url": "pic.twitter.com/FAbQrn53gN",
+          "expanded_url": "https://twitter.com/scumbagdezz/status/1362528738546573315/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 720,
+              "h": 716,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 676,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 716,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 734825669079633900,
+      "id_str": "734825669079633920",
+      "name": "dez",
+      "screen_name": "scumbagdezz",
+      "location": "she|her",
+      "description": "blm|acab",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 11875,
+      "friends_count": 7677,
+      "listed_count": 13,
+      "created_at": "Mon May 23 19:17:46 +0000 2016",
+      "favourites_count": 40489,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 18464,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1347684037259788290/MyScAe6D_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347684037259788290/MyScAe6D_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/734825669079633920/1607495807",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8188,
+    "favorite_count": 37216,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Thu Feb 18 20:55:01 +0000 2021",
+    "id": 1362505924355764200,
+    "id_str": "1362505924355764235",
+    "text": "ask yo boyfriend to read a book out loud to you 😭😭 i want u bitches to see sum",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1266170580690178000,
+      "id_str": "1266170580690178059",
+      "name": "JMurda ♿️🦦(Top 5%)",
+      "screen_name": "4EJMurda",
+      "location": "Welder 👨🏿‍🏭 LL300Mich",
+      "description": "BXG GENERAL 4E 🧡💙 STAY DANGEROUS 9:4",
+      "url": "https://t.co/7F9QbqHkES",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/7F9QbqHkES",
+              "expanded_url": "http://onlyfans.com/onlychapito",
+              "display_url": "onlyfans.com/onlychapito",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3299,
+      "friends_count": 1111,
+      "listed_count": 9,
+      "created_at": "Fri May 29 00:52:55 +0000 2020",
+      "favourites_count": 3260,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4387,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1363260254524497921/rBu8yVF2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1363260254524497921/rBu8yVF2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1266170580690178059/1613350871",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 33362,
+    "favorite_count": 267070,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 18 20:33:20 +0000 2021",
+    "id": 1362500470602834000,
+    "id_str": "1362500470602833921",
+    "text": "they won’t get out of my fucking yard I’m so tired of them https://t.co/cHVZEn4Hrs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1362500464709787600,
+          "id_str": "1362500464709787653",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuiS9C1U4AU0uIG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuiS9C1U4AU0uIG.jpg",
+          "url": "https://t.co/cHVZEn4Hrs",
+          "display_url": "pic.twitter.com/cHVZEn4Hrs",
+          "expanded_url": "https://twitter.com/pollutedmouth/status/1362500470602833921/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1638,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1362500464709787600,
+          "id_str": "1362500464709787653",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuiS9C1U4AU0uIG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuiS9C1U4AU0uIG.jpg",
+          "url": "https://t.co/cHVZEn4Hrs",
+          "display_url": "pic.twitter.com/cHVZEn4Hrs",
+          "expanded_url": "https://twitter.com/pollutedmouth/status/1362500470602833921/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1638,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3253978514,
+      "id_str": "3253978514",
+      "name": "mister snout",
+      "screen_name": "pollutedmouth",
+      "location": "neo-texas",
+      "description": "pay attention",
+      "url": "https://t.co/jfgt6Dx6AG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jfgt6Dx6AG",
+              "expanded_url": "https://boxd.it/oyft",
+              "display_url": "boxd.it/oyft",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 188,
+      "friends_count": 147,
+      "listed_count": 0,
+      "created_at": "Tue Jun 23 20:43:02 +0000 2015",
+      "favourites_count": 6932,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2406,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1161002384665010181/Q7d4X2T1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161002384665010181/Q7d4X2T1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3253978514/1608283581",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 38827,
+    "favorite_count": 294669,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -259,16 +674,16 @@
         }
       },
       "protected": false,
-      "followers_count": 28701,
-      "friends_count": 9720,
-      "listed_count": 7,
+      "followers_count": 28730,
+      "friends_count": 9721,
+      "listed_count": 6,
       "created_at": "Thu Dec 10 21:42:00 +0000 2015",
-      "favourites_count": 16584,
+      "favourites_count": 16603,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 15711,
+      "statuses_count": 15713,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -298,8 +713,98 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 99221,
-    "favorite_count": 574211,
+    "retweet_count": 107404,
+    "favorite_count": 623865,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 18 07:25:23 +0000 2021",
+    "id": 1362302174848422000,
+    "id_str": "1362302174848421888",
+    "text": "Those days when you’re proud of yourself for even taking a shower &gt;&gt;&gt;",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1330322364,
+      "id_str": "1330322364",
+      "name": "Sav",
+      "screen_name": "gunznrosesss",
+      "location": "",
+      "description": "usmc vet | content creator | photographer | cinematographer // she/her",
+      "url": "https://t.co/U9sRjWhe1E",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/U9sRjWhe1E",
+              "expanded_url": "https://msha.ke/weightsnfreedom/",
+              "display_url": "msha.ke/weightsnfreedo…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 24263,
+      "friends_count": 2732,
+      "listed_count": 24,
+      "created_at": "Sat Apr 06 00:18:54 +0000 2013",
+      "favourites_count": 101873,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 47154,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1337016811401842688/unHHaU3__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337016811401842688/unHHaU3__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330322364/1593047809",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 71,
+    "favorite_count": 514,
     "favorited": true,
     "retweeted": false,
     "lang": "en"
