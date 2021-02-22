@@ -1,24 +1,251 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "6:19:16",
+        "hours": 6,
+        "minutes": 19,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 16,
+        "text": "6 hrs 19 mins",
+        "total_seconds": 22756.040689
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "5:09:38",
+        "hours": 5,
+        "minutes": 9,
+        "name": "Zsh",
+        "percent": 81.64,
+        "seconds": 38,
+        "text": "5 hrs 9 mins",
+        "total_seconds": 18578.09635
+      },
+      {
+        "digital": "1:09:37",
+        "hours": 1,
+        "minutes": 9,
+        "name": "Vim",
+        "percent": 18.36,
+        "seconds": 37,
+        "text": "1 hr 9 mins",
+        "total_seconds": 4177.944339
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "6:19",
+      "hours": 6,
+      "minutes": 19,
+      "text": "6 hrs 19 mins",
+      "total_seconds": 22756.040689
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "5:09:38",
+        "hours": 5,
+        "minutes": 9,
+        "name": "sh",
+        "percent": 81.64,
+        "seconds": 38,
+        "text": "5 hrs 9 mins",
+        "total_seconds": 18578.09635
+      },
+      {
+        "digital": "0:56:55",
+        "hours": 0,
+        "minutes": 56,
+        "name": "Markdown",
+        "percent": 15.01,
+        "seconds": 55,
+        "text": "56 mins",
+        "total_seconds": 3415.620841
+      },
+      {
+        "digital": "0:10:53",
+        "hours": 0,
+        "minutes": 10,
+        "name": "CSV",
+        "percent": 2.87,
+        "seconds": 53,
+        "text": "10 mins",
+        "total_seconds": 653.108185
+      },
+      {
+        "digital": "0:01:34",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Other",
+        "percent": 0.42,
+        "seconds": 34,
+        "text": "1 min",
+        "total_seconds": 94.457098
+      },
+      {
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 0.05,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.022433
+      },
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 0.02,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.735782
+      }
+    ],
+    "machines": [
+      {
+        "digital": "6:19:16",
+        "hours": 6,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 19,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 16,
+        "text": "6 hrs 19 mins",
+        "total_seconds": 22756.040689
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "6:19:16",
+        "hours": 6,
+        "minutes": 19,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 16,
+        "text": "6 hrs 19 mins",
+        "total_seconds": 22756.040689
+      }
+    ],
+    "projects": [
+      {
+        "digital": "4:04:11",
+        "hours": 4,
+        "minutes": 4,
+        "name": "Terminal",
+        "percent": 64.39,
+        "seconds": 11,
+        "text": "4 hrs 4 mins",
+        "total_seconds": 14651.79674
+      },
+      {
+        "digital": "1:46:04",
+        "hours": 1,
+        "minutes": 46,
+        "name": "zet",
+        "percent": 27.97,
+        "seconds": 4,
+        "text": "1 hr 46 mins",
+        "total_seconds": 6364.431456
+      },
+      {
+        "digital": "0:11:20",
+        "hours": 0,
+        "minutes": 11,
+        "name": "memex",
+        "percent": 2.99,
+        "seconds": 20,
+        "text": "11 mins",
+        "total_seconds": 680.95508
+      },
+      {
+        "digital": "0:11:19",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Unknown Project",
+        "percent": 2.99,
+        "seconds": 19,
+        "text": "11 mins",
+        "total_seconds": 679.967145
+      },
+      {
+        "digital": "0:02:57",
+        "hours": 0,
+        "minutes": 2,
+        "name": "reaper",
+        "percent": 0.78,
+        "seconds": 57,
+        "text": "2 mins",
+        "total_seconds": 177.089676
+      },
+      {
+        "digital": "0:01:04",
+        "hours": 0,
+        "minutes": 1,
+        "name": "socialreaper",
+        "percent": 0.28,
+        "seconds": 4,
+        "text": "1 min",
+        "total_seconds": 64.765122
+      },
+      {
+        "digital": "0:01:02",
+        "hours": 0,
+        "minutes": 1,
+        "name": "scripts",
+        "percent": 0.27,
+        "seconds": 2,
+        "text": "1 min",
+        "total_seconds": 62.043491
+      },
+      {
+        "digital": "0:00:38",
+        "hours": 0,
+        "minutes": 0,
+        "name": "snap-dl",
+        "percent": 0.17,
+        "seconds": 38,
+        "text": "38 secs",
+        "total_seconds": 38.435553
+      },
+      {
+        "digital": "0:00:14",
+        "hours": 0,
+        "minutes": 0,
+        "name": "hn-history",
+        "percent": 0.06,
+        "seconds": 14,
+        "text": "14 secs",
+        "total_seconds": 14.202055
+      },
+      {
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": "life",
+        "percent": 0.05,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.331938
+      },
+      {
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": ".zsh.d",
+        "percent": 0.05,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.022433
+      }
+    ],
     "range": {
       "date": "2021-02-21",
       "end": "2021-02-22T07:59:59Z",
       "start": "2021-02-21T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
