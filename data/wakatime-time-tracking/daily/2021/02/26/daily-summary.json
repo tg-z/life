@@ -1,24 +1,181 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "5:43:10",
+        "hours": 5,
+        "minutes": 43,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 10,
+        "text": "5 hrs 43 mins",
+        "total_seconds": 20590.214365
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "3:32:46",
+        "hours": 3,
+        "minutes": 32,
+        "name": "Zsh",
+        "percent": 62,
+        "seconds": 46,
+        "text": "3 hrs 32 mins",
+        "total_seconds": 12766.52909
+      },
+      {
+        "digital": "2:10:23",
+        "hours": 2,
+        "minutes": 10,
+        "name": "Vim",
+        "percent": 38,
+        "seconds": 23,
+        "text": "2 hrs 10 mins",
+        "total_seconds": 7823.685275
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "5:43",
+      "hours": 5,
+      "minutes": 43,
+      "text": "5 hrs 43 mins",
+      "total_seconds": 20590.214365
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "3:32:46",
+        "hours": 3,
+        "minutes": 32,
+        "name": "sh",
+        "percent": 62,
+        "seconds": 46,
+        "text": "3 hrs 32 mins",
+        "total_seconds": 12766.52909
+      },
+      {
+        "digital": "2:08:44",
+        "hours": 2,
+        "minutes": 8,
+        "name": "Markdown",
+        "percent": 37.51,
+        "seconds": 44,
+        "text": "2 hrs 8 mins",
+        "total_seconds": 7724.112315
+      },
+      {
+        "digital": "0:00:58",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.28,
+        "seconds": 58,
+        "text": "58 secs",
+        "total_seconds": 58.623046
+      },
+      {
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "YAML",
+        "percent": 0.2,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.949914
+      }
+    ],
+    "machines": [
+      {
+        "digital": "5:43:10",
+        "hours": 5,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 43,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 10,
+        "text": "5 hrs 43 mins",
+        "total_seconds": 20590.214365
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "5:43:10",
+        "hours": 5,
+        "minutes": 43,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 10,
+        "text": "5 hrs 43 mins",
+        "total_seconds": 20590.214365
+      }
+    ],
+    "projects": [
+      {
+        "digital": "3:11:10",
+        "hours": 3,
+        "minutes": 11,
+        "name": "Terminal",
+        "percent": 55.71,
+        "seconds": 10,
+        "text": "3 hrs 11 mins",
+        "total_seconds": 11470.46004
+      },
+      {
+        "digital": "2:29:03",
+        "hours": 2,
+        "minutes": 29,
+        "name": "zet",
+        "percent": 43.43,
+        "seconds": 3,
+        "text": "2 hrs 29 mins",
+        "total_seconds": 8943.204312
+      },
+      {
+        "digital": "0:01:36",
+        "hours": 0,
+        "minutes": 1,
+        "name": "wikidaily",
+        "percent": 0.47,
+        "seconds": 36,
+        "text": "1 min",
+        "total_seconds": 96.113523
+      },
+      {
+        "digital": "0:00:58",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Unknown Project",
+        "percent": 0.28,
+        "seconds": 58,
+        "text": "58 secs",
+        "total_seconds": 58.623046
+      },
+      {
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "gb",
+        "percent": 0.08,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.605074
+      },
+      {
+        "digital": "0:00:06",
+        "hours": 0,
+        "minutes": 0,
+        "name": "gooseberry",
+        "percent": 0.03,
+        "seconds": 6,
+        "text": "6 secs",
+        "total_seconds": 6.20837
+      }
+    ],
     "range": {
       "date": "2021-02-26",
       "end": "2021-02-27T07:59:59Z",
       "start": "2021-02-26T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
