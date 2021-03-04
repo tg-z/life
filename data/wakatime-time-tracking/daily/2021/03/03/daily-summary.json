@@ -1,24 +1,221 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "4:41:32",
+        "hours": 4,
+        "minutes": 41,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 32,
+        "text": "4 hrs 41 mins",
+        "total_seconds": 16892.016165
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "3:52:08",
+        "hours": 3,
+        "minutes": 52,
+        "name": "Zsh",
+        "percent": 82.46,
+        "seconds": 8,
+        "text": "3 hrs 52 mins",
+        "total_seconds": 13928.829071
+      },
+      {
+        "digital": "0:49:23",
+        "hours": 0,
+        "minutes": 49,
+        "name": "Vim",
+        "percent": 17.54,
+        "seconds": 23,
+        "text": "49 mins",
+        "total_seconds": 2963.187094
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "4:41",
+      "hours": 4,
+      "minutes": 41,
+      "text": "4 hrs 41 mins",
+      "total_seconds": 16892.016165
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "3:52:08",
+        "hours": 3,
+        "minutes": 52,
+        "name": "sh",
+        "percent": 82.46,
+        "seconds": 8,
+        "text": "3 hrs 52 mins",
+        "total_seconds": 13928.829071
+      },
+      {
+        "digital": "0:43:03",
+        "hours": 0,
+        "minutes": 43,
+        "name": "Markdown",
+        "percent": 15.29,
+        "seconds": 3,
+        "text": "43 mins",
+        "total_seconds": 2583.172906
+      },
+      {
+        "digital": "0:03:15",
+        "hours": 0,
+        "minutes": 3,
+        "name": "JSON",
+        "percent": 1.16,
+        "seconds": 15,
+        "text": "3 mins",
+        "total_seconds": 195.818539
+      },
+      {
+        "digital": "0:01:54",
+        "hours": 0,
+        "minutes": 1,
+        "name": "YAML",
+        "percent": 0.68,
+        "seconds": 54,
+        "text": "1 min",
+        "total_seconds": 114.367408
+      },
+      {
+        "digital": "0:00:52",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.31,
+        "seconds": 52,
+        "text": "52 secs",
+        "total_seconds": 52.659584
+      },
+      {
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 0.1,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.168657
+      }
+    ],
+    "machines": [
+      {
+        "digital": "4:41:32",
+        "hours": 4,
+        "machine_name_id": "7c548f7f-eb87-4ce7-b120-73b45ba44295",
+        "minutes": 41,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 32,
+        "text": "4 hrs 41 mins",
+        "total_seconds": 16892.016165
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "4:41:32",
+        "hours": 4,
+        "minutes": 41,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 32,
+        "text": "4 hrs 41 mins",
+        "total_seconds": 16892.016165
+      }
+    ],
+    "projects": [
+      {
+        "digital": "2:14:42",
+        "hours": 2,
+        "minutes": 14,
+        "name": "Terminal",
+        "percent": 47.85,
+        "seconds": 42,
+        "text": "2 hrs 14 mins",
+        "total_seconds": 8082.718837
+      },
+      {
+        "digital": "2:12:43",
+        "hours": 2,
+        "minutes": 12,
+        "name": "zet",
+        "percent": 47.15,
+        "seconds": 43,
+        "text": "2 hrs 12 mins",
+        "total_seconds": 7963.749277
+      },
+      {
+        "digital": "0:09:48",
+        "hours": 0,
+        "minutes": 9,
+        "name": "zit",
+        "percent": 3.48,
+        "seconds": 48,
+        "text": "9 mins",
+        "total_seconds": 588.588369
+      },
+      {
+        "digital": "0:03:35",
+        "hours": 0,
+        "minutes": 3,
+        "name": "wikidaily",
+        "percent": 1.28,
+        "seconds": 35,
+        "text": "3 mins",
+        "total_seconds": 215.812965
+      },
+      {
+        "digital": "0:00:17",
+        "hours": 0,
+        "minutes": 0,
+        "name": ".zsh.d",
+        "percent": 0.1,
+        "seconds": 17,
+        "text": "17 secs",
+        "total_seconds": 17.168657
+      },
+      {
+        "digital": "0:00:09",
+        "hours": 0,
+        "minutes": 0,
+        "name": "dotfiles",
+        "percent": 0.06,
+        "seconds": 9,
+        "text": "9 secs",
+        "total_seconds": 9.383989
+      },
+      {
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "life",
+        "percent": 0.05,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.596309
+      },
+      {
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "hn-history",
+        "percent": 0.04,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.997762
+      }
+    ],
     "range": {
       "date": "2021-03-03",
       "end": "2021-03-04T07:59:59Z",
       "start": "2021-03-03T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
