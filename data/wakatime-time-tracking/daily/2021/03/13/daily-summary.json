@@ -1,24 +1,91 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:19:04",
+        "hours": 0,
+        "minutes": 19,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 4,
+        "text": "19 mins",
+        "total_seconds": 1144.588758
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:19:04",
+        "hours": 0,
+        "minutes": 19,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 4,
+        "text": "19 mins",
+        "total_seconds": 1144.588758
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:19",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 19,
+      "text": "19 mins",
+      "total_seconds": 1144.588758
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:19:04",
+        "hours": 0,
+        "minutes": 19,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 4,
+        "text": "19 mins",
+        "total_seconds": 1144.588758
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:19:04",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 19,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 4,
+        "text": "19 mins",
+        "total_seconds": 1144.588758
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:19:04",
+        "hours": 0,
+        "minutes": 19,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 4,
+        "text": "19 mins",
+        "total_seconds": 1144.588758
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:19:04",
+        "hours": 0,
+        "minutes": 19,
+        "name": "Terminal",
+        "percent": 100,
+        "seconds": 4,
+        "text": "19 mins",
+        "total_seconds": 1144.588758
+      }
+    ],
     "range": {
       "date": "2021-03-13",
       "end": "2021-03-14T07:59:59Z",
       "start": "2021-03-13T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
