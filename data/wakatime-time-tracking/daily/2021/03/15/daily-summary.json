@@ -1,24 +1,382 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "digital": "4:44:13",
+        "hours": 4,
+        "minutes": 44,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 13,
+        "text": "4 hrs 44 mins",
+        "total_seconds": 17053.570212
+      }
+    ],
+    "dependencies": [
+      {
+        "digital": "0:03:59",
+        "hours": 0,
+        "minutes": 3,
+        "name": "twitter",
+        "percent": 33.7,
+        "seconds": 59,
+        "text": "3 mins",
+        "total_seconds": 239.104023
+      },
+      {
+        "digital": "0:00:48",
+        "hours": 0,
+        "minutes": 0,
+        "name": "express-validator",
+        "percent": 6.84,
+        "seconds": 48,
+        "text": "48 secs",
+        "total_seconds": 48.546915
+      },
+      {
+        "digital": "0:00:48",
+        "hours": 0,
+        "minutes": 0,
+        "name": "express",
+        "percent": 6.84,
+        "seconds": 48,
+        "text": "48 secs",
+        "total_seconds": 48.546915
+      },
+      {
+        "digital": "0:00:48",
+        "hours": 0,
+        "minutes": 0,
+        "name": "body-parser",
+        "percent": 6.84,
+        "seconds": 48,
+        "text": "48 secs",
+        "total_seconds": 48.546915
+      },
+      {
+        "digital": "0:00:48",
+        "hours": 0,
+        "minutes": 0,
+        "name": "dotenv",
+        "percent": 6.84,
+        "seconds": 48,
+        "text": "48 secs",
+        "total_seconds": 48.546915
+      },
+      {
+        "digital": "0:00:48",
+        "hours": 0,
+        "minutes": 0,
+        "name": "npm",
+        "percent": 6.84,
+        "seconds": 48,
+        "text": "48 secs",
+        "total_seconds": 48.546915
+      },
+      {
+        "digital": "0:00:48",
+        "hours": 0,
+        "minutes": 0,
+        "name": "are.na",
+        "percent": 6.84,
+        "seconds": 48,
+        "text": "48 secs",
+        "total_seconds": 48.546915
+      },
+      {
+        "digital": "0:00:48",
+        "hours": 0,
+        "minutes": 0,
+        "name": "nodemon",
+        "percent": 6.84,
+        "seconds": 48,
+        "text": "48 secs",
+        "total_seconds": 48.546915
+      },
+      {
+        "digital": "0:00:48",
+        "hours": 0,
+        "minutes": 0,
+        "name": "mongodb",
+        "percent": 6.84,
+        "seconds": 48,
+        "text": "48 secs",
+        "total_seconds": 48.546915
+      },
+      {
+        "digital": "0:00:48",
+        "hours": 0,
+        "minutes": 0,
+        "name": "path",
+        "percent": 6.84,
+        "seconds": 48,
+        "text": "48 secs",
+        "total_seconds": 48.546915
+      },
+      {
+        "digital": "0:00:33",
+        "hours": 0,
+        "minutes": 0,
+        "name": "\"includeHTML.js\"",
+        "percent": 4.73,
+        "seconds": 33,
+        "text": "33 secs",
+        "total_seconds": 33.562334
+      }
+    ],
+    "editors": [
+      {
+        "digital": "3:43:04",
+        "hours": 3,
+        "minutes": 43,
+        "name": "Zsh",
+        "percent": 78.48,
+        "seconds": 4,
+        "text": "3 hrs 43 mins",
+        "total_seconds": 13384.305136
+      },
+      {
+        "digital": "1:01:09",
+        "hours": 1,
+        "minutes": 1,
+        "name": "Vim",
+        "percent": 21.52,
+        "seconds": 9,
+        "text": "1 hr 1 min",
+        "total_seconds": 3669.265076
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "4:44",
+      "hours": 4,
+      "minutes": 44,
+      "text": "4 hrs 44 mins",
+      "total_seconds": 17053.570212
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "3:43:04",
+        "hours": 3,
+        "minutes": 43,
+        "name": "sh",
+        "percent": 78.48,
+        "seconds": 4,
+        "text": "3 hrs 43 mins",
+        "total_seconds": 13384.305136
+      },
+      {
+        "digital": "0:32:40",
+        "hours": 0,
+        "minutes": 32,
+        "name": "Other",
+        "percent": 11.5,
+        "seconds": 40,
+        "text": "32 mins",
+        "total_seconds": 1960.990481
+      },
+      {
+        "digital": "0:20:45",
+        "hours": 0,
+        "minutes": 20,
+        "name": "Markdown",
+        "percent": 7.3,
+        "seconds": 45,
+        "text": "20 mins",
+        "total_seconds": 1245.232183
+      },
+      {
+        "digital": "0:03:59",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Python",
+        "percent": 1.4,
+        "seconds": 59,
+        "text": "3 mins",
+        "total_seconds": 239.104023
+      },
+      {
+        "digital": "0:02:01",
+        "hours": 0,
+        "minutes": 2,
+        "name": "HTML",
+        "percent": 0.71,
+        "seconds": 1,
+        "text": "2 mins",
+        "total_seconds": 121.802699
+      },
+      {
+        "digital": "0:00:53",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 0.31,
+        "seconds": 53,
+        "text": "53 secs",
+        "total_seconds": 53.588775
+      },
+      {
+        "digital": "0:00:48",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.28,
+        "seconds": 48,
+        "text": "48 secs",
+        "total_seconds": 48.546915
+      }
+    ],
+    "machines": [
+      {
+        "digital": "4:44:13",
+        "hours": 4,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 44,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 13,
+        "text": "4 hrs 44 mins",
+        "total_seconds": 17053.570212
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "4:44:13",
+        "hours": 4,
+        "minutes": 44,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 13,
+        "text": "4 hrs 44 mins",
+        "total_seconds": 17053.570212
+      }
+    ],
+    "projects": [
+      {
+        "digital": "1:28:02",
+        "hours": 1,
+        "minutes": 28,
+        "name": "wikidaily",
+        "percent": 30.98,
+        "seconds": 2,
+        "text": "1 hr 28 mins",
+        "total_seconds": 5282.523315
+      },
+      {
+        "digital": "1:27:08",
+        "hours": 1,
+        "minutes": 27,
+        "name": "Terminal",
+        "percent": 30.66,
+        "seconds": 8,
+        "text": "1 hr 27 mins",
+        "total_seconds": 5228.127091
+      },
+      {
+        "digital": "0:43:07",
+        "hours": 0,
+        "minutes": 43,
+        "name": "orbit",
+        "percent": 15.17,
+        "seconds": 7,
+        "text": "43 mins",
+        "total_seconds": 2587.736995
+      },
+      {
+        "digital": "0:33:23",
+        "hours": 0,
+        "minutes": 33,
+        "name": "nitter-newsboat",
+        "percent": 11.75,
+        "seconds": 23,
+        "text": "33 mins",
+        "total_seconds": 2003.655741
+      },
+      {
+        "digital": "0:24:03",
+        "hours": 0,
+        "minutes": 24,
+        "name": "files2details",
+        "percent": 8.46,
+        "seconds": 3,
+        "text": "24 mins",
+        "total_seconds": 1443.179907
+      },
+      {
+        "digital": "0:04:20",
+        "hours": 0,
+        "minutes": 4,
+        "name": "twitter-followers-tracker",
+        "percent": 1.53,
+        "seconds": 20,
+        "text": "4 mins",
+        "total_seconds": 260.250138
+      },
+      {
+        "digital": "0:02:35",
+        "hours": 0,
+        "minutes": 2,
+        "name": "spotify-archive",
+        "percent": 0.91,
+        "seconds": 35,
+        "text": "2 mins",
+        "total_seconds": 155.956306
+      },
+      {
+        "digital": "0:00:40",
+        "hours": 0,
+        "minutes": 0,
+        "name": "zit",
+        "percent": 0.24,
+        "seconds": 40,
+        "text": "40 secs",
+        "total_seconds": 40.949018
+      },
+      {
+        "digital": "0:00:27",
+        "hours": 0,
+        "minutes": 0,
+        "name": "twitter-follow-tracker",
+        "percent": 0.16,
+        "seconds": 27,
+        "text": "27 secs",
+        "total_seconds": 27.100228
+      },
+      {
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": "life",
+        "percent": 0.07,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.178126
+      },
+      {
+        "digital": "0:00:07",
+        "hours": 0,
+        "minutes": 0,
+        "name": "zet",
+        "percent": 0.04,
+        "seconds": 7,
+        "text": "7 secs",
+        "total_seconds": 7.468497
+      },
+      {
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "hn-history",
+        "percent": 0.03,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.44485
+      }
+    ],
     "range": {
       "date": "2021-03-15",
       "end": "2021-03-16T06:59:59Z",
       "start": "2021-03-15T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
