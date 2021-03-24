@@ -1,24 +1,171 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:55:49",
+        "hours": 0,
+        "minutes": 55,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 49,
+        "text": "55 mins",
+        "total_seconds": 3349.219365
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:47:48",
+        "hours": 0,
+        "minutes": 47,
+        "name": "Zsh",
+        "percent": 85.65,
+        "seconds": 48,
+        "text": "47 mins",
+        "total_seconds": 2868.643123
+      },
+      {
+        "digital": "0:08:00",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Vim",
+        "percent": 14.35,
+        "seconds": 0,
+        "text": "8 mins",
+        "total_seconds": 480.576242
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:55",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 55,
+      "text": "55 mins",
+      "total_seconds": 3349.219365
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:47:48",
+        "hours": 0,
+        "minutes": 47,
+        "name": "sh",
+        "percent": 85.65,
+        "seconds": 48,
+        "text": "47 mins",
+        "total_seconds": 2868.643123
+      },
+      {
+        "digital": "0:08:00",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Markdown",
+        "percent": 14.35,
+        "seconds": 0,
+        "text": "8 mins",
+        "total_seconds": 480.576242
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:55:49",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 55,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 49,
+        "text": "55 mins",
+        "total_seconds": 3349.219365
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:55:49",
+        "hours": 0,
+        "minutes": 55,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 49,
+        "text": "55 mins",
+        "total_seconds": 3349.219365
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:46:10",
+        "hours": 0,
+        "minutes": 46,
+        "name": "Terminal",
+        "percent": 82.73,
+        "seconds": 10,
+        "text": "46 mins",
+        "total_seconds": 2770.958443
+      },
+      {
+        "digital": "0:08:28",
+        "hours": 0,
+        "minutes": 8,
+        "name": "tg-z",
+        "percent": 15.18,
+        "seconds": 28,
+        "text": "8 mins",
+        "total_seconds": 508.416786
+      },
+      {
+        "digital": "0:00:39",
+        "hours": 0,
+        "minutes": 0,
+        "name": "wikidaily",
+        "percent": 1.18,
+        "seconds": 39,
+        "text": "39 secs",
+        "total_seconds": 39.59983
+      },
+      {
+        "digital": "0:00:10",
+        "hours": 0,
+        "minutes": 0,
+        "name": "twitter-follow-tracker",
+        "percent": 0.3,
+        "seconds": 10,
+        "text": "10 secs",
+        "total_seconds": 10.132689
+      },
+      {
+        "digital": "0:00:10",
+        "hours": 0,
+        "minutes": 0,
+        "name": "til",
+        "percent": 0.3,
+        "seconds": 10,
+        "text": "10 secs",
+        "total_seconds": 10.019772
+      },
+      {
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "hn-history",
+        "percent": 0.16,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.462673
+      },
+      {
+        "digital": "0:00:04",
+        "hours": 0,
+        "minutes": 0,
+        "name": "life",
+        "percent": 0.14,
+        "seconds": 4,
+        "text": "4 secs",
+        "total_seconds": 4.629172
+      }
+    ],
     "range": {
       "date": "2021-03-23",
       "end": "2021-03-24T06:59:59Z",
       "start": "2021-03-23T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
