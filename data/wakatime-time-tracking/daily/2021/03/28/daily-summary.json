@@ -1,24 +1,232 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "digital": "2:24:32",
+        "hours": 2,
+        "minutes": 24,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 32,
+        "text": "2 hrs 24 mins",
+        "total_seconds": 8672.144831
+      }
+    ],
+    "dependencies": [
+      {
+        "digital": "0:00:58",
+        "hours": 0,
+        "minutes": 0,
+        "name": "utils",
+        "percent": 25,
+        "seconds": 58,
+        "text": "58 secs",
+        "total_seconds": 58.118336
+      },
+      {
+        "digital": "0:00:58",
+        "hours": 0,
+        "minutes": 0,
+        "name": "argparse",
+        "percent": 25,
+        "seconds": 58,
+        "text": "58 secs",
+        "total_seconds": 58.118336
+      },
+      {
+        "digital": "0:00:58",
+        "hours": 0,
+        "minutes": 0,
+        "name": "time",
+        "percent": 25,
+        "seconds": 58,
+        "text": "58 secs",
+        "total_seconds": 58.118336
+      },
+      {
+        "digital": "0:00:58",
+        "hours": 0,
+        "minutes": 0,
+        "name": "flickrapi",
+        "percent": 25,
+        "seconds": 58,
+        "text": "58 secs",
+        "total_seconds": 58.118336
+      }
+    ],
+    "editors": [
+      {
+        "digital": "2:10:36",
+        "hours": 2,
+        "minutes": 10,
+        "name": "Zsh",
+        "percent": 90.37,
+        "seconds": 36,
+        "text": "2 hrs 10 mins",
+        "total_seconds": 7836.682551
+      },
+      {
+        "digital": "0:13:55",
+        "hours": 0,
+        "minutes": 13,
+        "name": "Vim",
+        "percent": 9.63,
+        "seconds": 55,
+        "text": "13 mins",
+        "total_seconds": 835.46228
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "2:24",
+      "hours": 2,
+      "minutes": 24,
+      "text": "2 hrs 24 mins",
+      "total_seconds": 8672.144831
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "2:10:36",
+        "hours": 2,
+        "minutes": 10,
+        "name": "sh",
+        "percent": 90.37,
+        "seconds": 36,
+        "text": "2 hrs 10 mins",
+        "total_seconds": 7836.682551
+      },
+      {
+        "digital": "0:06:38",
+        "hours": 0,
+        "minutes": 6,
+        "name": "Text",
+        "percent": 4.6,
+        "seconds": 38,
+        "text": "6 mins",
+        "total_seconds": 398.530281
+      },
+      {
+        "digital": "0:05:53",
+        "hours": 0,
+        "minutes": 5,
+        "name": "Bash",
+        "percent": 4.07,
+        "seconds": 53,
+        "text": "5 mins",
+        "total_seconds": 353.227637
+      },
+      {
+        "digital": "0:00:58",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Python",
+        "percent": 0.67,
+        "seconds": 58,
+        "text": "58 secs",
+        "total_seconds": 58.118336
+      },
+      {
+        "digital": "0:00:25",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.3,
+        "seconds": 25,
+        "text": "25 secs",
+        "total_seconds": 25.586026
+      }
+    ],
+    "machines": [
+      {
+        "digital": "2:24:32",
+        "hours": 2,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 24,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 32,
+        "text": "2 hrs 24 mins",
+        "total_seconds": 8672.144831
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "2:24:32",
+        "hours": 2,
+        "minutes": 24,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 32,
+        "text": "2 hrs 24 mins",
+        "total_seconds": 8672.144831
+      }
+    ],
+    "projects": [
+      {
+        "digital": "1:36:29",
+        "hours": 1,
+        "minutes": 36,
+        "name": "Terminal",
+        "percent": 66.76,
+        "seconds": 29,
+        "text": "1 hr 36 mins",
+        "total_seconds": 5789.327788
+      },
+      {
+        "digital": "0:13:13",
+        "hours": 0,
+        "minutes": 13,
+        "name": "flickr-download",
+        "percent": 9.16,
+        "seconds": 13,
+        "text": "13 mins",
+        "total_seconds": 793.941416
+      },
+      {
+        "digital": "0:12:57",
+        "hours": 0,
+        "minutes": 12,
+        "name": "Unknown Project",
+        "percent": 8.96,
+        "seconds": 57,
+        "text": "12 mins",
+        "total_seconds": 777.343944
+      },
+      {
+        "digital": "0:09:38",
+        "hours": 0,
+        "minutes": 9,
+        "name": "flickr_scraper",
+        "percent": 6.67,
+        "seconds": 38,
+        "text": "9 mins",
+        "total_seconds": 578.716218
+      },
+      {
+        "digital": "0:08:58",
+        "hours": 0,
+        "minutes": 8,
+        "name": "graph",
+        "percent": 6.21,
+        "seconds": 58,
+        "text": "8 mins",
+        "total_seconds": 538.387365
+      },
+      {
+        "digital": "0:03:14",
+        "hours": 0,
+        "minutes": 3,
+        "name": "spotify-archive",
+        "percent": 2.24,
+        "seconds": 14,
+        "text": "3 mins",
+        "total_seconds": 194.4281
+      }
+    ],
     "range": {
       "date": "2021-03-28",
       "end": "2021-03-29T06:59:59Z",
       "start": "2021-03-28T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
