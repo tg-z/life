@@ -1,24 +1,101 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:12:05",
+        "hours": 0,
+        "minutes": 12,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 5,
+        "text": "12 mins",
+        "total_seconds": 725.864148
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:12:05",
+        "hours": 0,
+        "minutes": 12,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 5,
+        "text": "12 mins",
+        "total_seconds": 725.864148
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:12",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 12,
+      "text": "12 mins",
+      "total_seconds": 725.864148
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:12:05",
+        "hours": 0,
+        "minutes": 12,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 5,
+        "text": "12 mins",
+        "total_seconds": 725.864148
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:12:05",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 12,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 5,
+        "text": "12 mins",
+        "total_seconds": 725.864148
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:12:05",
+        "hours": 0,
+        "minutes": 12,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 5,
+        "text": "12 mins",
+        "total_seconds": 725.864148
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:11:54",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Terminal",
+        "percent": 98.4,
+        "seconds": 54,
+        "text": "11 mins",
+        "total_seconds": 714.2341
+      },
+      {
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": "life",
+        "percent": 1.6,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.630048
+      }
+    ],
     "range": {
       "date": "2021-04-03",
       "end": "2021-04-04T06:59:59Z",
       "start": "2021-04-03T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
