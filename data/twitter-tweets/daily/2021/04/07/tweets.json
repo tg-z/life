@@ -1,43 +1,32 @@
 [
   {
-    "created_at": "Fri Feb 19 18:40:34 +0000 2021",
-    "id": 1362834480042446800,
-    "id_str": "1362834480042446848",
-    "text": "@bxsel @2000Myspace Ur not wrong",
+    "created_at": "Wed Apr 07 23:00:00 +0000 2021",
+    "id": 1379931996625850400,
+    "id_str": "1379931996625850371",
+    "text": "&lt;33 https://t.co/15aLyQWMdG",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "bxsel",
-          "name": "keaton jones news & updates",
-          "id": 750281695,
-          "id_str": "750281695",
-          "indices": [
-            0,
-            6
-          ]
-        },
-        {
-          "screen_name": "2000Myspace",
-          "name": "sanguine",
-          "id": 1002818771206017000,
-          "id_str": "1002818771206017025",
+          "url": "https://t.co/15aLyQWMdG",
+          "expanded_url": "https://soundcloud.app.goo.gl/Ze3QZ",
+          "display_url": "soundcloud.app.goo.gl/Ze3QZ",
           "indices": [
             7,
-            19
+            30
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1361179587816919000,
-    "in_reply_to_status_id_str": "1361179587816919040",
-    "in_reply_to_user_id": 750281695,
-    "in_reply_to_user_id_str": "750281695",
-    "in_reply_to_screen_name": "bxsel",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "user": {
       "id": 2902176888,
       "id_str": "2902176888",
@@ -108,37 +97,27 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "en"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   {
-    "created_at": "Fri Feb 19 18:39:04 +0000 2021",
-    "id": 1362834099895869400,
-    "id_str": "1362834099895869442",
-    "text": "@2000Myspace Id like a snake but I have a cat",
+    "created_at": "Wed Apr 07 05:35:15 +0000 2021",
+    "id": 1379669074792300500,
+    "id_str": "1379669074792300545",
+    "text": "chunta",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "2000Myspace",
-          "name": "sanguine",
-          "id": 1002818771206017000,
-          "id_str": "1002818771206017025",
-          "indices": [
-            0,
-            12
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1362710486882545700,
-    "in_reply_to_status_id_str": "1362710486882545664",
-    "in_reply_to_user_id": 1002818771206017000,
-    "in_reply_to_user_id_str": "1002818771206017025",
-    "in_reply_to_screen_name": "2000Myspace",
+    "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "user": {
       "id": 2902176888,
       "id_str": "2902176888",
@@ -206,9 +185,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "en"
+    "lang": "in"
   }
 ]
