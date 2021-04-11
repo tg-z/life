@@ -1,24 +1,91 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:20:22",
+        "hours": 0,
+        "minutes": 20,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 22,
+        "text": "20 mins",
+        "total_seconds": 1222.624372
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:20:22",
+        "hours": 0,
+        "minutes": 20,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 22,
+        "text": "20 mins",
+        "total_seconds": 1222.624372
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:20",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 20,
+      "text": "20 mins",
+      "total_seconds": 1222.624372
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:20:22",
+        "hours": 0,
+        "minutes": 20,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 22,
+        "text": "20 mins",
+        "total_seconds": 1222.624372
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:20:22",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 20,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 22,
+        "text": "20 mins",
+        "total_seconds": 1222.624372
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:20:22",
+        "hours": 0,
+        "minutes": 20,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 22,
+        "text": "20 mins",
+        "total_seconds": 1222.624372
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:20:22",
+        "hours": 0,
+        "minutes": 20,
+        "name": "Terminal",
+        "percent": 100,
+        "seconds": 22,
+        "text": "20 mins",
+        "total_seconds": 1222.624372
+      }
+    ],
     "range": {
       "date": "2021-04-10",
       "end": "2021-04-11T06:59:59Z",
       "start": "2021-04-10T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
