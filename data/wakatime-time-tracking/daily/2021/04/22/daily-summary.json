@@ -1,24 +1,111 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "1:00:04",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 4,
+        "text": "1 hr",
+        "total_seconds": 3604.948342
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "1:00:04",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 4,
+        "text": "1 hr",
+        "total_seconds": 3604.948342
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
+      "digital": "1:00",
+      "hours": 1,
       "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "text": "1 hr",
+      "total_seconds": 3604.948342
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "1:00:04",
+        "hours": 1,
+        "minutes": 0,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 4,
+        "text": "1 hr",
+        "total_seconds": 3604.948342
+      }
+    ],
+    "machines": [
+      {
+        "digital": "1:00:04",
+        "hours": 1,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 0,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 4,
+        "text": "1 hr",
+        "total_seconds": 3604.948342
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "1:00:04",
+        "hours": 1,
+        "minutes": 0,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 4,
+        "text": "1 hr",
+        "total_seconds": 3604.948342
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:42:10",
+        "hours": 0,
+        "minutes": 42,
+        "name": "Terminal",
+        "percent": 70.2,
+        "seconds": 10,
+        "text": "42 mins",
+        "total_seconds": 2530.681607
+      },
+      {
+        "digital": "0:17:45",
+        "hours": 0,
+        "minutes": 17,
+        "name": "zet",
+        "percent": 29.57,
+        "seconds": 45,
+        "text": "17 mins",
+        "total_seconds": 1065.907142
+      },
+      {
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "twitter-follow-tracker",
+        "percent": 0.23,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.359593
+      }
+    ],
     "range": {
       "date": "2021-04-22",
       "end": "2021-04-23T06:59:59Z",
       "start": "2021-04-22T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
