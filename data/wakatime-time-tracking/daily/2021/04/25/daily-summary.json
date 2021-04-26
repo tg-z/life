@@ -1,24 +1,252 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "digital": "4:46:59",
+        "hours": 4,
+        "minutes": 46,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 59,
+        "text": "4 hrs 46 mins",
+        "total_seconds": 17219.976847
+      }
+    ],
+    "dependencies": [
+      {
+        "digital": "0:03:34",
+        "hours": 0,
+        "minutes": 3,
+        "name": "blessings",
+        "percent": 25,
+        "seconds": 34,
+        "text": "3 mins",
+        "total_seconds": 214.482255
+      },
+      {
+        "digital": "0:03:34",
+        "hours": 0,
+        "minutes": 3,
+        "name": "datetime",
+        "percent": 25,
+        "seconds": 34,
+        "text": "3 mins",
+        "total_seconds": 214.482255
+      },
+      {
+        "digital": "0:03:34",
+        "hours": 0,
+        "minutes": 3,
+        "name": "argparse",
+        "percent": 25,
+        "seconds": 34,
+        "text": "3 mins",
+        "total_seconds": 214.482255
+      },
+      {
+        "digital": "0:03:34",
+        "hours": 0,
+        "minutes": 3,
+        "name": "re",
+        "percent": 25,
+        "seconds": 34,
+        "text": "3 mins",
+        "total_seconds": 214.482255
+      }
+    ],
+    "editors": [
+      {
+        "digital": "2:30:31",
+        "hours": 2,
+        "minutes": 30,
+        "name": "Zsh",
+        "percent": 52.45,
+        "seconds": 31,
+        "text": "2 hrs 30 mins",
+        "total_seconds": 9031.336177
+      },
+      {
+        "digital": "2:16:28",
+        "hours": 2,
+        "minutes": 16,
+        "name": "Vim",
+        "percent": 47.55,
+        "seconds": 28,
+        "text": "2 hrs 16 mins",
+        "total_seconds": 8188.64067
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "4:46",
+      "hours": 4,
+      "minutes": 46,
+      "text": "4 hrs 46 mins",
+      "total_seconds": 17219.976847
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "2:30:31",
+        "hours": 2,
+        "minutes": 30,
+        "name": "sh",
+        "percent": 52.45,
+        "seconds": 31,
+        "text": "2 hrs 30 mins",
+        "total_seconds": 9031.336177
+      },
+      {
+        "digital": "1:25:28",
+        "hours": 1,
+        "minutes": 25,
+        "name": "Markdown",
+        "percent": 29.78,
+        "seconds": 28,
+        "text": "1 hr 25 mins",
+        "total_seconds": 5128.622375
+      },
+      {
+        "digital": "0:46:19",
+        "hours": 0,
+        "minutes": 46,
+        "name": "VimL",
+        "percent": 16.14,
+        "seconds": 19,
+        "text": "46 mins",
+        "total_seconds": 2779.690765
+      },
+      {
+        "digital": "0:03:34",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Python",
+        "percent": 1.25,
+        "seconds": 34,
+        "text": "3 mins",
+        "total_seconds": 214.482255
+      },
+      {
+        "digital": "0:00:59",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.35,
+        "seconds": 59,
+        "text": "59 secs",
+        "total_seconds": 59.717949
+      },
+      {
+        "digital": "0:00:06",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 0.04,
+        "seconds": 6,
+        "text": "6 secs",
+        "total_seconds": 6.127326
+      }
+    ],
+    "machines": [
+      {
+        "digital": "4:46:59",
+        "hours": 4,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 46,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 59,
+        "text": "4 hrs 46 mins",
+        "total_seconds": 17219.976847
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "4:46:59",
+        "hours": 4,
+        "minutes": 46,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 59,
+        "text": "4 hrs 46 mins",
+        "total_seconds": 17219.976847
+      }
+    ],
+    "projects": [
+      {
+        "digital": "2:53:53",
+        "hours": 2,
+        "minutes": 53,
+        "name": "zet",
+        "percent": 60.59,
+        "seconds": 53,
+        "text": "2 hrs 53 mins",
+        "total_seconds": 10433.105909
+      },
+      {
+        "digital": "1:01:56",
+        "hours": 1,
+        "minutes": 1,
+        "name": "Unknown Project",
+        "percent": 21.58,
+        "seconds": 56,
+        "text": "1 hr 1 min",
+        "total_seconds": 3716.255801
+      },
+      {
+        "digital": "0:32:10",
+        "hours": 0,
+        "minutes": 32,
+        "name": "Terminal",
+        "percent": 11.21,
+        "seconds": 10,
+        "text": "32 mins",
+        "total_seconds": 1930.09711
+      },
+      {
+        "digital": "0:10:19",
+        "hours": 0,
+        "minutes": 10,
+        "name": "icat",
+        "percent": 3.6,
+        "seconds": 19,
+        "text": "10 mins",
+        "total_seconds": 619.5075
+      },
+      {
+        "digital": "0:07:41",
+        "hours": 0,
+        "minutes": 7,
+        "name": "graph",
+        "percent": 2.68,
+        "seconds": 41,
+        "text": "7 mins",
+        "total_seconds": 461.952704
+      },
+      {
+        "digital": "0:00:38",
+        "hours": 0,
+        "minutes": 0,
+        "name": "wikidaily",
+        "percent": 0.22,
+        "seconds": 38,
+        "text": "38 secs",
+        "total_seconds": 38.58305
+      },
+      {
+        "digital": "0:00:20",
+        "hours": 0,
+        "minutes": 0,
+        "name": "dotfiles",
+        "percent": 0.12,
+        "seconds": 20,
+        "text": "20 secs",
+        "total_seconds": 20.474773
+      }
+    ],
     "range": {
       "date": "2021-04-25",
       "end": "2021-04-26T06:59:59Z",
       "start": "2021-04-25T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
