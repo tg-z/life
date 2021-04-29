@@ -1,24 +1,121 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:11:01",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 1,
+        "text": "11 mins",
+        "total_seconds": 661.708093
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:06:42",
+        "hours": 0,
+        "minutes": 6,
+        "name": "Zsh",
+        "percent": 60.76,
+        "seconds": 42,
+        "text": "6 mins",
+        "total_seconds": 402.040059
+      },
+      {
+        "digital": "0:04:19",
+        "hours": 0,
+        "minutes": 4,
+        "name": "Vim",
+        "percent": 39.24,
+        "seconds": 19,
+        "text": "4 mins",
+        "total_seconds": 259.668034
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:11",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 11,
+      "text": "11 mins",
+      "total_seconds": 661.708093
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:06:42",
+        "hours": 0,
+        "minutes": 6,
+        "name": "sh",
+        "percent": 60.76,
+        "seconds": 42,
+        "text": "6 mins",
+        "total_seconds": 402.040059
+      },
+      {
+        "digital": "0:04:19",
+        "hours": 0,
+        "minutes": 4,
+        "name": "Markdown",
+        "percent": 39.24,
+        "seconds": 19,
+        "text": "4 mins",
+        "total_seconds": 259.668034
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:11:01",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 11,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 1,
+        "text": "11 mins",
+        "total_seconds": 661.708093
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:11:01",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 1,
+        "text": "11 mins",
+        "total_seconds": 661.708093
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:06:29",
+        "hours": 0,
+        "minutes": 6,
+        "name": "wikidaily",
+        "percent": 58.85,
+        "seconds": 29,
+        "text": "6 mins",
+        "total_seconds": 389.384295
+      },
+      {
+        "digital": "0:04:32",
+        "hours": 0,
+        "minutes": 4,
+        "name": "zet",
+        "percent": 41.15,
+        "seconds": 32,
+        "text": "4 mins",
+        "total_seconds": 272.323798
+      }
+    ],
     "range": {
       "date": "2021-04-28",
       "end": "2021-04-29T06:59:59Z",
       "start": "2021-04-28T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
