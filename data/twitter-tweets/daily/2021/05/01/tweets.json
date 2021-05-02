@@ -1,22 +1,33 @@
 [
   {
-    "created_at": "Sat Apr 17 10:47:17 +0000 2021",
-    "id": 1383371481569108000,
-    "id_str": "1383371481569107973",
-    "text": "I'm happy right now! Never been better 😁",
+    "created_at": "Sat May 01 23:06:23 +0000 2021",
+    "id": 1388630913420992500,
+    "id_str": "1388630913420992514",
+    "text": "@hotemogf hbd!! we have the same birthday 🤭💜",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "hotemogf",
+          "name": "chia",
+          "id": 2215724593,
+          "id_str": "2215724593",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1388556388243288000,
+    "in_reply_to_status_id_str": "1388556388243288065",
+    "in_reply_to_user_id": 2215724593,
+    "in_reply_to_user_id_str": "2215724593",
+    "in_reply_to_screen_name": "hotemogf",
     "user": {
       "id": 2902176888,
       "id_str": "2902176888",
@@ -85,24 +96,35 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "en"
   },
   {
-    "created_at": "Sat Apr 17 10:20:24 +0000 2021",
-    "id": 1383364717125591000,
-    "id_str": "1383364717125591049",
-    "text": "when the person you like doesn't like you back 😏",
+    "created_at": "Sat May 01 04:39:24 +0000 2021",
+    "id": 1388352330328809500,
+    "id_str": "1388352330328809472",
+    "text": "RT @WOLFDRAWN: i see gay tweet i like it",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "WOLFDRAWN",
+          "name": "ratthew",
+          "id": 35354927,
+          "id_str": "35354927",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -174,11 +196,112 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 30 21:48:23 +0000 2021",
+      "id": 1388248892991361000,
+      "id_str": "1388248892991361026",
+      "text": "i see gay tweet i like it",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 35354927,
+        "id_str": "35354927",
+        "name": "ratthew",
+        "screen_name": "WOLFDRAWN",
+        "location": "LA",
+        "description": "https://t.co/kNoLajjrlV",
+        "url": "https://t.co/jFiaccELtd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/jFiaccELtd",
+                "expanded_url": "http://www.depop.com/wolfdrawn",
+                "display_url": "depop.com/wolfdrawn",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/kNoLajjrlV",
+                "expanded_url": "http://Instagram.com/wolfdrawn",
+                "display_url": "Instagram.com/wolfdrawn",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3952,
+        "friends_count": 352,
+        "listed_count": 7,
+        "created_at": "Sun Apr 26 00:38:35 +0000 2009",
+        "favourites_count": 46394,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 41309,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1346623230358896641/F8tKvtT2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346623230358896641/F8tKvtT2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35354927/1619136775",
+        "profile_link_color": "8C7FF0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6F4FF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 38,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
     "lang": "en"
   }
 ]
