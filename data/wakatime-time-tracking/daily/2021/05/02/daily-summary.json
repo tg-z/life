@@ -1,24 +1,131 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:11:31",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 31,
+        "text": "11 mins",
+        "total_seconds": 691.471025
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:07:09",
+        "hours": 0,
+        "minutes": 7,
+        "name": "Zsh",
+        "percent": 62.1,
+        "seconds": 9,
+        "text": "7 mins",
+        "total_seconds": 429.387873
+      },
+      {
+        "digital": "0:04:22",
+        "hours": 0,
+        "minutes": 4,
+        "name": "Vim",
+        "percent": 37.9,
+        "seconds": 22,
+        "text": "4 mins",
+        "total_seconds": 262.083152
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:11",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 11,
+      "text": "11 mins",
+      "total_seconds": 691.471025
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:07:09",
+        "hours": 0,
+        "minutes": 7,
+        "name": "sh",
+        "percent": 62.1,
+        "seconds": 9,
+        "text": "7 mins",
+        "total_seconds": 429.387873
+      },
+      {
+        "digital": "0:02:49",
+        "hours": 0,
+        "minutes": 2,
+        "name": "Other",
+        "percent": 24.53,
+        "seconds": 49,
+        "text": "2 mins",
+        "total_seconds": 169.605785
+      },
+      {
+        "digital": "0:01:32",
+        "hours": 0,
+        "minutes": 1,
+        "name": "Markdown",
+        "percent": 13.37,
+        "seconds": 32,
+        "text": "1 min",
+        "total_seconds": 92.477367
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:11:31",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 11,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 31,
+        "text": "11 mins",
+        "total_seconds": 691.471025
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:11:31",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 31,
+        "text": "11 mins",
+        "total_seconds": 691.471025
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:07:40",
+        "hours": 0,
+        "minutes": 7,
+        "name": "wikidaily",
+        "percent": 66.53,
+        "seconds": 40,
+        "text": "7 mins",
+        "total_seconds": 460.021356
+      },
+      {
+        "digital": "0:03:51",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Terminal",
+        "percent": 33.47,
+        "seconds": 51,
+        "text": "3 mins",
+        "total_seconds": 231.449669
+      }
+    ],
     "range": {
       "date": "2021-05-02",
       "end": "2021-05-03T06:59:59Z",
       "start": "2021-05-02T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }

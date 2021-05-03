@@ -1,32 +1,33 @@
 [
   {
-    "created_at": "Wed Apr 07 23:00:00 +0000 2021",
-    "id": 1379931996625850400,
-    "id_str": "1379931996625850371",
-    "text": "&lt;33 https://t.co/15aLyQWMdG",
+    "created_at": "Sun May 02 21:21:24 +0000 2021",
+    "id": 1388966879511736300,
+    "id_str": "1388966879511736320",
+    "text": "@emo_warlord 💜",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/15aLyQWMdG",
-          "expanded_url": "https://soundcloud.app.goo.gl/Ze3QZ",
-          "display_url": "soundcloud.app.goo.gl/Ze3QZ",
+          "screen_name": "emo_warlord",
+          "name": "sully",
+          "id": 928746295229014000,
+          "id_str": "928746295229014016",
           "indices": [
-            7,
-            30
+            0,
+            12
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1388889119342829600,
+    "in_reply_to_status_id_str": "1388889119342829571",
+    "in_reply_to_user_id": 928746295229014000,
+    "in_reply_to_user_id_str": "928746295229014016",
+    "in_reply_to_screen_name": "emo_warlord",
     "user": {
       "id": 2902176888,
       "id_str": "2902176888",
@@ -98,20 +99,97 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "und"
   },
   {
-    "created_at": "Wed Apr 07 05:35:15 +0000 2021",
-    "id": 1379669074792300500,
-    "id_str": "1379669074792300545",
-    "text": "chunta",
+    "created_at": "Sun May 02 08:10:24 +0000 2021",
+    "id": 1388767816862535700,
+    "id_str": "1388767816862535680",
+    "text": "yo https://t.co/askRLMeAgq",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 1388767812399796200,
+          "id_str": "1388767812399796231",
+          "indices": [
+            3,
+            26
+          ],
+          "media_url": "http://pbs.twimg.com/media/E0Xk96WWEAc1txa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E0Xk96WWEAc1txa.jpg",
+          "url": "https://t.co/askRLMeAgq",
+          "display_url": "pic.twitter.com/askRLMeAgq",
+          "expanded_url": "https://twitter.com/parasite______/status/1388767816862535680/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1388767812399796200,
+          "id_str": "1388767812399796231",
+          "indices": [
+            3,
+            26
+          ],
+          "media_url": "http://pbs.twimg.com/media/E0Xk96WWEAc1txa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E0Xk96WWEAc1txa.jpg",
+          "url": "https://t.co/askRLMeAgq",
+          "display_url": "pic.twitter.com/askRLMeAgq",
+          "expanded_url": "https://twitter.com/parasite______/status/1388767816862535680/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
     "in_reply_to_status_id": null,
@@ -187,9 +265,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
-    "lang": "in"
+    "possibly_sensitive": false,
+    "lang": "und"
   }
 ]
