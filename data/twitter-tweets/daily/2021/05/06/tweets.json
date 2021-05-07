@@ -1,17 +1,27 @@
 [
   {
-    "created_at": "Fri Apr 16 01:31:08 +0000 2021",
-    "id": 1382869135139377200,
-    "id_str": "1382869135139377157",
-    "text": "twitter keeps giving me ads for otome games like stop i don't need this rn i already have enough to be ashamed of",
+    "created_at": "Thu May 06 17:55:49 +0000 2021",
+    "id": 1390364693378777000,
+    "id_str": "1390364693378777092",
+    "text": "i love this trailer for semantic error 😋 https://t.co/7kQ0jGjcyc",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/7kQ0jGjcyc",
+          "expanded_url": "https://youtu.be/IVN1O_ndfcc",
+          "display_url": "youtu.be/IVN1O_ndfcc",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -85,9 +95,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "en"
   }
 ]
