@@ -1,24 +1,191 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "1:50:32",
+        "hours": 1,
+        "minutes": 50,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 32,
+        "text": "1 hr 50 mins",
+        "total_seconds": 6632.71816
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "1:21:52",
+        "hours": 1,
+        "minutes": 21,
+        "name": "Zsh",
+        "percent": 74.06,
+        "seconds": 52,
+        "text": "1 hr 21 mins",
+        "total_seconds": 4912.181842
+      },
+      {
+        "digital": "0:28:40",
+        "hours": 0,
+        "minutes": 28,
+        "name": "Vim",
+        "percent": 25.94,
+        "seconds": 40,
+        "text": "28 mins",
+        "total_seconds": 1720.536318
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "1:50",
+      "hours": 1,
+      "minutes": 50,
+      "text": "1 hr 50 mins",
+      "total_seconds": 6632.71816
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "1:21:52",
+        "hours": 1,
+        "minutes": 21,
+        "name": "sh",
+        "percent": 74.06,
+        "seconds": 52,
+        "text": "1 hr 21 mins",
+        "total_seconds": 4912.181842
+      },
+      {
+        "digital": "0:14:05",
+        "hours": 0,
+        "minutes": 14,
+        "name": "Bash",
+        "percent": 12.74,
+        "seconds": 5,
+        "text": "14 mins",
+        "total_seconds": 845.311247
+      },
+      {
+        "digital": "0:09:26",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Markdown",
+        "percent": 8.53,
+        "seconds": 26,
+        "text": "9 mins",
+        "total_seconds": 566.000513
+      },
+      {
+        "digital": "0:04:46",
+        "hours": 0,
+        "minutes": 4,
+        "name": "Crontab",
+        "percent": 4.31,
+        "seconds": 46,
+        "text": "4 mins",
+        "total_seconds": 286.10234
+      },
+      {
+        "digital": "0:00:23",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.35,
+        "seconds": 23,
+        "text": "23 secs",
+        "total_seconds": 23.122218
+      }
+    ],
+    "machines": [
+      {
+        "digital": "1:50:32",
+        "hours": 1,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 50,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 32,
+        "text": "1 hr 50 mins",
+        "total_seconds": 6632.71816
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "1:50:32",
+        "hours": 1,
+        "minutes": 50,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 32,
+        "text": "1 hr 50 mins",
+        "total_seconds": 6632.71816
+      }
+    ],
+    "projects": [
+      {
+        "digital": "1:01:51",
+        "hours": 1,
+        "minutes": 1,
+        "name": "wikidaily",
+        "percent": 55.96,
+        "seconds": 51,
+        "text": "1 hr 1 min",
+        "total_seconds": 3711.907337
+      },
+      {
+        "digital": "0:30:21",
+        "hours": 0,
+        "minutes": 30,
+        "name": "Terminal",
+        "percent": 27.47,
+        "seconds": 21,
+        "text": "30 mins",
+        "total_seconds": 1821.991325
+      },
+      {
+        "digital": "0:08:24",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Unknown Project",
+        "percent": 7.61,
+        "seconds": 24,
+        "text": "8 mins",
+        "total_seconds": 504.455796
+      },
+      {
+        "digital": "0:08:00",
+        "hours": 0,
+        "minutes": 8,
+        "name": "zet",
+        "percent": 7.24,
+        "seconds": 0,
+        "text": "8 mins",
+        "total_seconds": 480.397278
+      },
+      {
+        "digital": "0:00:59",
+        "hours": 0,
+        "minutes": 0,
+        "name": "til",
+        "percent": 0.9,
+        "seconds": 59,
+        "text": "59 secs",
+        "total_seconds": 59.517818
+      },
+      {
+        "digital": "0:00:54",
+        "hours": 0,
+        "minutes": 0,
+        "name": "spotify-archive",
+        "percent": 0.82,
+        "seconds": 54,
+        "text": "54 secs",
+        "total_seconds": 54.448606
+      }
+    ],
     "range": {
       "date": "2021-05-07",
       "end": "2021-05-08T06:59:59Z",
       "start": "2021-05-07T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
