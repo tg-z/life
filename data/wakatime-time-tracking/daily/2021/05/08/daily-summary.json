@@ -1,24 +1,101 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:13:45",
+        "hours": 0,
+        "minutes": 13,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 45,
+        "text": "13 mins",
+        "total_seconds": 825.892565
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:13:45",
+        "hours": 0,
+        "minutes": 13,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 45,
+        "text": "13 mins",
+        "total_seconds": 825.892565
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:13",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 13,
+      "text": "13 mins",
+      "total_seconds": 825.892565
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:13:45",
+        "hours": 0,
+        "minutes": 13,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 45,
+        "text": "13 mins",
+        "total_seconds": 825.892565
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:13:45",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 13,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 45,
+        "text": "13 mins",
+        "total_seconds": 825.892565
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:13:45",
+        "hours": 0,
+        "minutes": 13,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 45,
+        "text": "13 mins",
+        "total_seconds": 825.892565
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:12:47",
+        "hours": 0,
+        "minutes": 12,
+        "name": "Terminal",
+        "percent": 92.93,
+        "seconds": 47,
+        "text": "12 mins",
+        "total_seconds": 767.465623
+      },
+      {
+        "digital": "0:00:58",
+        "hours": 0,
+        "minutes": 0,
+        "name": "wikidaily",
+        "percent": 7.07,
+        "seconds": 58,
+        "text": "58 secs",
+        "total_seconds": 58.426942
+      }
+    ],
     "range": {
       "date": "2021-05-08",
       "end": "2021-05-09T06:59:59Z",
       "start": "2021-05-08T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
