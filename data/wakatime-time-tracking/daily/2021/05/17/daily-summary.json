@@ -2,14 +2,14 @@
   {
     "categories": [
       {
-        "digital": "3:24:25",
+        "digital": "3:24:41",
         "hours": 3,
         "minutes": 24,
         "name": "Coding",
         "percent": 100,
-        "seconds": 25,
+        "seconds": 41,
         "text": "3 hrs 24 mins",
-        "total_seconds": 12265.555183
+        "total_seconds": 12281.304276
       }
     ],
     "dependencies": [
@@ -27,26 +27,6 @@
         "digital": "0:02:24",
         "hours": 0,
         "minutes": 2,
-        "name": "argparse",
-        "percent": 8.1,
-        "seconds": 24,
-        "text": "2 mins",
-        "total_seconds": 144.357724
-      },
-      {
-        "digital": "0:02:24",
-        "hours": 0,
-        "minutes": 2,
-        "name": "subprocess",
-        "percent": 8.1,
-        "seconds": 24,
-        "text": "2 mins",
-        "total_seconds": 144.357724
-      },
-      {
-        "digital": "0:02:24",
-        "hours": 0,
-        "minutes": 2,
         "name": "codecs",
         "percent": 8.1,
         "seconds": 24,
@@ -57,7 +37,7 @@
         "digital": "0:02:24",
         "hours": 0,
         "minutes": 2,
-        "name": "instagram_private_api",
+        "name": "xml",
         "percent": 8.1,
         "seconds": 24,
         "text": "2 mins",
@@ -67,7 +47,7 @@
         "digital": "0:02:24",
         "hours": 0,
         "minutes": 2,
-        "name": "datetime",
+        "name": "subprocess",
         "percent": 8.1,
         "seconds": 24,
         "text": "2 mins",
@@ -97,7 +77,27 @@
         "digital": "0:02:24",
         "hours": 0,
         "minutes": 2,
-        "name": "xml",
+        "name": "datetime",
+        "percent": 8.1,
+        "seconds": 24,
+        "text": "2 mins",
+        "total_seconds": 144.357724
+      },
+      {
+        "digital": "0:02:24",
+        "hours": 0,
+        "minutes": 2,
+        "name": "argparse",
+        "percent": 8.1,
+        "seconds": 24,
+        "text": "2 mins",
+        "total_seconds": 144.357724
+      },
+      {
+        "digital": "0:02:24",
+        "hours": 0,
+        "minutes": 2,
+        "name": "instagram_private_api",
         "percent": 8.1,
         "seconds": 24,
         "text": "2 mins",
@@ -117,17 +117,7 @@
         "digital": "0:01:20",
         "hours": 0,
         "minutes": 1,
-        "name": "webbrowser",
-        "percent": 4.52,
-        "seconds": 20,
-        "text": "1 min",
-        "total_seconds": 80.6242
-      },
-      {
-        "digital": "0:01:20",
-        "hours": 0,
-        "minutes": 1,
-        "name": "random",
+        "name": "io",
         "percent": 4.52,
         "seconds": 20,
         "text": "1 min",
@@ -147,7 +137,17 @@
         "digital": "0:01:20",
         "hours": 0,
         "minutes": 1,
-        "name": "io",
+        "name": "random",
+        "percent": 4.52,
+        "seconds": 20,
+        "text": "1 min",
+        "total_seconds": 80.6242
+      },
+      {
+        "digital": "0:01:20",
+        "hours": 0,
+        "minutes": 1,
+        "name": "webbrowser",
         "percent": 4.52,
         "seconds": 20,
         "text": "1 min",
@@ -156,24 +156,24 @@
     ],
     "editors": [
       {
-        "digital": "3:10:57",
+        "digital": "3:11:00",
         "hours": 3,
-        "minutes": 10,
+        "minutes": 11,
         "name": "Zsh",
-        "percent": 93.41,
-        "seconds": 57,
-        "text": "3 hrs 10 mins",
-        "total_seconds": 11457.307732
+        "percent": 93.32,
+        "seconds": 0,
+        "text": "3 hrs 11 mins",
+        "total_seconds": 11460.916483
       },
       {
-        "digital": "0:13:28",
+        "digital": "0:13:40",
         "hours": 0,
         "minutes": 13,
         "name": "Vim",
-        "percent": 6.59,
-        "seconds": 28,
+        "percent": 6.68,
+        "seconds": 40,
         "text": "13 mins",
-        "total_seconds": 808.247451
+        "total_seconds": 820.387793
       }
     ],
     "grand_total": {
@@ -181,28 +181,38 @@
       "hours": 3,
       "minutes": 24,
       "text": "3 hrs 24 mins",
-      "total_seconds": 12265.555183
+      "total_seconds": 12281.304276
     },
     "languages": [
       {
-        "digital": "3:10:57",
+        "digital": "3:11:00",
         "hours": 3,
-        "minutes": 10,
+        "minutes": 11,
         "name": "sh",
-        "percent": 93.41,
-        "seconds": 57,
-        "text": "3 hrs 10 mins",
-        "total_seconds": 11457.307732
+        "percent": 93.32,
+        "seconds": 0,
+        "text": "3 hrs 11 mins",
+        "total_seconds": 11460.916483
       },
       {
         "digital": "0:06:03",
         "hours": 0,
         "minutes": 6,
         "name": "Other",
-        "percent": 2.97,
+        "percent": 2.96,
         "seconds": 3,
         "text": "6 mins",
         "total_seconds": 363.98642
+      },
+      {
+        "digital": "0:03:51",
+        "hours": 0,
+        "minutes": 3,
+        "name": "Markdown",
+        "percent": 1.88,
+        "seconds": 51,
+        "text": "3 mins",
+        "total_seconds": 231.419449
       },
       {
         "digital": "0:03:44",
@@ -213,29 +223,19 @@
         "seconds": 44,
         "text": "3 mins",
         "total_seconds": 224.981924
-      },
-      {
-        "digital": "0:03:39",
-        "hours": 0,
-        "minutes": 3,
-        "name": "Markdown",
-        "percent": 1.79,
-        "seconds": 39,
-        "text": "3 mins",
-        "total_seconds": 219.279107
       }
     ],
     "machines": [
       {
-        "digital": "3:23:37",
+        "digital": "3:23:53",
         "hours": 3,
         "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
         "minutes": 23,
         "name": "bluetooths-macbook-pro.local",
         "percent": 99.61,
-        "seconds": 37,
+        "seconds": 53,
         "text": "3 hrs 23 mins",
-        "total_seconds": 12217.398296
+        "total_seconds": 12233.147389
       },
       {
         "digital": "0:00:48",
@@ -251,46 +251,46 @@
     ],
     "operating_systems": [
       {
-        "digital": "3:24:25",
+        "digital": "3:24:41",
         "hours": 3,
         "minutes": 24,
         "name": "Mac",
         "percent": 100,
-        "seconds": 25,
+        "seconds": 41,
         "text": "3 hrs 24 mins",
-        "total_seconds": 12265.555183
+        "total_seconds": 12281.304276
       }
     ],
     "projects": [
       {
-        "digital": "2:34:56",
+        "digital": "2:35:00",
         "hours": 2,
-        "minutes": 34,
+        "minutes": 35,
         "name": "Terminal",
-        "percent": 75.8,
-        "seconds": 56,
-        "text": "2 hrs 34 mins",
-        "total_seconds": 9296.995684
+        "percent": 75.73,
+        "seconds": 0,
+        "text": "2 hrs 35 mins",
+        "total_seconds": 9300.604435
       },
       {
         "digital": "0:18:51",
         "hours": 0,
         "minutes": 18,
         "name": "zet",
-        "percent": 9.22,
+        "percent": 9.21,
         "seconds": 51,
         "text": "18 mins",
         "total_seconds": 1131.412981
       },
       {
-        "digital": "0:08:28",
+        "digital": "0:08:40",
         "hours": 0,
         "minutes": 8,
         "name": "Unknown Project",
-        "percent": 4.14,
-        "seconds": 28,
+        "percent": 4.24,
+        "seconds": 40,
         "text": "8 mins",
-        "total_seconds": 508.344144
+        "total_seconds": 520.484486
       },
       {
         "digital": "0:07:51",
@@ -307,7 +307,7 @@
         "hours": 0,
         "minutes": 7,
         "name": "instagram-unfollowers",
-        "percent": 3.56,
+        "percent": 3.55,
         "seconds": 16,
         "text": "7 mins",
         "total_seconds": 436.593288
@@ -317,7 +317,7 @@
         "hours": 0,
         "minutes": 5,
         "name": "PyInstaStories",
-        "percent": 2.46,
+        "percent": 2.45,
         "seconds": 1,
         "text": "5 mins",
         "total_seconds": 301.148734
@@ -337,7 +337,7 @@
       "date": "2021-05-17",
       "end": "2021-05-18T06:59:59Z",
       "start": "2021-05-17T07:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Los_Angeles"
     }
   }
