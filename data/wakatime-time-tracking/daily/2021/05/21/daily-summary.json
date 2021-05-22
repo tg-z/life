@@ -1,24 +1,101 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.416761
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.416761
+      }
+    ],
     "grand_total": {
       "digital": "0:00",
       "hours": 0,
       "minutes": 0,
       "text": "0 secs",
-      "total_seconds": 0
+      "total_seconds": 3.416761
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.416761
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 0,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.416761
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.416761
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Terminal",
+        "percent": 100,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.416761
+      },
+      {
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "garden",
+        "percent": 0,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      }
+    ],
     "range": {
       "date": "2021-05-21",
       "end": "2021-05-22T06:59:59Z",
       "start": "2021-05-21T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
