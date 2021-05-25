@@ -1,24 +1,141 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:07:04",
+        "hours": 0,
+        "minutes": 7,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 4,
+        "text": "7 mins",
+        "total_seconds": 424.26198
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:07:04",
+        "hours": 0,
+        "minutes": 7,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 4,
+        "text": "7 mins",
+        "total_seconds": 424.26198
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:07",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 7,
+      "text": "7 mins",
+      "total_seconds": 424.26198
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:07:04",
+        "hours": 0,
+        "minutes": 7,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 4,
+        "text": "7 mins",
+        "total_seconds": 424.26198
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:07:04",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 7,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 4,
+        "text": "7 mins",
+        "total_seconds": 424.26198
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:07:04",
+        "hours": 0,
+        "minutes": 7,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 4,
+        "text": "7 mins",
+        "total_seconds": 424.26198
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:05:13",
+        "hours": 0,
+        "minutes": 5,
+        "name": "garden",
+        "percent": 73.88,
+        "seconds": 13,
+        "text": "5 mins",
+        "total_seconds": 313.446696
+      },
+      {
+        "digital": "0:00:50",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Terminal",
+        "percent": 11.85,
+        "seconds": 50,
+        "text": "50 secs",
+        "total_seconds": 50.283185
+      },
+      {
+        "digital": "0:00:26",
+        "hours": 0,
+        "minutes": 0,
+        "name": "wikidaily",
+        "percent": 6.3,
+        "seconds": 26,
+        "text": "26 secs",
+        "total_seconds": 26.717067
+      },
+      {
+        "digital": "0:00:21",
+        "hours": 0,
+        "minutes": 0,
+        "name": "hn-history",
+        "percent": 5.03,
+        "seconds": 21,
+        "text": "21 secs",
+        "total_seconds": 21.3431
+      },
+      {
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "twitter-follow-tracker",
+        "percent": 1.96,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.318485
+      },
+      {
+        "digital": "0:00:04",
+        "hours": 0,
+        "minutes": 0,
+        "name": "life",
+        "percent": 0.98,
+        "seconds": 4,
+        "text": "4 secs",
+        "total_seconds": 4.153447
+      }
+    ],
     "range": {
       "date": "2021-05-24",
       "end": "2021-05-25T06:59:59Z",
       "start": "2021-05-24T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
