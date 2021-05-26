@@ -1,24 +1,342 @@
 [
   {
-    "categories": [],
-    "dependencies": [],
-    "editors": [],
+    "categories": [
+      {
+        "digital": "0:54:00",
+        "hours": 0,
+        "minutes": 54,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 0,
+        "text": "54 mins",
+        "total_seconds": 3240.886305
+      }
+    ],
+    "dependencies": [
+      {
+        "digital": "0:00:51",
+        "hours": 0,
+        "minutes": 0,
+        "name": "\"https://instant.page/5.1.0\"",
+        "percent": 66.36,
+        "seconds": 51,
+        "text": "51 secs",
+        "total_seconds": 51.995359
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "markdown-it-footnote",
+        "percent": 3.36,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.635358
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "eleventy-plugin-toc",
+        "percent": 3.36,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.635358
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "markdown-it-anchor",
+        "percent": 3.36,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.635358
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "@11ty/eleventy-navigation",
+        "percent": 3.36,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.635358
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "filesize",
+        "percent": 3.36,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.635358
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "npm",
+        "percent": 3.36,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.635358
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "markdown-it-table-of-contents",
+        "percent": 3.36,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.635358
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "markdown-it-emoji",
+        "percent": 3.36,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.635358
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "@11ty/eleventy-plugin-rss",
+        "percent": 3.36,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.635358
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "@11ty/eleventy",
+        "percent": 3.36,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.635358
+      }
+    ],
+    "editors": [
+      {
+        "digital": "0:43:09",
+        "hours": 0,
+        "minutes": 43,
+        "name": "Zsh",
+        "percent": 79.89,
+        "seconds": 9,
+        "text": "43 mins",
+        "total_seconds": 2589.285317
+      },
+      {
+        "digital": "0:10:51",
+        "hours": 0,
+        "minutes": 10,
+        "name": "Vim",
+        "percent": 20.11,
+        "seconds": 51,
+        "text": "10 mins",
+        "total_seconds": 651.600988
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:54",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 54,
+      "text": "54 mins",
+      "total_seconds": 3240.886305
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:43:09",
+        "hours": 0,
+        "minutes": 43,
+        "name": "sh",
+        "percent": 79.89,
+        "seconds": 9,
+        "text": "43 mins",
+        "total_seconds": 2589.285317
+      },
+      {
+        "digital": "0:08:42",
+        "hours": 0,
+        "minutes": 8,
+        "name": "CSS",
+        "percent": 16.11,
+        "seconds": 42,
+        "text": "8 mins",
+        "total_seconds": 522.031183
+      },
+      {
+        "digital": "0:00:59",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Markdown",
+        "percent": 1.84,
+        "seconds": 59,
+        "text": "59 secs",
+        "total_seconds": 59.535118
+      },
+      {
+        "digital": "0:00:51",
+        "hours": 0,
+        "minutes": 0,
+        "name": "HTML",
+        "percent": 1.6,
+        "seconds": 51,
+        "text": "51 secs",
+        "total_seconds": 51.995359
+      },
+      {
+        "digital": "0:00:14",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Bash",
+        "percent": 0.45,
+        "seconds": 14,
+        "text": "14 secs",
+        "total_seconds": 14.47767
+      },
+      {
+        "digital": "0:00:02",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.08,
+        "seconds": 2,
+        "text": "2 secs",
+        "total_seconds": 2.635358
+      },
+      {
+        "digital": "0:00:00",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JavaScript",
+        "percent": 0.03,
+        "seconds": 0,
+        "text": "0 secs",
+        "total_seconds": 0.9263
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:54:00",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 54,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 0,
+        "text": "54 mins",
+        "total_seconds": 3240.886305
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:54:00",
+        "hours": 0,
+        "minutes": 54,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 0,
+        "text": "54 mins",
+        "total_seconds": 3240.886305
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:35:33",
+        "hours": 0,
+        "minutes": 35,
+        "name": "pond",
+        "percent": 65.83,
+        "seconds": 33,
+        "text": "35 mins",
+        "total_seconds": 2133.44657
+      },
+      {
+        "digital": "0:06:10",
+        "hours": 0,
+        "minutes": 6,
+        "name": "Terminal",
+        "percent": 11.44,
+        "seconds": 10,
+        "text": "6 mins",
+        "total_seconds": 370.732677
+      },
+      {
+        "digital": "0:04:42",
+        "hours": 0,
+        "minutes": 4,
+        "name": "wikidaily",
+        "percent": 8.72,
+        "seconds": 42,
+        "text": "4 mins",
+        "total_seconds": 282.464261
+      },
+      {
+        "digital": "0:04:16",
+        "hours": 0,
+        "minutes": 4,
+        "name": "hn-history",
+        "percent": 7.93,
+        "seconds": 16,
+        "text": "4 mins",
+        "total_seconds": 256.84649
+      },
+      {
+        "digital": "0:01:54",
+        "hours": 0,
+        "minutes": 1,
+        "name": "spotify-archive",
+        "percent": 3.53,
+        "seconds": 54,
+        "text": "1 min",
+        "total_seconds": 114.531879
+      },
+      {
+        "digital": "0:00:58",
+        "hours": 0,
+        "minutes": 0,
+        "name": "zet",
+        "percent": 1.79,
+        "seconds": 58,
+        "text": "58 secs",
+        "total_seconds": 58.083582
+      },
+      {
+        "digital": "0:00:14",
+        "hours": 0,
+        "minutes": 0,
+        "name": ".zsh.d",
+        "percent": 0.45,
+        "seconds": 14,
+        "text": "14 secs",
+        "total_seconds": 14.47767
+      },
+      {
+        "digital": "0:00:10",
+        "hours": 0,
+        "minutes": 0,
+        "name": "garden",
+        "percent": 0.32,
+        "seconds": 10,
+        "text": "10 secs",
+        "total_seconds": 10.303176
+      }
+    ],
     "range": {
       "date": "2021-05-25",
       "end": "2021-05-26T06:59:59Z",
       "start": "2021-05-25T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
