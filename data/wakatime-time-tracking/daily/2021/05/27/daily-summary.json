@@ -1,24 +1,121 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "0:09:54",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 54,
+        "text": "9 mins",
+        "total_seconds": 594.710875
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "0:09:54",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 54,
+        "text": "9 mins",
+        "total_seconds": 594.710875
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
+      "digital": "0:09",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 9,
+      "text": "9 mins",
+      "total_seconds": 594.710875
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "0:09:54",
+        "hours": 0,
+        "minutes": 9,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 54,
+        "text": "9 mins",
+        "total_seconds": 594.710875
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:09:54",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 9,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 54,
+        "text": "9 mins",
+        "total_seconds": 594.710875
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:09:54",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 54,
+        "text": "9 mins",
+        "total_seconds": 594.710875
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:07:53",
+        "hours": 0,
+        "minutes": 7,
+        "name": "wikidaily",
+        "percent": 79.68,
+        "seconds": 53,
+        "text": "7 mins",
+        "total_seconds": 473.888577
+      },
+      {
+        "digital": "0:01:51",
+        "hours": 0,
+        "minutes": 1,
+        "name": "rexport",
+        "percent": 18.71,
+        "seconds": 51,
+        "text": "1 min",
+        "total_seconds": 111.244141
+      },
+      {
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Terminal",
+        "percent": 0.94,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.613919
+      },
+      {
+        "digital": "0:00:03",
+        "hours": 0,
+        "minutes": 0,
+        "name": "hpi",
+        "percent": 0.67,
+        "seconds": 3,
+        "text": "3 secs",
+        "total_seconds": 3.964238
+      }
+    ],
     "range": {
       "date": "2021-05-27",
       "end": "2021-05-28T06:59:59Z",
       "start": "2021-05-27T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
