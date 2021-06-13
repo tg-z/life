@@ -1,24 +1,111 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "digital": "1:11:07",
+        "hours": 1,
+        "minutes": 11,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 7,
+        "text": "1 hr 11 mins",
+        "total_seconds": 4267.313446
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "digital": "1:11:07",
+        "hours": 1,
+        "minutes": 11,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 7,
+        "text": "1 hr 11 mins",
+        "total_seconds": 4267.313446
+      }
+    ],
     "grand_total": {
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "digital": "1:11",
+      "hours": 1,
+      "minutes": 11,
+      "text": "1 hr 11 mins",
+      "total_seconds": 4267.313446
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "digital": "1:11:07",
+        "hours": 1,
+        "minutes": 11,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 7,
+        "text": "1 hr 11 mins",
+        "total_seconds": 4267.313446
+      }
+    ],
+    "machines": [
+      {
+        "digital": "1:11:07",
+        "hours": 1,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 11,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 7,
+        "text": "1 hr 11 mins",
+        "total_seconds": 4267.313446
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "1:11:07",
+        "hours": 1,
+        "minutes": 11,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 7,
+        "text": "1 hr 11 mins",
+        "total_seconds": 4267.313446
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:35:31",
+        "hours": 0,
+        "minutes": 35,
+        "name": "Terminal",
+        "percent": 49.95,
+        "seconds": 31,
+        "text": "35 mins",
+        "total_seconds": 2131.553443
+      },
+      {
+        "digital": "0:22:05",
+        "hours": 0,
+        "minutes": 22,
+        "name": "zone",
+        "percent": 31.07,
+        "seconds": 5,
+        "text": "22 mins",
+        "total_seconds": 1325.65824
+      },
+      {
+        "digital": "0:13:30",
+        "hours": 0,
+        "minutes": 13,
+        "name": "Tapas-Comic-Downloader",
+        "percent": 18.98,
+        "seconds": 30,
+        "text": "13 mins",
+        "total_seconds": 810.101763
+      }
+    ],
     "range": {
       "date": "2021-06-12",
       "end": "2021-06-13T06:59:59Z",
       "start": "2021-06-12T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }

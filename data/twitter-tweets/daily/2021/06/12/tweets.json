@@ -1,28 +1,129 @@
 [
   {
-    "created_at": "Fri May 21 22:18:05 +0000 2021",
-    "id": 1395866513052029000,
-    "id_str": "1395866513052028928",
-    "text": "RT @LILBTTYBOOP: throwing a drink on somebody is on my bucket list i want to do it soo bad",
+    "created_at": "Sat Jun 12 20:18:10 +0000 2021",
+    "id": 1403808870556909600,
+    "id_str": "1403808870556909568",
+    "text": "https://t.co/MHROoCn7Gw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MHROoCn7Gw",
+          "expanded_url": "https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw?si=8c1e043627934ec9",
+          "display_url": "open.spotify.com/track/3glqlA5q…",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "parasite ☆彡",
+      "screen_name": "parasite______",
+      "location": "Los Angeles, CA",
+      "description": "she/they",
+      "url": "https://t.co/vDXSTwGfQY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vDXSTwGfQY",
+              "expanded_url": "https://pond.computer",
+              "display_url": "pond.computer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 235,
+      "friends_count": 625,
+      "listed_count": 2,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 19159,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4181,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1400629124683628546/2vLy_60x_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400629124683628546/2vLy_60x_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sat Jun 12 15:30:34 +0000 2021",
+    "id": 1403736492061565000,
+    "id_str": "1403736492061564928",
+    "text": "RT @xolopiyotl: “WHAT DID— (checks pronouns in bio) HE SAY”",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "LILBTTYBOOP",
-          "name": "DIA!",
-          "id": 2643060778,
-          "id_str": "2643060778",
+          "screen_name": "xolopiyotl",
+          "name": "Toto",
+          "id": 1402861125247529000,
+          "id_str": "1402861125247528964",
           "indices": [
             3,
-            15
+            14
           ]
         }
       ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -94,10 +195,10 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Fri May 21 04:24:07 +0000 2021",
-      "id": 1395596241833275400,
-      "id_str": "1395596241833275392",
-      "text": "throwing a drink on somebody is on my bucket list i want to do it soo bad",
+      "created_at": "Fri Jun 11 20:49:04 +0000 2021",
+      "id": 1403454259144781800,
+      "id_str": "1403454259144781824",
+      "text": "“WHAT DID— (checks pronouns in bio) HE SAY”",
       "truncated": false,
       "entities": {
         "hashtags": [],
@@ -112,60 +213,47 @@
       "in_reply_to_user_id_str": null,
       "in_reply_to_screen_name": null,
       "user": {
-        "id": 2643060778,
-        "id_str": "2643060778",
-        "name": "DIA!",
-        "screen_name": "LILBTTYBOOP",
-        "location": "$blatinabby🇵🇷🇩🇴",
-        "description": "the sag from brooklyn! she/her",
-        "url": "https://t.co/NKGUIcGHFT",
+        "id": 1402861125247529000,
+        "id_str": "1402861125247528964",
+        "name": "Toto",
+        "screen_name": "xolopiyotl",
+        "location": "He/she",
+        "description": "Two Spirit Nonbinary Native. I’M 17",
+        "url": null,
         "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/NKGUIcGHFT",
-                "expanded_url": "http://instagram.com/2diazzy",
-                "display_url": "instagram.com/2diazzy",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
           "description": {
             "urls": []
           }
         },
         "protected": false,
-        "followers_count": 3987,
-        "friends_count": 907,
-        "listed_count": 8,
-        "created_at": "Thu Jun 26 06:24:14 +0000 2014",
-        "favourites_count": 45345,
+        "followers_count": 551,
+        "friends_count": 195,
+        "listed_count": 0,
+        "created_at": "Thu Jun 10 05:32:22 +0000 2021",
+        "favourites_count": 1388,
         "utc_offset": null,
         "time_zone": null,
-        "geo_enabled": true,
+        "geo_enabled": false,
         "verified": false,
-        "statuses_count": 28734,
+        "statuses_count": 382,
         "lang": null,
         "contributors_enabled": false,
         "is_translator": false,
         "is_translation_enabled": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
         "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1389104242548477956/Z9HBUTrU_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389104242548477956/Z9HBUTrU_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2643060778/1618815726",
-        "profile_link_color": "F58EA8",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403051336531255297/6XCQokWc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403051336531255297/6XCQokWc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402861125247528964/1623348276",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
         "has_extended_profile": true,
-        "default_profile": false,
+        "default_profile": true,
         "default_profile_image": false,
         "following": false,
         "follow_request_sent": false,
@@ -178,48 +266,37 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 17300,
-      "favorite_count": 87336,
+      "retweet_count": 38866,
+      "favorite_count": 314235,
       "favorited": true,
       "retweeted": true,
       "lang": "en"
     },
     "is_quote_status": false,
-    "retweet_count": 17300,
+    "retweet_count": 38866,
     "favorite_count": 0,
     "favorited": true,
     "retweeted": true,
     "lang": "en"
   },
   {
-    "created_at": "Fri May 21 00:07:39 +0000 2021",
-    "id": 1395531700097015800,
-    "id_str": "1395531700097015809",
-    "text": "@lilaaron911 double edged sword ⚔️",
+    "created_at": "Sat Jun 12 02:54:25 +0000 2021",
+    "id": 1403546200029253600,
+    "id_str": "1403546200029253642",
+    "text": "i love the feeling of the wind blowing through my leg hairs",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "lilaaron911",
-          "name": "lil aaron",
-          "id": 2733967279,
-          "id_str": "2733967279",
-          "indices": [
-            0,
-            12
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1395491938330189800,
-    "in_reply_to_status_id_str": "1395491938330189825",
-    "in_reply_to_user_id": 2733967279,
-    "in_reply_to_user_id_str": "2733967279",
-    "in_reply_to_screen_name": "lilaaron911",
+    "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "user": {
       "id": 2902176888,
       "id_str": "2902176888",
