@@ -1,25 +1,153 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.67",
+        "digital": "0:40:00",
+        "hours": 0,
+        "minutes": 40,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 0,
+        "text": "40 mins",
+        "total_seconds": 2400.799855
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.67",
+        "digital": "0:40:00",
+        "hours": 0,
+        "minutes": 40,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 0,
+        "text": "40 mins",
+        "total_seconds": 2400.799855
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.67",
+      "digital": "0:40",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 40,
+      "text": "40 mins",
+      "total_seconds": 2400.799855
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.67",
+        "digital": "0:40:00",
+        "hours": 0,
+        "minutes": 40,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 0,
+        "text": "40 mins",
+        "total_seconds": 2400.799855
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.67",
+        "digital": "0:40:00",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 40,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 0,
+        "text": "40 mins",
+        "total_seconds": 2400.799855
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.67",
+        "digital": "0:40:00",
+        "hours": 0,
+        "minutes": 40,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 0,
+        "text": "40 mins",
+        "total_seconds": 2400.799855
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.43",
+        "digital": "0:26:27",
+        "hours": 0,
+        "minutes": 26,
+        "name": "Terminal",
+        "percent": 66.11,
+        "seconds": 27,
+        "text": "26 mins",
+        "total_seconds": 1587.139611
+      },
+      {
+        "decimal": "0.17",
+        "digital": "0:10:28",
+        "hours": 0,
+        "minutes": 10,
+        "name": "spotify-archive",
+        "percent": 26.16,
+        "seconds": 28,
+        "text": "10 mins",
+        "total_seconds": 628.04675
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:31",
+        "hours": 0,
+        "minutes": 2,
+        "name": "Tapas-Comic-Downloader",
+        "percent": 6.33,
+        "seconds": 31,
+        "text": "2 mins",
+        "total_seconds": 151.994908
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:16",
+        "hours": 0,
+        "minutes": 0,
+        "name": "wikidaily",
+        "percent": 0.7,
+        "seconds": 16,
+        "text": "16 secs",
+        "total_seconds": 16.780875
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": "life",
+        "percent": 0.47,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.3188
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "twitter-follow-tracker",
+        "percent": 0.23,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.518911
+      }
+    ],
     "range": {
       "date": "2021-06-18",
       "end": "2021-06-19T06:59:59Z",
       "start": "2021-06-18T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
