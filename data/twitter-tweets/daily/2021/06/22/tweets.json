@@ -1,15 +1,93 @@
 [
   {
-    "created_at": "Mon May 24 07:11:42 +0000 2021",
-    "id": 1396725578905030700,
-    "id_str": "1396725578905030656",
-    "text": "MY GRAPES ARE HUGE 👿",
+    "created_at": "Tue Jun 22 05:35:37 +0000 2021",
+    "id": 1407210645444083700,
+    "id_str": "1407210645444083713",
+    "text": "original art by me circa 2010 https://t.co/gzMykRaWNv",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 1407210640536658000,
+          "id_str": "1407210640536657921",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4dqnzFWYAEupIG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4dqnzFWYAEupIG.jpg",
+          "url": "https://t.co/gzMykRaWNv",
+          "display_url": "pic.twitter.com/gzMykRaWNv",
+          "expanded_url": "https://twitter.com/parasite______/status/1407210645444083713/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 926,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 525,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1265,
+              "h": 1639,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1407210640536658000,
+          "id_str": "1407210640536657921",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4dqnzFWYAEupIG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4dqnzFWYAEupIG.jpg",
+          "url": "https://t.co/gzMykRaWNv",
+          "display_url": "pic.twitter.com/gzMykRaWNv",
+          "expanded_url": "https://twitter.com/parasite______/status/1407210645444083713/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 926,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 525,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1265,
+              "h": 1639,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
     "in_reply_to_status_id": null,
@@ -84,9 +162,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "en"
   }
 ]
