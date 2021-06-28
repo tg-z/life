@@ -1,25 +1,208 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "1.47",
+        "digital": "1:28:51",
+        "hours": 1,
+        "minutes": 28,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 51,
+        "text": "1 hr 28 mins",
+        "total_seconds": 5331.29613
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "1.30",
+        "digital": "1:18:13",
+        "hours": 1,
+        "minutes": 18,
+        "name": "Zsh",
+        "percent": 88.03,
+        "seconds": 13,
+        "text": "1 hr 18 mins",
+        "total_seconds": 4693.146007
+      },
+      {
+        "decimal": "0.17",
+        "digital": "0:10:38",
+        "hours": 0,
+        "minutes": 10,
+        "name": "Vim",
+        "percent": 11.97,
+        "seconds": 38,
+        "text": "10 mins",
+        "total_seconds": 638.150123
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "1.47",
+      "digital": "1:28",
+      "hours": 1,
+      "minutes": 28,
+      "text": "1 hr 28 mins",
+      "total_seconds": 5331.29613
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "1.30",
+        "digital": "1:18:13",
+        "hours": 1,
+        "minutes": 18,
+        "name": "sh",
+        "percent": 88.03,
+        "seconds": 13,
+        "text": "1 hr 18 mins",
+        "total_seconds": 4693.146007
+      },
+      {
+        "decimal": "0.17",
+        "digital": "0:10:38",
+        "hours": 0,
+        "minutes": 10,
+        "name": "Other",
+        "percent": 11.97,
+        "seconds": 38,
+        "text": "10 mins",
+        "total_seconds": 638.150123
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "1.47",
+        "digital": "1:28:51",
+        "hours": 1,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 28,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 51,
+        "text": "1 hr 28 mins",
+        "total_seconds": 5331.29613
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "1.47",
+        "digital": "1:28:51",
+        "hours": 1,
+        "minutes": 28,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 51,
+        "text": "1 hr 28 mins",
+        "total_seconds": 5331.29613
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "1.10",
+        "digital": "1:06:32",
+        "hours": 1,
+        "minutes": 6,
+        "name": "Terminal",
+        "percent": 74.89,
+        "seconds": 32,
+        "text": "1 hr 6 mins",
+        "total_seconds": 3992.382373
+      },
+      {
+        "decimal": "0.17",
+        "digital": "0:10:38",
+        "hours": 0,
+        "minutes": 10,
+        "name": "Unknown Project",
+        "percent": 11.97,
+        "seconds": 38,
+        "text": "10 mins",
+        "total_seconds": 638.150123
+      },
+      {
+        "decimal": "0.10",
+        "digital": "0:06:43",
+        "hours": 0,
+        "minutes": 6,
+        "name": "Tapas-Comic-Downloader",
+        "percent": 7.56,
+        "seconds": 43,
+        "text": "6 mins",
+        "total_seconds": 403.182042
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:22",
+        "hours": 0,
+        "minutes": 2,
+        "name": "spotify-archive",
+        "percent": 2.67,
+        "seconds": 22,
+        "text": "2 mins",
+        "total_seconds": 142.163399
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:05",
+        "hours": 0,
+        "minutes": 2,
+        "name": "twitter-follow-tracker",
+        "percent": 2.35,
+        "seconds": 5,
+        "text": "2 mins",
+        "total_seconds": 125.354636
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:10",
+        "hours": 0,
+        "minutes": 0,
+        "name": "tg-z",
+        "percent": 0.19,
+        "seconds": 10,
+        "text": "10 secs",
+        "total_seconds": 10.154256
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "hn-history",
+        "percent": 0.17,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.806285
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "zet",
+        "percent": 0.11,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.775716
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:05",
+        "hours": 0,
+        "minutes": 0,
+        "name": "life",
+        "percent": 0.1,
+        "seconds": 5,
+        "text": "5 secs",
+        "total_seconds": 5.3273
+      }
+    ],
     "range": {
       "date": "2021-06-27",
       "end": "2021-06-28T06:59:59Z",
       "start": "2021-06-27T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
