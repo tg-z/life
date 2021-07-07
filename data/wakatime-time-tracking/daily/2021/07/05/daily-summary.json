@@ -19,18 +19,7 @@
         "digital": "0:05:09",
         "hours": 0,
         "minutes": 5,
-        "name": "logging",
-        "percent": 25,
-        "seconds": 9,
-        "text": "5 mins",
-        "total_seconds": 309.944301
-      },
-      {
-        "decimal": "0.08",
-        "digital": "0:05:09",
-        "hours": 0,
-        "minutes": 5,
-        "name": "datetime",
+        "name": "typing",
         "percent": 25,
         "seconds": 9,
         "text": "5 mins",
@@ -52,7 +41,18 @@
         "digital": "0:05:09",
         "hours": 0,
         "minutes": 5,
-        "name": "typing",
+        "name": "logging",
+        "percent": 25,
+        "seconds": 9,
+        "text": "5 mins",
+        "total_seconds": 309.944301
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:09",
+        "hours": 0,
+        "minutes": 5,
+        "name": "datetime",
         "percent": 25,
         "seconds": 9,
         "text": "5 mins",
@@ -280,7 +280,7 @@
       "date": "2021-07-05",
       "end": "2021-07-06T06:59:59Z",
       "start": "2021-07-05T07:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Los_Angeles"
     }
   }
