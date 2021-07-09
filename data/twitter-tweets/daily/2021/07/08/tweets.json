@@ -1,15 +1,25 @@
 [
   {
-    "created_at": "Wed Jun 23 02:36:37 +0000 2021",
-    "id": 1407527989663961000,
-    "id_str": "1407527989663961090",
-    "text": "I love the movie spree I've seen it four times",
+    "created_at": "Thu Jul 08 00:44:26 +0000 2021",
+    "id": 1412935572268765200,
+    "id_str": "1412935572268765184",
+    "text": "https://t.co/CqM2jiwptJ",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/CqM2jiwptJ",
+          "expanded_url": "https://www.youtube.com/watch?v=3P-wT723kYs",
+          "display_url": "youtube.com/watch?v=3P-wT7…",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
     "in_reply_to_status_id": null,
@@ -88,6 +98,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "en"
+    "possibly_sensitive": false,
+    "lang": "und"
   }
 ]
