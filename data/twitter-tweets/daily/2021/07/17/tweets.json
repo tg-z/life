@@ -1,15 +1,25 @@
 [
   {
-    "created_at": "Mon Jun 21 20:33:07 +0000 2021",
-    "id": 1407074123713495000,
-    "id_str": "1407074123713495040",
-    "text": "i wish i was a parseltongue so bad",
+    "created_at": "Sat Jul 17 13:33:03 +0000 2021",
+    "id": 1416390491902460000,
+    "id_str": "1416390491902459914",
+    "text": "https://t.co/XZmhQa4AhG",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/XZmhQa4AhG",
+          "expanded_url": "https://open.spotify.com/track/2RFzaIg3tJhvJdNIUqvr9R",
+          "display_url": "open.spotify.com/track/2RFzaIg3…",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
     "in_reply_to_status_id": null,
@@ -88,6 +98,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "en"
+    "possibly_sensitive": false,
+    "lang": "und"
   }
 ]
