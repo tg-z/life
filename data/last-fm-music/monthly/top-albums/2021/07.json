@@ -97,12 +97,44 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/Stray+Kids",
+      "name": "Stray Kids",
+      "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9"
+    },
+    "@attr": {
+      "rank": "4"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9c7451e44b3fe16eecf04bd1dae45b0.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9c7451e44b3fe16eecf04bd1dae45b0.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9c7451e44b3fe16eecf04bd1dae45b0.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9c7451e44b3fe16eecf04bd1dae45b0.jpg"
+      }
+    ],
+    "playcount": "25",
+    "url": "https://www.last.fm/music/Stray+Kids/IN+LIFE",
+    "name": "IN LIFE",
+    "mbid": "0ae0635f-4ef9-4d13-9ac0-d053217142be"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/BLACKPINK",
       "name": "BLACKPINK",
       "mbid": "48646387-1664-4c9a-9139-9bfd091b823c"
     },
     "@attr": {
-      "rank": "4"
+      "rank": "5"
     },
     "image": [
       {
@@ -126,38 +158,6 @@
     "url": "https://www.last.fm/music/BLACKPINK/THE+ALBUM",
     "name": "THE ALBUM",
     "mbid": "0cc2ceec-ba8b-4ee1-a415-4fe91a162adf"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Stray+Kids",
-      "name": "Stray Kids",
-      "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9"
-    },
-    "@attr": {
-      "rank": "5"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9c7451e44b3fe16eecf04bd1dae45b0.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9c7451e44b3fe16eecf04bd1dae45b0.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9c7451e44b3fe16eecf04bd1dae45b0.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9c7451e44b3fe16eecf04bd1dae45b0.jpg"
-      }
-    ],
-    "playcount": "21",
-    "url": "https://www.last.fm/music/Stray+Kids/IN+LIFE",
-    "name": "IN LIFE",
-    "mbid": "0ae0635f-4ef9-4d13-9ac0-d053217142be"
   },
   {
     "artist": {
@@ -250,7 +250,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2998abc4c73550e78749e21846afa431.jpg"
       }
     ],
-    "playcount": "14",
+    "playcount": "15",
     "url": "https://www.last.fm/music/Agust+D/D-2",
     "name": "D-2",
     "mbid": "4741120f-c179-4b72-a39d-f6106b74c334"
@@ -282,7 +282,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7baa5b98fc074cf2d85578f6776545a5.jpg"
       }
     ],
-    "playcount": "13",
+    "playcount": "15",
     "url": "https://www.last.fm/music/P1Harmony/DISHARMONY+:+STAND+OUT",
     "name": "DISHARMONY : STAND OUT",
     "mbid": "d428222d-bba1-4af9-94a1-9e3dac06cee0"
@@ -545,12 +545,44 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/P1Harmony",
+      "name": "P1Harmony",
+      "mbid": ""
+    },
+    "@attr": {
+      "rank": "18"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3884eba1b18567cf68049236fab281ec.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3884eba1b18567cf68049236fab281ec.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3884eba1b18567cf68049236fab281ec.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3884eba1b18567cf68049236fab281ec.jpg"
+      }
+    ],
+    "playcount": "10",
+    "url": "https://www.last.fm/music/P1Harmony/DISHARMONY+:+BREAK+OUT",
+    "name": "DISHARMONY : BREAK OUT",
+    "mbid": ""
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
       "name": "TOMORROW X TOGETHER",
       "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
     },
     "@attr": {
-      "rank": "18"
+      "rank": "19"
     },
     "image": [
       {
@@ -582,7 +614,7 @@
       "mbid": "08525643-7a01-411e-8188-8bf57261c8b3"
     },
     "@attr": {
-      "rank": "19"
+      "rank": "20"
     },
     "image": [
       {
@@ -606,37 +638,5 @@
     "url": "https://www.last.fm/music/CHUNG+HA/QUERENCIA",
     "name": "QUERENCIA",
     "mbid": "7defd85c-32e9-4581-b102-a29c4fb113f1"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/(G)I-DLE",
-      "name": "(G)I-DLE",
-      "mbid": "0068ae6c-7156-40f9-a81f-39294af6a549"
-    },
-    "@attr": {
-      "rank": "20"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ec86251c833d6c68ab86d4f386eb7beb.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ec86251c833d6c68ab86d4f386eb7beb.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ec86251c833d6c68ab86d4f386eb7beb.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ec86251c833d6c68ab86d4f386eb7beb.jpg"
-      }
-    ],
-    "playcount": "8",
-    "url": "https://www.last.fm/music/(G)I-DLE/I+Trust",
-    "name": "I Trust",
-    "mbid": "71452017-7feb-4ce4-8841-ad407e0e4da7"
   }
 ]
