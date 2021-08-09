@@ -1,4 +1,7 @@
 integrations:
+  spotify:
+    frequency: "daily"
+    all: true
   last-fm:
     frequency: "daily"
     all: true
@@ -8,14 +11,6 @@ integrations:
   twitter:
     frequency: "daily"
     all: true
-#  spotify:
-#    frequency: "daily"
-#    all: true
 #  goodreads:
 #    frequency: "daily"
 #    all: true
-  # rescuetime:
-  # oura-ring:
-  # google-fit:
-  # pocket-casts:
-  # clockify:
