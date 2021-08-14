@@ -26,7 +26,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/450cc28daaa0b9f9ad284b8ed77bd791.jpg"
       }
     ],
-    "playcount": "64",
+    "playcount": "65",
     "url": "https://www.last.fm/music/ENHYPEN/BORDER+:+CARNIVAL",
     "name": "BORDER : CARNIVAL",
     "mbid": ""
@@ -97,12 +97,44 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/BTS",
+      "name": "BTS",
+      "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+    },
+    "@attr": {
+      "rank": "4"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/54c91da2fb13a0e00e056784145afd80.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/54c91da2fb13a0e00e056784145afd80.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/54c91da2fb13a0e00e056784145afd80.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/54c91da2fb13a0e00e056784145afd80.png"
+      }
+    ],
+    "playcount": "48",
+    "url": "https://www.last.fm/music/BTS/MAP+OF+THE+SOUL+:+7",
+    "name": "MAP OF THE SOUL : 7",
+    "mbid": "0c81c5bb-8714-45b4-8fba-b7994df5f79f"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/Bladee",
       "name": "Bladee",
       "mbid": "cd689e77-dfdd-4f81-b50c-5e5a3f5e38a4"
     },
     "@attr": {
-      "rank": "4"
+      "rank": "5"
     },
     "image": [
       {
@@ -126,38 +158,6 @@
     "url": "https://www.last.fm/music/Bladee/EXETER",
     "name": "EXETER",
     "mbid": "2f4deb5f-2e55-41ef-ad86-2407f1dfa7fc"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/BTS",
-      "name": "BTS",
-      "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853"
-    },
-    "@attr": {
-      "rank": "5"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/54c91da2fb13a0e00e056784145afd80.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/54c91da2fb13a0e00e056784145afd80.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/54c91da2fb13a0e00e056784145afd80.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/54c91da2fb13a0e00e056784145afd80.png"
-      }
-    ],
-    "playcount": "47",
-    "url": "https://www.last.fm/music/BTS/MAP+OF+THE+SOUL+:+7",
-    "name": "MAP OF THE SOUL : 7",
-    "mbid": "0c81c5bb-8714-45b4-8fba-b7994df5f79f"
   },
   {
     "artist": {
@@ -218,7 +218,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
       }
     ],
-    "playcount": "44",
+    "playcount": "45",
     "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Chaos+Chapter:+FREEZE",
     "name": "The Chaos Chapter: FREEZE",
     "mbid": ""
@@ -282,7 +282,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2998abc4c73550e78749e21846afa431.jpg"
       }
     ],
-    "playcount": "37",
+    "playcount": "38",
     "url": "https://www.last.fm/music/Agust+D/D-2",
     "name": "D-2",
     "mbid": "4741120f-c179-4b72-a39d-f6106b74c334"
@@ -506,7 +506,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5f0214a58dec8ee36d902b50104b9740.jpg"
       }
     ],
-    "playcount": "25",
+    "playcount": "26",
     "url": "https://www.last.fm/music/BTS/Love+Yourself+%E8%BD%89+%27Tear%27",
     "name": "Love Yourself 轉 'Tear'",
     "mbid": "752b7eaf-5201-43bf-8ab8-d765a5f5f654"
@@ -570,9 +570,41 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3884eba1b18567cf68049236fab281ec.jpg"
       }
     ],
-    "playcount": "23",
+    "playcount": "24",
     "url": "https://www.last.fm/music/P1Harmony/DISHARMONY+:+BREAK+OUT",
     "name": "DISHARMONY : BREAK OUT",
+    "mbid": ""
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/Stray+Kids",
+      "name": "Stray Kids",
+      "mbid": ""
+    },
+    "@attr": {
+      "rank": "19"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/83d8d498c6b51dfd6766e6180497361a.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/83d8d498c6b51dfd6766e6180497361a.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/83d8d498c6b51dfd6766e6180497361a.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83d8d498c6b51dfd6766e6180497361a.jpg"
+      }
+    ],
+    "playcount": "23",
+    "url": "https://www.last.fm/music/Stray+Kids/GO+Live",
+    "name": "GO Live",
     "mbid": ""
   },
   {
@@ -582,7 +614,7 @@
       "mbid": "d6d45dda-2377-4faa-947b-e071efa085c0"
     },
     "@attr": {
-      "rank": "19"
+      "rank": "20"
     },
     "image": [
       {
@@ -606,37 +638,5 @@
     "url": "https://www.last.fm/music/100+gecs/1000+gecs",
     "name": "1000 gecs",
     "mbid": "6cddb1f1-d7c4-4932-b080-fe9a0968eb75"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Stray+Kids",
-      "name": "Stray Kids",
-      "mbid": ""
-    },
-    "@attr": {
-      "rank": "20"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/83d8d498c6b51dfd6766e6180497361a.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/83d8d498c6b51dfd6766e6180497361a.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/83d8d498c6b51dfd6766e6180497361a.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83d8d498c6b51dfd6766e6180497361a.jpg"
-      }
-    ],
-    "playcount": "22",
-    "url": "https://www.last.fm/music/Stray+Kids/GO+Live",
-    "name": "GO Live",
-    "mbid": ""
   }
 ]
