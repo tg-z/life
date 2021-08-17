@@ -1,5 +1,286 @@
 [
   {
+    "created_at": "Sat Aug 14 23:03:51 +0000 2021",
+    "id": 1426680998935343000,
+    "id_str": "1426680998935343108",
+    "text": "Evergreen https://t.co/KB3nLWpwN4 https://t.co/0wNHRtVKCq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KB3nLWpwN4",
+          "expanded_url": "https://twitter.com/eurogamer/status/1426622420446814216",
+          "display_url": "twitter.com/eurogamer/stat…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1426680991746334700,
+          "id_str": "1426680991746334720",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/E8yWzZjXoAALlVV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E8yWzZjXoAALlVV.jpg",
+          "url": "https://t.co/0wNHRtVKCq",
+          "display_url": "pic.twitter.com/0wNHRtVKCq",
+          "expanded_url": "https://twitter.com/archivistmemes/status/1426680998935343108/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 660,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 660,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 660,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1426680991746334700,
+          "id_str": "1426680991746334720",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/E8yWzZjXoAALlVV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E8yWzZjXoAALlVV.jpg",
+          "url": "https://t.co/0wNHRtVKCq",
+          "display_url": "pic.twitter.com/0wNHRtVKCq",
+          "expanded_url": "https://twitter.com/archivistmemes/status/1426680998935343108/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 660,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 660,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 660,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1118979940001697800,
+      "id_str": "1118979940001697792",
+      "name": "archivistmemes",
+      "screen_name": "archivistmemes",
+      "location": "",
+      "description": "Because this gig is a lot funnier than it gets credit for. | SUBMISSIONS ARE WELCOME - JUST DM!! ❤️🗃❤️",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 11613,
+      "friends_count": 0,
+      "listed_count": 42,
+      "created_at": "Thu Apr 18 20:49:42 +0000 2019",
+      "favourites_count": 1839,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1110,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1118981739404234753/myRhK3gz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118981739404234753/myRhK3gz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1118979940001697792/1555621011",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1426622420446814200,
+    "quoted_status_id_str": "1426622420446814216",
+    "quoted_status": {
+      "created_at": "Sat Aug 14 19:11:05 +0000 2021",
+      "id": 1426622420446814200,
+      "id_str": "1426622420446814216",
+      "text": "Owner of defunct ROM site ordered to \"permanently destroy\" all unauthorised Nintendo games https://t.co/MOC4L4LwR7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MOC4L4LwR7",
+            "expanded_url": "https://www.eurogamer.net/articles/2021-08-14-court-orders-owner-of-defunct-rom-site-permanently-destroy-all-unauthorised-nintendo-games",
+            "display_url": "eurogamer.net/articles/2021-…",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14799177,
+        "id_str": "14799177",
+        "name": "Eurogamer",
+        "screen_name": "eurogamer",
+        "location": "United Kingdom",
+        "description": "Bad puns and video games since 1999. Facebook: https://t.co/GVvDUGCxiD",
+        "url": "https://t.co/nJbOhvBDXB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/nJbOhvBDXB",
+                "expanded_url": "http://www.eurogamer.net",
+                "display_url": "eurogamer.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/GVvDUGCxiD",
+                "expanded_url": "http://www.facebook.com/Eurogamer",
+                "display_url": "facebook.com/Eurogamer",
+                "indices": [
+                  47,
+                  70
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 404305,
+        "friends_count": 256,
+        "listed_count": 3832,
+        "created_at": "Fri May 16 14:13:39 +0000 2008",
+        "favourites_count": 1361,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 75083,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3741D4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1172134147093159936/hkfQHOa8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172134147093159936/hkfQHOa8_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14799177/1609947898",
+        "profile_link_color": "0084CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F0F0F0",
+        "profile_text_color": "4A4A4A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 63,
+      "favorite_count": 237,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1689,
+    "favorite_count": 5222,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Aug 14 18:34:51 +0000 2021",
     "id": 1426613303732707300,
     "id_str": "1426613303732707329",
@@ -52,16 +333,16 @@
         }
       },
       "protected": false,
-      "followers_count": 1016,
-      "friends_count": 669,
+      "followers_count": 1018,
+      "friends_count": 671,
       "listed_count": 1,
       "created_at": "Fri Aug 07 03:19:00 +0000 2015",
-      "favourites_count": 27719,
+      "favourites_count": 27754,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 20418,
+      "statuses_count": 20438,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -140,16 +421,16 @@
         }
       },
       "protected": false,
-      "followers_count": 1016,
-      "friends_count": 669,
+      "followers_count": 1018,
+      "friends_count": 671,
       "listed_count": 1,
       "created_at": "Fri Aug 07 03:19:00 +0000 2015",
-      "favourites_count": 27719,
+      "favourites_count": 27754,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 20418,
+      "statuses_count": 20438,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -181,7 +462,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 15,
+    "favorite_count": 16,
     "favorited": true,
     "retweeted": true,
     "lang": "en"
@@ -207,10 +488,10 @@
     "user": {
       "id": 902770018064138200,
       "id_str": "902770018064138240",
-      "name": "😎",
+      "name": "🦇",
       "screen_name": "cliveecity",
       "location": "he/him",
-      "description": "bad karma good prada",
+      "description": "medium funny account",
       "url": "https://t.co/DDhSrzoiJG",
       "entities": {
         "url": {
@@ -232,15 +513,15 @@
       },
       "protected": false,
       "followers_count": 407,
-      "friends_count": 269,
+      "friends_count": 270,
       "listed_count": 1,
       "created_at": "Wed Aug 30 05:48:39 +0000 2017",
-      "favourites_count": 22565,
+      "favourites_count": 22593,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 551,
+      "statuses_count": 554,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -322,7 +603,7 @@
         }
       },
       "protected": false,
-      "followers_count": 1630,
+      "followers_count": 1655,
       "friends_count": 459,
       "listed_count": 15,
       "created_at": "Fri Mar 02 15:05:50 +0000 2018",
@@ -362,8 +643,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 3185,
-    "favorite_count": 65729,
+    "retweet_count": 4497,
+    "favorite_count": 89418,
     "favorited": true,
     "retweeted": false,
     "lang": "en"
