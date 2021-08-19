@@ -2,130 +2,130 @@
   {
     "categories": [
       {
-        "decimal": "0.00",
-        "digital": "0:00:24",
+        "decimal": "0.02",
+        "digital": "0:01:21",
         "hours": 0,
-        "minutes": 0,
+        "minutes": 1,
         "name": "Coding",
         "percent": 100,
-        "seconds": 24,
-        "text": "24 secs",
-        "total_seconds": 24.024584
+        "seconds": 21,
+        "text": "1 min",
+        "total_seconds": 81.812726
       }
     ],
     "dependencies": [],
     "editors": [
       {
         "decimal": "0.00",
+        "digital": "0:00:57",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Zsh",
+        "percent": 70.63,
+        "seconds": 57,
+        "text": "57 secs",
+        "total_seconds": 57.788142
+      },
+      {
+        "decimal": "0.00",
         "digital": "0:00:24",
         "hours": 0,
         "minutes": 0,
         "name": "Vim",
-        "percent": 100,
+        "percent": 29.37,
         "seconds": 24,
         "text": "24 secs",
         "total_seconds": 24.024584
-      },
-      {
-        "decimal": "0.00",
-        "digital": "0:00:00",
-        "hours": 0,
-        "minutes": 0,
-        "name": "Zsh",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
       }
     ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.02",
+      "digital": "0:01",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 24.024584
+      "minutes": 1,
+      "text": "1 min",
+      "total_seconds": 81.812726
     },
     "languages": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:57",
+        "hours": 0,
+        "minutes": 0,
+        "name": "sh",
+        "percent": 70.63,
+        "seconds": 57,
+        "text": "57 secs",
+        "total_seconds": 57.788142
+      },
       {
         "decimal": "0.00",
         "digital": "0:00:24",
         "hours": 0,
         "minutes": 0,
         "name": "JSON",
-        "percent": 100,
+        "percent": 29.37,
         "seconds": 24,
         "text": "24 secs",
         "total_seconds": 24.024584
-      },
-      {
-        "decimal": "0.00",
-        "digital": "0:00:00",
-        "hours": 0,
-        "minutes": 0,
-        "name": "sh",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
       }
     ],
     "machines": [
       {
-        "decimal": "0.00",
-        "digital": "0:00:24",
+        "decimal": "0.02",
+        "digital": "0:01:21",
         "hours": 0,
         "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
-        "minutes": 0,
+        "minutes": 1,
         "name": "bluetooths-macbook-pro.local",
         "percent": 100,
-        "seconds": 24,
-        "text": "24 secs",
-        "total_seconds": 24.024584
+        "seconds": 21,
+        "text": "1 min",
+        "total_seconds": 81.812726
       }
     ],
     "operating_systems": [
       {
-        "decimal": "0.00",
-        "digital": "0:00:24",
+        "decimal": "0.02",
+        "digital": "0:01:21",
         "hours": 0,
-        "minutes": 0,
+        "minutes": 1,
         "name": "Mac",
         "percent": 100,
-        "seconds": 24,
-        "text": "24 secs",
-        "total_seconds": 24.024584
+        "seconds": 21,
+        "text": "1 min",
+        "total_seconds": 81.812726
       }
     ],
     "projects": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:57",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Terminal",
+        "percent": 70.63,
+        "seconds": 57,
+        "text": "57 secs",
+        "total_seconds": 57.788142
+      },
       {
         "decimal": "0.00",
         "digital": "0:00:24",
         "hours": 0,
         "minutes": 0,
         "name": "Unknown Project",
-        "percent": 100,
+        "percent": 29.37,
         "seconds": 24,
         "text": "24 secs",
         "total_seconds": 24.024584
-      },
-      {
-        "decimal": "0.00",
-        "digital": "0:00:00",
-        "hours": 0,
-        "minutes": 0,
-        "name": "Terminal",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
       }
     ],
     "range": {
       "date": "2021-08-17",
       "end": "2021-08-18T06:59:59Z",
       "start": "2021-08-17T07:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Los_Angeles"
     }
   }
