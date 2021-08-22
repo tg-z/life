@@ -75,19 +75,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ca77a465ee7b419d83298d111f61a881.jpg"
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3dbf948fbb6df9fa93327356915f55bf.jpg"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ca77a465ee7b419d83298d111f61a881.jpg"
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3dbf948fbb6df9fa93327356915f55bf.jpg"
       },
       {
         "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ca77a465ee7b419d83298d111f61a881.jpg"
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3dbf948fbb6df9fa93327356915f55bf.jpg"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ca77a465ee7b419d83298d111f61a881.jpg"
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3dbf948fbb6df9fa93327356915f55bf.jpg"
       }
     ],
     "playcount": "51",
@@ -161,12 +161,44 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
+      "name": "TOMORROW X TOGETHER",
+      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
+    },
+    "@attr": {
+      "rank": "6"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      }
+    ],
+    "playcount": "49",
+    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Chaos+Chapter:+FREEZE",
+    "name": "The Chaos Chapter: FREEZE",
+    "mbid": "e33af126-15b7-4869-9438-524ca12687d4"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/BLACKPINK",
       "name": "BLACKPINK",
       "mbid": "48646387-1664-4c9a-9139-9bfd091b823c"
     },
     "@attr": {
-      "rank": "6"
+      "rank": "7"
     },
     "image": [
       {
@@ -190,38 +222,6 @@
     "url": "https://www.last.fm/music/BLACKPINK/THE+ALBUM",
     "name": "THE ALBUM",
     "mbid": "0cc2ceec-ba8b-4ee1-a415-4fe91a162adf"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
-      "name": "TOMORROW X TOGETHER",
-      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
-    },
-    "@attr": {
-      "rank": "7"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      }
-    ],
-    "playcount": "48",
-    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Chaos+Chapter:+FREEZE",
-    "name": "The Chaos Chapter: FREEZE",
-    "mbid": "e33af126-15b7-4869-9438-524ca12687d4"
   },
   {
     "artist": {
@@ -346,7 +346,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7baa5b98fc074cf2d85578f6776545a5.jpg"
       }
     ],
-    "playcount": "32",
+    "playcount": "33",
     "url": "https://www.last.fm/music/P1Harmony/DISHARMONY+:+STAND+OUT",
     "name": "DISHARMONY : STAND OUT",
     "mbid": "d428222d-bba1-4af9-94a1-9e3dac06cee0"
@@ -602,7 +602,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f3ec1ee4a46e74975946d3cb66466414.png"
       }
     ],
-    "playcount": "24",
+    "playcount": "25",
     "url": "https://www.last.fm/music/BTS/The+Most+Beautiful+Moment+in+Life:+Young+Forever",
     "name": "The Most Beautiful Moment in Life: Young Forever",
     "mbid": ""

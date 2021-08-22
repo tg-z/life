@@ -1,15 +1,25 @@
 [
   {
-    "created_at": "Thu Aug 12 05:18:02 +0000 2021",
-    "id": 1425688003578577000,
-    "id_str": "1425688003578576900",
-    "text": "starting the given live action",
+    "created_at": "Sun Aug 22 00:06:17 +0000 2021",
+    "id": 1429233425236562000,
+    "id_str": "1429233425236561928",
+    "text": "https://t.co/LzUjVsOAsG",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/LzUjVsOAsG",
+          "expanded_url": "https://open.spotify.com/track/4mYu3kfBCW6qiTDnfVeuMx?si=VR3O3iYQS9y9L8OGAb4Lcg&utm_source=copy-link&dl_branch=1",
+          "display_url": "open.spotify.com/track/4mYu3kfB…",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
     "in_reply_to_status_id": null,
@@ -88,6 +98,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "en"
+    "possibly_sensitive": false,
+    "lang": "und"
   }
 ]
