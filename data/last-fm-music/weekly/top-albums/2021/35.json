@@ -11,22 +11,22 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/79f28c7445ce62b932b2dd435bbcc086.jpg"
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c29fbeaea5464585f5435f3fb5bbee2f.gif"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/79f28c7445ce62b932b2dd435bbcc086.jpg"
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c29fbeaea5464585f5435f3fb5bbee2f.gif"
       },
       {
         "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/79f28c7445ce62b932b2dd435bbcc086.jpg"
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c29fbeaea5464585f5435f3fb5bbee2f.gif"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79f28c7445ce62b932b2dd435bbcc086.jpg"
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c29fbeaea5464585f5435f3fb5bbee2f.gif"
       }
     ],
-    "playcount": "17",
+    "playcount": "19",
     "url": "https://www.last.fm/music/Stray+Kids/NOEASY",
     "name": "NOEASY",
     "mbid": ""
@@ -58,7 +58,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57bd836e9bda76409400ce783e0fc7c4.jpg"
       }
     ],
-    "playcount": "7",
+    "playcount": "6",
     "url": "https://www.last.fm/music/j-hope/Hope+World",
     "name": "Hope World",
     "mbid": "990fbb47-ce22-4928-a540-667a6085ab20"
@@ -90,7 +90,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/54c91da2fb13a0e00e056784145afd80.png"
       }
     ],
-    "playcount": "5",
+    "playcount": "4",
     "url": "https://www.last.fm/music/BTS/MAP+OF+THE+SOUL+:+7",
     "name": "MAP OF THE SOUL : 7",
     "mbid": "0c81c5bb-8714-45b4-8fba-b7994df5f79f"
@@ -161,12 +161,44 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/April",
+      "name": "April",
+      "mbid": ""
+    },
+    "@attr": {
+      "rank": "6"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be150fd4fbb5a243cfb3b211fd9f601b.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be150fd4fbb5a243cfb3b211fd9f601b.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be150fd4fbb5a243cfb3b211fd9f601b.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be150fd4fbb5a243cfb3b211fd9f601b.jpg"
+      }
+    ],
+    "playcount": "3",
+    "url": "https://www.last.fm/music/April/Extraordinary+You+Pt.1+(Original+Television+Soundtrack)",
+    "name": "Extraordinary You Pt.1 (Original Television Soundtrack)",
+    "mbid": ""
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/Bigbang",
       "name": "Bigbang",
       "mbid": ""
     },
     "@attr": {
-      "rank": "6"
+      "rank": "7"
     },
     "image": [
       {
@@ -198,7 +230,7 @@
       "mbid": ""
     },
     "@attr": {
-      "rank": "7"
+      "rank": "8"
     },
     "image": [
       {
@@ -221,38 +253,6 @@
     "playcount": "3",
     "url": "https://www.last.fm/music/BTS/Butter+%2F+Permission+to+Dance",
     "name": "Butter / Permission to Dance",
-    "mbid": ""
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/BTS",
-      "name": "BTS",
-      "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853"
-    },
-    "@attr": {
-      "rank": "8"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f3ec1ee4a46e74975946d3cb66466414.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f3ec1ee4a46e74975946d3cb66466414.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f3ec1ee4a46e74975946d3cb66466414.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f3ec1ee4a46e74975946d3cb66466414.png"
-      }
-    ],
-    "playcount": "3",
-    "url": "https://www.last.fm/music/BTS/The+Most+Beautiful+Moment+in+Life:+Young+Forever",
-    "name": "The Most Beautiful Moment in Life: Young Forever",
     "mbid": ""
   },
   {
@@ -353,44 +353,12 @@
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/SuperM",
-      "name": "SuperM",
-      "mbid": "5a35701f-9209-4742-ad44-7432d3230127"
-    },
-    "@attr": {
-      "rank": "12"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d6464c444f99af98921b15b71f628570.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d6464c444f99af98921b15b71f628570.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d6464c444f99af98921b15b71f628570.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d6464c444f99af98921b15b71f628570.jpg"
-      }
-    ],
-    "playcount": "3",
-    "url": "https://www.last.fm/music/SuperM/One+(Monster+&+Infinity)",
-    "name": "One (Monster & Infinity)",
-    "mbid": ""
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
       "name": "TOMORROW X TOGETHER",
       "mbid": ""
     },
     "@attr": {
-      "rank": "13"
+      "rank": "12"
     },
     "image": [
       {
@@ -414,6 +382,38 @@
     "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Chaos+Chapter:+FIGHT+OR+ESCAPE",
     "name": "The Chaos Chapter: FIGHT OR ESCAPE",
     "mbid": ""
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
+      "name": "TOMORROW X TOGETHER",
+      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
+    },
+    "@attr": {
+      "rank": "13"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0a985fbdc2ad687f1bb4ab9d7173332c.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0a985fbdc2ad687f1bb4ab9d7173332c.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0a985fbdc2ad687f1bb4ab9d7173332c.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a985fbdc2ad687f1bb4ab9d7173332c.jpg"
+      }
+    ],
+    "playcount": "3",
+    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Dream+Chapter:+ETERNITY",
+    "name": "The Dream Chapter: ETERNITY",
+    "mbid": "241e717b-180b-4084-bf88-5d59b6fdf7fa"
   },
   {
     "artist": {
