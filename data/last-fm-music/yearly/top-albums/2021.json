@@ -58,7 +58,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/54c91da2fb13a0e00e056784145afd80.png"
       }
     ],
-    "playcount": "61",
+    "playcount": "63",
     "url": "https://www.last.fm/music/BTS/MAP+OF+THE+SOUL+:+7",
     "name": "MAP OF THE SOUL : 7",
     "mbid": "0c81c5bb-8714-45b4-8fba-b7994df5f79f"
@@ -90,7 +90,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9c7451e44b3fe16eecf04bd1dae45b0.jpg"
       }
     ],
-    "playcount": "55",
+    "playcount": "57",
     "url": "https://www.last.fm/music/Stray+Kids/IN+LIFE",
     "name": "IN LIFE",
     "mbid": "0ae0635f-4ef9-4d13-9ac0-d053217142be"
@@ -218,7 +218,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2b346bdcc6f56e7d1f1c546b13cdacfb.png"
       }
     ],
-    "playcount": "50",
+    "playcount": "51",
     "url": "https://www.last.fm/music/BLACKPINK/THE+ALBUM",
     "name": "THE ALBUM",
     "mbid": "0cc2ceec-ba8b-4ee1-a415-4fe91a162adf"
@@ -577,12 +577,44 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/Meloh",
+      "name": "Meloh",
+      "mbid": ""
+    },
+    "@attr": {
+      "rank": "19"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/704d964ad18529be4a11576381567134.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/704d964ad18529be4a11576381567134.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/704d964ad18529be4a11576381567134.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/704d964ad18529be4a11576381567134.png"
+      }
+    ],
+    "playcount": "26",
+    "url": "https://www.last.fm/music/Meloh/MELOH",
+    "name": "MELOH",
+    "mbid": "0fdd33f5-dfcb-4ba1-b1fd-32b2b8eb9d83"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/Stray+Kids",
       "name": "Stray Kids",
       "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9"
     },
     "@attr": {
-      "rank": "19"
+      "rank": "20"
     },
     "image": [
       {
@@ -606,37 +638,5 @@
     "url": "https://www.last.fm/music/Stray+Kids/NOEASY",
     "name": "NOEASY",
     "mbid": "27c0a08e-5e50-4dd8-b057-b3ed037d5bc2"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/BTS",
-      "name": "BTS",
-      "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853"
-    },
-    "@attr": {
-      "rank": "20"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99ae58158640614ffce8d6cbbf23c99b.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99ae58158640614ffce8d6cbbf23c99b.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99ae58158640614ffce8d6cbbf23c99b.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99ae58158640614ffce8d6cbbf23c99b.jpg"
-      }
-    ],
-    "playcount": "25",
-    "url": "https://www.last.fm/music/BTS/Love+Yourself+%E7%B5%90+%27Answer%27",
-    "name": "Love Yourself 結 'Answer'",
-    "mbid": "05670a69-5f11-4da0-81d7-d3b8bd252f3f"
   }
 ]
