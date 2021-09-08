@@ -1,25 +1,109 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "1.55",
+        "digital": "1:33:51",
+        "hours": 1,
+        "minutes": 33,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 51,
+        "text": "1 hr 33 mins",
+        "total_seconds": 5631.799724
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "1.55",
+        "digital": "1:33:51",
+        "hours": 1,
+        "minutes": 33,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 51,
+        "text": "1 hr 33 mins",
+        "total_seconds": 5631.799724
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "1.55",
+      "digital": "1:33",
+      "hours": 1,
+      "minutes": 33,
+      "text": "1 hr 33 mins",
+      "total_seconds": 5631.799724
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "1.55",
+        "digital": "1:33:51",
+        "hours": 1,
+        "minutes": 33,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 51,
+        "text": "1 hr 33 mins",
+        "total_seconds": 5631.799724
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "1.55",
+        "digital": "1:33:51",
+        "hours": 1,
+        "machine_name_id": "54d06251-4267-4711-be8f-b4d226268e26",
+        "minutes": 33,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 51,
+        "text": "1 hr 33 mins",
+        "total_seconds": 5631.799724
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "1.55",
+        "digital": "1:33:51",
+        "hours": 1,
+        "minutes": 33,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 51,
+        "text": "1 hr 33 mins",
+        "total_seconds": 5631.799724
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "1.30",
+        "digital": "1:18:05",
+        "hours": 1,
+        "minutes": 18,
+        "name": "Terminal",
+        "percent": 83.19,
+        "seconds": 5,
+        "text": "1 hr 18 mins",
+        "total_seconds": 4685.069283
+      },
+      {
+        "decimal": "0.25",
+        "digital": "0:15:46",
+        "hours": 0,
+        "minutes": 15,
+        "name": "zet",
+        "percent": 16.81,
+        "seconds": 46,
+        "text": "15 mins",
+        "total_seconds": 946.730441
+      }
+    ],
     "range": {
       "date": "2021-09-07",
       "end": "2021-09-08T06:59:59Z",
       "start": "2021-09-07T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
