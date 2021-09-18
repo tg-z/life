@@ -1,25 +1,109 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.48",
+        "digital": "0:29:44",
+        "hours": 0,
+        "minutes": 29,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 44,
+        "text": "29 mins",
+        "total_seconds": 1784.12596
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.48",
+        "digital": "0:29:44",
+        "hours": 0,
+        "minutes": 29,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 44,
+        "text": "29 mins",
+        "total_seconds": 1784.12596
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.48",
+      "digital": "0:29",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 29,
+      "text": "29 mins",
+      "total_seconds": 1784.12596
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.48",
+        "digital": "0:29:44",
+        "hours": 0,
+        "minutes": 29,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 44,
+        "text": "29 mins",
+        "total_seconds": 1784.12596
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.48",
+        "digital": "0:29:44",
+        "hours": 0,
+        "machine_name_id": "6b21db6a-5d35-465c-b8d7-f4ec638025f0",
+        "minutes": 29,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 44,
+        "text": "29 mins",
+        "total_seconds": 1784.12596
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.48",
+        "digital": "0:29:44",
+        "hours": 0,
+        "minutes": 29,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 44,
+        "text": "29 mins",
+        "total_seconds": 1784.12596
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.42",
+        "digital": "0:25:39",
+        "hours": 0,
+        "minutes": 25,
+        "name": "Terminal",
+        "percent": 86.3,
+        "seconds": 39,
+        "text": "25 mins",
+        "total_seconds": 1539.680102
+      },
+      {
+        "decimal": "0.07",
+        "digital": "0:04:04",
+        "hours": 0,
+        "minutes": 4,
+        "name": "password-store",
+        "percent": 13.7,
+        "seconds": 4,
+        "text": "4 mins",
+        "total_seconds": 244.445858
+      }
+    ],
     "range": {
       "date": "2021-09-17",
       "end": "2021-09-18T06:59:59Z",
       "start": "2021-09-17T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }

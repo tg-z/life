@@ -54,16 +54,16 @@
         }
       },
       "protected": false,
-      "followers_count": 749,
+      "followers_count": 748,
       "friends_count": 799,
       "listed_count": 15,
       "created_at": "Sat Dec 12 20:36:29 +0000 2015",
-      "favourites_count": 236688,
+      "favourites_count": 236693,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 41769,
+      "statuses_count": 41771,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -141,7 +141,7 @@
           }
         },
         "protected": false,
-        "followers_count": 843830,
+        "followers_count": 843793,
         "friends_count": 1156,
         "listed_count": 10753,
         "created_at": "Mon Aug 18 03:26:25 +0000 2008",
@@ -181,8 +181,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 642,
-      "favorite_count": 8814,
+      "retweet_count": 643,
+      "favorite_count": 8822,
       "favorited": false,
       "retweeted": false,
       "lang": "en"
@@ -308,12 +308,12 @@
       "friends_count": 678,
       "listed_count": 1,
       "created_at": "Fri Aug 07 03:19:00 +0000 2015",
-      "favourites_count": 28372,
+      "favourites_count": 28391,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 21001,
+      "statuses_count": 21014,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -387,12 +387,12 @@
       "friends_count": 678,
       "listed_count": 1,
       "created_at": "Fri Aug 07 03:19:00 +0000 2015",
-      "favourites_count": 28372,
+      "favourites_count": 28391,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 21001,
+      "statuses_count": 21014,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -427,6 +427,163 @@
     "favorite_count": 6,
     "favorited": true,
     "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 15 21:32:09 +0000 2021",
+    "id": 1438254336291840000,
+    "id_str": "1438254336291840006",
+    "text": "They tried to make this not look cool https://t.co/WiKBmeH1CV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1438254331371921400,
+          "id_str": "1438254331371921408",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_W0sbYXIAA-oEs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_W0sbYXIAA-oEs.jpg",
+          "url": "https://t.co/WiKBmeH1CV",
+          "display_url": "pic.twitter.com/WiKBmeH1CV",
+          "expanded_url": "https://twitter.com/CIAGoFundMe/status/1438254336291840006/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 368,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 541,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 541,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1438254331371921400,
+          "id_str": "1438254331371921408",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_W0sbYXIAA-oEs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_W0sbYXIAA-oEs.jpg",
+          "url": "https://t.co/WiKBmeH1CV",
+          "display_url": "pic.twitter.com/WiKBmeH1CV",
+          "expanded_url": "https://twitter.com/CIAGoFundMe/status/1438254336291840006/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 368,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 541,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 541,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2493528643,
+      "id_str": "2493528643",
+      "name": "andy s",
+      "screen_name": "CIAGoFundMe",
+      "location": "Cant think of one",
+      "description": "The XFL is a professional American football league. Consisting of eight teams divided equally between an East and West division, seasons run during the winter a",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 29923,
+      "friends_count": 433,
+      "listed_count": 95,
+      "created_at": "Tue May 13 21:09:44 +0000 2014",
+      "favourites_count": 41739,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 48818,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1356592319819100160/UMVQu4f2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356592319819100160/UMVQu4f2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2493528643/1567428621",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9515,
+    "favorite_count": 114545,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "en"
   },
   {
@@ -471,16 +628,16 @@
         }
       },
       "protected": false,
-      "followers_count": 759,
+      "followers_count": 765,
       "friends_count": 177,
       "listed_count": 0,
       "created_at": "Sun Apr 25 19:43:07 +0000 2021",
-      "favourites_count": 6511,
+      "favourites_count": 6542,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 1000,
+      "statuses_count": 1002,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -682,8 +839,8 @@
           }
         },
         "protected": false,
-        "followers_count": 62138,
-        "friends_count": 3,
+        "followers_count": 62801,
+        "friends_count": 1,
         "listed_count": 212,
         "created_at": "Wed Jun 23 03:45:41 +0000 2021",
         "favourites_count": 0,
@@ -691,7 +848,7 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 535,
+        "statuses_count": 549,
         "lang": null,
         "contributors_enabled": false,
         "is_translator": false,
@@ -722,8 +879,8 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 3041,
-      "favorite_count": 10167,
+      "retweet_count": 3082,
+      "favorite_count": 10362,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -735,6 +892,176 @@
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 15 17:58:24 +0000 2021",
+    "id": 1438200540882776000,
+    "id_str": "1438200540882776064",
+    "text": "https://t.co/J6az9Ijicg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1438200537380495400,
+          "id_str": "1438200537380495363",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_WDxNJXIAM57kZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_WDxNJXIAM57kZ.jpg",
+          "url": "https://t.co/J6az9Ijicg",
+          "display_url": "pic.twitter.com/J6az9Ijicg",
+          "expanded_url": "https://twitter.com/Doomh0und/status/1438200540882776064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 828,
+              "h": 1792,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1438200537380495400,
+          "id_str": "1438200537380495363",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_WDxNJXIAM57kZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_WDxNJXIAM57kZ.jpg",
+          "url": "https://t.co/J6az9Ijicg",
+          "display_url": "pic.twitter.com/J6az9Ijicg",
+          "expanded_url": "https://twitter.com/Doomh0und/status/1438200540882776064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 828,
+              "h": 1792,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1408392407125737500,
+      "id_str": "1408392407125737473",
+      "name": "Pat",
+      "screen_name": "Doomh0und",
+      "location": "Jersey",
+      "description": "Starter - fan of clothes/animation/memes",
+      "url": "https://t.co/w3rb62fQkt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/w3rb62fQkt",
+              "expanded_url": "https://instagram.com/jsn.clo?utm_medium=copy_link",
+              "display_url": "instagram.com/jsn.clo?utm_me…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 354,
+      "friends_count": 313,
+      "listed_count": 0,
+      "created_at": "Fri Jun 25 11:51:37 +0000 2021",
+      "favourites_count": 211,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20127,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1410607902436462610/_D6moM-c_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410607902436462610/_D6moM-c_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408392407125737473/1625150364",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11308,
+    "favorite_count": 64089,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   {
     "created_at": "Wed Sep 15 03:22:43 +0000 2021",
@@ -850,12 +1177,12 @@
       "friends_count": 678,
       "listed_count": 1,
       "created_at": "Fri Aug 07 03:19:00 +0000 2015",
-      "favourites_count": 28372,
+      "favourites_count": 28391,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 21001,
+      "statuses_count": 21014,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
