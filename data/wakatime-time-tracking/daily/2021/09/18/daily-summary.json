@@ -1,25 +1,175 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "1.57",
+        "digital": "1:34:34",
+        "hours": 1,
+        "minutes": 34,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 34,
+        "text": "1 hr 34 mins",
+        "total_seconds": 5674.829311
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "1.55",
+        "digital": "1:33:37",
+        "hours": 1,
+        "minutes": 33,
+        "name": "Zsh",
+        "percent": 98.99,
+        "seconds": 37,
+        "text": "1 hr 33 mins",
+        "total_seconds": 5617.696317
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:57",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Vim",
+        "percent": 1.01,
+        "seconds": 57,
+        "text": "57 secs",
+        "total_seconds": 57.132994
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "1.57",
+      "digital": "1:34",
+      "hours": 1,
+      "minutes": 34,
+      "text": "1 hr 34 mins",
+      "total_seconds": 5674.829311
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "1.55",
+        "digital": "1:33:37",
+        "hours": 1,
+        "minutes": 33,
+        "name": "sh",
+        "percent": 98.99,
+        "seconds": 37,
+        "text": "1 hr 33 mins",
+        "total_seconds": 5617.696317
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:57",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 1.01,
+        "seconds": 57,
+        "text": "57 secs",
+        "total_seconds": 57.132994
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "1.57",
+        "digital": "1:34:34",
+        "hours": 1,
+        "machine_name_id": "6b21db6a-5d35-465c-b8d7-f4ec638025f0",
+        "minutes": 34,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 34,
+        "text": "1 hr 34 mins",
+        "total_seconds": 5674.829311
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "1.57",
+        "digital": "1:34:34",
+        "hours": 1,
+        "minutes": 34,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 34,
+        "text": "1 hr 34 mins",
+        "total_seconds": 5674.829311
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.47",
+        "digital": "0:28:36",
+        "hours": 0,
+        "minutes": 28,
+        "name": "zet",
+        "percent": 30.24,
+        "seconds": 36,
+        "text": "28 mins",
+        "total_seconds": 1716.121057
+      },
+      {
+        "decimal": "0.42",
+        "digital": "0:25:47",
+        "hours": 0,
+        "minutes": 25,
+        "name": "Terminal",
+        "percent": 27.26,
+        "seconds": 47,
+        "text": "25 mins",
+        "total_seconds": 1547.111753
+      },
+      {
+        "decimal": "0.38",
+        "digital": "0:23:56",
+        "hours": 0,
+        "minutes": 23,
+        "name": "spotify-playlist-archive",
+        "percent": 25.31,
+        "seconds": 56,
+        "text": "23 mins",
+        "total_seconds": 1436.259524
+      },
+      {
+        "decimal": "0.22",
+        "digital": "0:13:46",
+        "hours": 0,
+        "minutes": 13,
+        "name": "password-store",
+        "percent": 14.57,
+        "seconds": 46,
+        "text": "13 mins",
+        "total_seconds": 826.653071
+      },
+      {
+        "decimal": "0.02",
+        "digital": "0:01:31",
+        "hours": 0,
+        "minutes": 1,
+        "name": "zit",
+        "percent": 1.61,
+        "seconds": 31,
+        "text": "1 min",
+        "total_seconds": 91.550912
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:57",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Unknown Project",
+        "percent": 1.01,
+        "seconds": 57,
+        "text": "57 secs",
+        "total_seconds": 57.132994
+      }
+    ],
     "range": {
       "date": "2021-09-18",
       "end": "2021-09-19T06:59:59Z",
       "start": "2021-09-18T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
