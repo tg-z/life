@@ -1,22 +1,33 @@
 [
   {
-    "created_at": "Sun Sep 12 19:42:19 +0000 2021",
-    "id": 1437139529492799500,
-    "id_str": "1437139529492799492",
-    "text": "finished sweet home on netflix. need season 2 asap",
+    "created_at": "Mon Oct 04 00:25:51 +0000 2021",
+    "id": 1444821030816469000,
+    "id_str": "1444821030816468993",
+    "text": "@emo_warlord ikrr",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "emo_warlord",
+          "name": "sully",
+          "id": 928746295229014000,
+          "id_str": "928746295229014016",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1444813046182908000,
+    "in_reply_to_status_id_str": "1444813046182907906",
+    "in_reply_to_user_id": 928746295229014000,
+    "in_reply_to_user_id_str": "928746295229014016",
+    "in_reply_to_screen_name": "emo_warlord",
     "user": {
       "id": 2902176888,
       "id_str": "2902176888",
@@ -84,9 +95,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "en"
+    "lang": "nl"
   }
 ]
