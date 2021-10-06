@@ -33,6 +33,38 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/88rising",
+      "name": "88rising",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/84f1d741d7852b73931e3949c620b4fb.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/84f1d741d7852b73931e3949c620b4fb.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/84f1d741d7852b73931e3949c620b4fb.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/84f1d741d7852b73931e3949c620b4fb.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/88rising/Shang-Chi+and+The+Legend+of+The+Ten+Rings:+The+Album",
+    "playcount": "32",
+    "@attr": {
+      "rank": "2"
+    },
+    "name": "Shang-Chi and The Legend of The Ten Rings: The Album"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/P1Harmony",
       "name": "P1Harmony",
       "mbid": "d03d8ba8-065c-41d9-a804-d6c05a949194"
@@ -57,9 +89,9 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/P1Harmony/DISHARMONY+:+BREAK+OUT",
-    "playcount": "21",
+    "playcount": "20",
     "@attr": {
-      "rank": "2"
+      "rank": "3"
     },
     "name": "DISHARMONY : BREAK OUT"
   },
@@ -91,7 +123,7 @@
     "url": "https://www.last.fm/music/ATEEZ/ZERO+:+FEVER+PART.3",
     "playcount": "18",
     "@attr": {
-      "rank": "3"
+      "rank": "4"
     },
     "name": "ZERO : FEVER PART.3"
   },
@@ -123,7 +155,7 @@
     "url": "https://www.last.fm/music/P1Harmony/DISHARMONY+:+STAND+OUT",
     "playcount": "15",
     "@attr": {
-      "rank": "4"
+      "rank": "5"
     },
     "name": "DISHARMONY : STAND OUT"
   },
@@ -155,7 +187,7 @@
     "url": "https://www.last.fm/music/BTS/MAP+OF+THE+SOUL+:+7",
     "playcount": "10",
     "@attr": {
-      "rank": "5"
+      "rank": "6"
     },
     "name": "MAP OF THE SOUL : 7"
   },
@@ -187,7 +219,7 @@
     "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Dream+Chapter:+MAGIC",
     "playcount": "9",
     "@attr": {
-      "rank": "6"
+      "rank": "7"
     },
     "name": "The Dream Chapter: MAGIC"
   },
@@ -219,7 +251,7 @@
     "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Dream+Chapter:+ETERNITY",
     "playcount": "7",
     "@attr": {
-      "rank": "7"
+      "rank": "8"
     },
     "name": "The Dream Chapter: ETERNITY"
   },
@@ -251,7 +283,7 @@
     "url": "https://www.last.fm/music/BLACKPINK/THE+ALBUM",
     "playcount": "5",
     "@attr": {
-      "rank": "8"
+      "rank": "9"
     },
     "name": "THE ALBUM"
   },
@@ -283,7 +315,7 @@
     "url": "https://www.last.fm/music/BTS/Love+Yourself+%E7%B5%90+%27Answer%27",
     "playcount": "5",
     "@attr": {
-      "rank": "9"
+      "rank": "10"
     },
     "name": "Love Yourself 結 'Answer'"
   },
@@ -315,41 +347,9 @@
     "url": "https://www.last.fm/music/Drake/Certified+Lover+Boy",
     "playcount": "5",
     "@attr": {
-      "rank": "10"
-    },
-    "name": "Certified Lover Boy"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/ENHYPEN",
-      "name": "ENHYPEN",
-      "mbid": "95663592-1447-4579-90f7-c94733476667"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/450cc28daaa0b9f9ad284b8ed77bd791.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/450cc28daaa0b9f9ad284b8ed77bd791.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/450cc28daaa0b9f9ad284b8ed77bd791.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/450cc28daaa0b9f9ad284b8ed77bd791.jpg"
-      }
-    ],
-    "mbid": "f25eb60e-940e-4cc6-b582-5ac3850d4942",
-    "url": "https://www.last.fm/music/ENHYPEN/BORDER+:+CARNIVAL",
-    "playcount": "5",
-    "@attr": {
       "rank": "11"
     },
-    "name": "BORDER : CARNIVAL"
+    "name": "Certified Lover Boy"
   },
   {
     "artist": {
@@ -449,38 +449,6 @@
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
-      "name": "TOMORROW X TOGETHER",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4434aa6b3c568b58a3b261739f762c94.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4434aa6b3c568b58a3b261739f762c94.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4434aa6b3c568b58a3b261739f762c94.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4434aa6b3c568b58a3b261739f762c94.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Chaos+Chapter:+FIGHT+OR+ESCAPE",
-    "playcount": "5",
-    "@attr": {
-      "rank": "15"
-    },
-    "name": "The Chaos Chapter: FIGHT OR ESCAPE"
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/1TEAM",
       "name": "1TEAM",
       "mbid": "205077a6-1ace-4f85-b98a-80d8bee99094"
@@ -507,7 +475,7 @@
     "url": "https://www.last.fm/music/1TEAM/HELLO!",
     "playcount": "4",
     "@attr": {
-      "rank": "16"
+      "rank": "15"
     },
     "name": "HELLO!"
   },
@@ -539,7 +507,7 @@
     "url": "https://www.last.fm/music/2PM/Member%27s+Selection",
     "playcount": "4",
     "@attr": {
-      "rank": "17"
+      "rank": "16"
     },
     "name": "Member's Selection"
   },
@@ -571,7 +539,7 @@
     "url": "https://www.last.fm/music/Agust+D/D-2",
     "playcount": "4",
     "@attr": {
-      "rank": "18"
+      "rank": "17"
     },
     "name": "D-2"
   },
@@ -603,7 +571,7 @@
     "url": "https://www.last.fm/music/BTS/Butter+(feat.+Megan+Thee+Stallion)",
     "playcount": "4",
     "@attr": {
-      "rank": "19"
+      "rank": "18"
     },
     "name": "Butter (feat. Megan Thee Stallion)"
   },
@@ -635,8 +603,40 @@
     "url": "https://www.last.fm/music/BTS/DARK+&+WILD",
     "playcount": "4",
     "@attr": {
-      "rank": "20"
+      "rank": "19"
     },
     "name": "DARK & WILD"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/BTS",
+      "name": "BTS",
+      "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5daac2fa8ca73f1cba252c0da81a21db.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5daac2fa8ca73f1cba252c0da81a21db.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5daac2fa8ca73f1cba252c0da81a21db.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5daac2fa8ca73f1cba252c0da81a21db.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/BTS/Skool+Luv+Affair+(Special+Edition)",
+    "playcount": "4",
+    "@attr": {
+      "rank": "20"
+    },
+    "name": "Skool Luv Affair (Special Edition)"
   }
 ]
