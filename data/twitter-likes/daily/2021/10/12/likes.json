@@ -113,12 +113,12 @@
       "friends_count": 16,
       "listed_count": 0,
       "created_at": "Sat Jun 02 07:46:41 +0000 2018",
-      "favourites_count": 7841,
+      "favourites_count": 7842,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 13348,
+      "statuses_count": 13372,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -192,12 +192,12 @@
       "friends_count": 16,
       "listed_count": 0,
       "created_at": "Sat Jun 02 07:46:41 +0000 2018",
-      "favourites_count": 7841,
+      "favourites_count": 7842,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 13348,
+      "statuses_count": 13372,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -293,12 +293,12 @@
       "friends_count": 299,
       "listed_count": 1,
       "created_at": "Thu Nov 09 22:09:06 +0000 2017",
-      "favourites_count": 38799,
+      "favourites_count": 38806,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 10716,
+      "statuses_count": 10721,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -389,16 +389,16 @@
         }
       },
       "protected": false,
-      "followers_count": 323457,
+      "followers_count": 323610,
       "friends_count": 215,
       "listed_count": 120,
       "created_at": "Sat Jul 25 14:17:03 +0000 2015",
-      "favourites_count": 32518,
+      "favourites_count": 32510,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": true,
-      "statuses_count": 275,
+      "statuses_count": 276,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -429,11 +429,181 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1108,
-    "favorite_count": 15251,
+    "retweet_count": 1157,
+    "favorite_count": 15841,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "en"
+  },
+  {
+    "created_at": "Tue Oct 12 12:15:27 +0000 2021",
+    "id": 1447898708020969500,
+    "id_str": "1447898708020969484",
+    "text": "😂😂😂😂😂😂😂😂😂 https://t.co/r1eAl7O8Nw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1447898684100956200,
+          "id_str": "1447898684100956165",
+          "indices": [
+            10,
+            33
+          ],
+          "media_url": "http://pbs.twimg.com/media/FBf4LpCX0AUcHU-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FBf4LpCX0AUcHU-.jpg",
+          "url": "https://t.co/r1eAl7O8Nw",
+          "display_url": "pic.twitter.com/r1eAl7O8Nw",
+          "expanded_url": "https://twitter.com/stanleyliveson/status/1447898708020969484/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1447898684100956200,
+          "id_str": "1447898684100956165",
+          "indices": [
+            10,
+            33
+          ],
+          "media_url": "http://pbs.twimg.com/media/FBf4LpCX0AUcHU-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FBf4LpCX0AUcHU-.jpg",
+          "url": "https://t.co/r1eAl7O8Nw",
+          "display_url": "pic.twitter.com/r1eAl7O8Nw",
+          "expanded_url": "https://twitter.com/stanleyliveson/status/1447898708020969484/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4785054977,
+      "id_str": "4785054977",
+      "name": "stanley",
+      "screen_name": "stanleyliveson",
+      "location": "",
+      "description": "It’s Pretzel 🥨 Day",
+      "url": "https://t.co/35ldhOntJK",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/35ldhOntJK",
+              "expanded_url": "https://music.apple.com/profile/stanleyliveson",
+              "display_url": "music.apple.com/profile/stanle…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1574,
+      "friends_count": 1666,
+      "listed_count": 2,
+      "created_at": "Tue Jan 12 14:45:17 +0000 2016",
+      "favourites_count": 117862,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 107855,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1278695891528892417/AmFR-zy-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278695891528892417/AmFR-zy-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4785054977/1566364150",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 31651,
+    "favorite_count": 246382,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
   }
 ]
