@@ -1,6 +1,38 @@
 [
   {
     "artist": {
+      "url": "https://www.last.fm/music/TWICE",
+      "name": "TWICE",
+      "mbid": "8da127cc-c432-418f-b356-ef36210d82ac"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/799889a45a0aed866919708e1c6913a2.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/799889a45a0aed866919708e1c6913a2.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/799889a45a0aed866919708e1c6913a2.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/799889a45a0aed866919708e1c6913a2.jpg"
+      }
+    ],
+    "mbid": "362f16eb-8500-40b1-9ba9-9d06a797423d",
+    "url": "https://www.last.fm/music/TWICE/Formula+of+Love:+O%252BT=%3C3",
+    "playcount": "15",
+    "@attr": {
+      "rank": "1"
+    },
+    "name": "Formula of Love: O+T=<3"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/NCT+127",
       "name": "NCT 127",
       "mbid": "9d17d14a-e81c-410e-a90b-b02b0a9de6f8"
@@ -27,7 +59,7 @@
     "url": "https://www.last.fm/music/NCT+127/Favorite+-+The+3rd+Album+Repackage",
     "playcount": "10",
     "@attr": {
-      "rank": "1"
+      "rank": "2"
     },
     "name": "Favorite - The 3rd Album Repackage"
   },
@@ -59,7 +91,7 @@
     "url": "https://www.last.fm/music/Stray+Kids/IN+LIFE",
     "playcount": "8",
     "@attr": {
-      "rank": "2"
+      "rank": "3"
     },
     "name": "IN LIFE"
   },
@@ -91,9 +123,41 @@
     "url": "https://www.last.fm/music/Trippie+Redd/A+Love+Letter+To+You",
     "playcount": "7",
     "@attr": {
-      "rank": "3"
+      "rank": "4"
     },
     "name": "A Love Letter To You"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/Agust+D",
+      "name": "Agust D",
+      "mbid": "b629da42-c668-49d2-be67-498605ee2a13"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2998abc4c73550e78749e21846afa431.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2998abc4c73550e78749e21846afa431.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2998abc4c73550e78749e21846afa431.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2998abc4c73550e78749e21846afa431.jpg"
+      }
+    ],
+    "mbid": "4741120f-c179-4b72-a39d-f6106b74c334",
+    "url": "https://www.last.fm/music/Agust+D/D-2",
+    "playcount": "5",
+    "@attr": {
+      "rank": "5"
+    },
+    "name": "D-2"
   },
   {
     "artist": {
@@ -123,7 +187,7 @@
     "url": "https://www.last.fm/music/ATEEZ/TREASURE+EP.FIN:+All+To+Action",
     "playcount": "5",
     "@attr": {
-      "rank": "4"
+      "rank": "6"
     },
     "name": "TREASURE EP.FIN: All To Action"
   },
@@ -155,7 +219,7 @@
     "url": "https://www.last.fm/music/BTS/Skool+Luv+Affair",
     "playcount": "5",
     "@attr": {
-      "rank": "5"
+      "rank": "7"
     },
     "name": "Skool Luv Affair"
   },
@@ -187,7 +251,7 @@
     "url": "https://www.last.fm/music/CIX/HELLO+Chapter+1:+Hello,+Stranger",
     "playcount": "5",
     "@attr": {
-      "rank": "6"
+      "rank": "8"
     },
     "name": "HELLO Chapter 1: Hello, Stranger"
   },
@@ -219,7 +283,7 @@
     "url": "https://www.last.fm/music/NCT+127/NCT+%23127+CHERRY+BOMB%E2%80%93+The+3rd+Mini+Album",
     "playcount": "5",
     "@attr": {
-      "rank": "7"
+      "rank": "9"
     },
     "name": "NCT #127 CHERRY BOMB– The 3rd Mini Album"
   },
@@ -251,7 +315,7 @@
     "url": "https://www.last.fm/music/NCT+127/Sticker+-+The+3rd+Album",
     "playcount": "5",
     "@attr": {
-      "rank": "8"
+      "rank": "10"
     },
     "name": "Sticker - The 3rd Album"
   },
@@ -283,7 +347,7 @@
     "url": "https://www.last.fm/music/SECRET+NUMBER/Fire+Saturday",
     "playcount": "5",
     "@attr": {
-      "rank": "9"
+      "rank": "11"
     },
     "name": "Fire Saturday"
   },
@@ -315,41 +379,9 @@
     "url": "https://www.last.fm/music/Stray+Kids/SKZ2020",
     "playcount": "5",
     "@attr": {
-      "rank": "10"
+      "rank": "12"
     },
     "name": "SKZ2020"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Agust+D",
-      "name": "Agust D",
-      "mbid": "b629da42-c668-49d2-be67-498605ee2a13"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2998abc4c73550e78749e21846afa431.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2998abc4c73550e78749e21846afa431.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2998abc4c73550e78749e21846afa431.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2998abc4c73550e78749e21846afa431.jpg"
-      }
-    ],
-    "mbid": "4741120f-c179-4b72-a39d-f6106b74c334",
-    "url": "https://www.last.fm/music/Agust+D/D-2",
-    "playcount": "4",
-    "@attr": {
-      "rank": "11"
-    },
-    "name": "D-2"
   },
   {
     "artist": {
@@ -379,7 +411,7 @@
     "url": "https://www.last.fm/music/Boa/My+Dear",
     "playcount": "4",
     "@attr": {
-      "rank": "12"
+      "rank": "13"
     },
     "name": "My Dear"
   },
@@ -411,7 +443,7 @@
     "url": "https://www.last.fm/music/BTS/MAP+OF+THE+SOUL+:+7",
     "playcount": "4",
     "@attr": {
-      "rank": "13"
+      "rank": "14"
     },
     "name": "MAP OF THE SOUL : 7"
   },
@@ -443,7 +475,7 @@
     "url": "https://www.last.fm/music/D.O./%EA%B3%B5%EA%B0%90+(Empathy)+-+The+1st+Mini+Album",
     "playcount": "4",
     "@attr": {
-      "rank": "14"
+      "rank": "15"
     },
     "name": "공감 (Empathy) - The 1st Mini Album"
   },
@@ -475,7 +507,7 @@
     "url": "https://www.last.fm/music/DPR+LIVE/Iite+Cool",
     "playcount": "4",
     "@attr": {
-      "rank": "15"
+      "rank": "16"
     },
     "name": "Iite Cool"
   },
@@ -507,41 +539,9 @@
     "url": "https://www.last.fm/music/F.HERO/MIRROR+MIRROR",
     "playcount": "4",
     "@attr": {
-      "rank": "16"
-    },
-    "name": "MIRROR MIRROR"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/NCT+127",
-      "name": "NCT 127",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6551e1ed0de74d2407a2aa3c0915e10.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6551e1ed0de74d2407a2aa3c0915e10.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6551e1ed0de74d2407a2aa3c0915e10.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6551e1ed0de74d2407a2aa3c0915e10.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/NCT+127/Freeze+(KARTRIDER+X+LINE+FRIENDS+%5BOriginal+Game+Soundtrack%5D,+Pt.+1)",
-    "playcount": "4",
-    "@attr": {
       "rank": "17"
     },
-    "name": "Freeze (KARTRIDER X LINE FRIENDS [Original Game Soundtrack], Pt. 1)"
+    "name": "MIRROR MIRROR"
   },
   {
     "artist": {
