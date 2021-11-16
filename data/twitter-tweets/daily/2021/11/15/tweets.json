@@ -1,22 +1,33 @@
 [
   {
-    "created_at": "Tue Oct 26 04:16:08 +0000 2021",
-    "id": 1452851516797177900,
-    "id_str": "1452851516797177859",
-    "text": "it's amazing i love it. i got so many compliments on my hair tn and it smells yummy. the color is perfect and it doesn't stain anything.",
+    "created_at": "Mon Nov 15 23:13:54 +0000 2021",
+    "id": 1460385598867337200,
+    "id_str": "1460385598867337217",
+    "text": "@_SIEGE333 you JUST found out twitter is a website??",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "_SIEGE333",
+          "name": "Parseg",
+          "id": 1259589494476378000,
+          "id_str": "1259589494476378112",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1452750502253379600,
-    "in_reply_to_status_id_str": "1452750502253379584",
-    "in_reply_to_user_id": 2902176888,
-    "in_reply_to_user_id_str": "2902176888",
-    "in_reply_to_screen_name": "parasite______",
+    "in_reply_to_status_id": 1460369157891903500,
+    "in_reply_to_status_id_str": "1460369157891903493",
+    "in_reply_to_user_id": 1259589494476378000,
+    "in_reply_to_user_id_str": "1259589494476378112",
+    "in_reply_to_screen_name": "_SIEGE333",
     "user": {
       "id": 2902176888,
       "id_str": "2902176888",
@@ -91,16 +102,45 @@
     "lang": "en"
   },
   {
-    "created_at": "Tue Oct 26 04:14:37 +0000 2021",
-    "id": 1452851131550294000,
-    "id_str": "1452851131550294016",
-    "text": "JEAN LUC SAID HE CAN COOK A MEAN CHICKEN BREAST HAHAHHAHA",
+    "created_at": "Mon Nov 15 23:13:06 +0000 2021",
+    "id": 1460385397893058600,
+    "id_str": "1460385397893058563",
+    "text": "RT @JeffTheMVP: #metoo\n\nRead: https://t.co/yybrIatVOZ",
     "truncated": false,
     "entities": {
-      "hashtags": [],
+      "hashtags": [
+        {
+          "text": "metoo",
+          "indices": [
+            16,
+            22
+          ]
+        }
+      ],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "JeffTheMVP",
+          "name": "jeffrey",
+          "id": 3271466670,
+          "id_str": "3271466670",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yybrIatVOZ",
+          "expanded_url": "https://tl.gd/n_1srsg0u",
+          "display_url": "tl.gd/n_1srsg0u",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -174,11 +214,122 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 14 22:26:03 +0000 2021",
+      "id": 1460011172694999000,
+      "id_str": "1460011172694999048",
+      "text": "#metoo\n\nRead: https://t.co/yybrIatVOZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "metoo",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yybrIatVOZ",
+            "expanded_url": "https://tl.gd/n_1srsg0u",
+            "display_url": "tl.gd/n_1srsg0u",
+            "indices": [
+              14,
+              37
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitlonger.com\" rel=\"nofollow\">Twitlonger</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3271466670,
+        "id_str": "3271466670",
+        "name": "jeffrey",
+        "screen_name": "JeffTheMVP",
+        "location": "SoCal",
+        "description": "Comedian | Gamer",
+        "url": "https://t.co/blUySTrQiI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/blUySTrQiI",
+                "expanded_url": "https://linktr.ee/Repsity",
+                "display_url": "linktr.ee/Repsity",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7182,
+        "friends_count": 396,
+        "listed_count": 1,
+        "created_at": "Wed Jul 08 04:15:59 +0000 2015",
+        "favourites_count": 6625,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2409,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1460024438561202177/UCAySfCx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1460024438561202177/UCAySfCx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3271466670/1636932046",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1862,
+      "favorite_count": 19141,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1862,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
     "lang": "en"
   }
 ]
