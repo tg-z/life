@@ -1,5 +1,193 @@
 [
   {
+    "created_at": "Sat Nov 27 22:35:33 +0000 2021",
+    "id": 1464724601850761200,
+    "id_str": "1464724601850761225",
+    "text": "When you’re in the ladies room at the bar and Gasolina starts plays https://t.co/Mu3j1fJmoW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1464724550093004800,
+          "id_str": "1464724550093004801",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1464724550093004801/pu/img/RGAYx1nRwnFBkTkK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1464724550093004801/pu/img/RGAYx1nRwnFBkTkK.jpg",
+          "url": "https://t.co/Mu3j1fJmoW",
+          "display_url": "pic.twitter.com/Mu3j1fJmoW",
+          "expanded_url": "https://twitter.com/sarahmazing/status/1464724601850761225/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1464724550093004800,
+          "id_str": "1464724550093004801",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1464724550093004801/pu/img/RGAYx1nRwnFBkTkK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1464724550093004801/pu/img/RGAYx1nRwnFBkTkK.jpg",
+          "url": "https://t.co/Mu3j1fJmoW",
+          "display_url": "pic.twitter.com/Mu3j1fJmoW",
+          "expanded_url": "https://twitter.com/sarahmazing/status/1464724601850761225/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 12133,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1464724550093004801/pu/pl/ZPPfsPVdasQI23PK.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1464724550093004801/pu/vid/640x360/haf2MPHmFdT02i1s.mp4?tag=12"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1464724550093004801/pu/vid/1280x720/7pRy40SG5vLn50K6.mp4?tag=12"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1464724550093004801/pu/vid/480x270/7QufJve4yxdcsEle.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16794390,
+      "id_str": "16794390",
+      "name": "Sarah",
+      "screen_name": "sarahmazing",
+      "location": "",
+      "description": "I’m just a pendeja with wifi",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2012,
+      "friends_count": 1320,
+      "listed_count": 34,
+      "created_at": "Wed Oct 15 21:09:49 +0000 2008",
+      "favourites_count": 163130,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 83168,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1450653379370360834/veguKM7O_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1450653379370360834/veguKM7O_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16794390/1635026192",
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FAF7ED",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 496,
+    "favorite_count": 2099,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Nov 27 21:08:30 +0000 2021",
     "id": 1464702698368819200,
     "id_str": "1464702698368819209",
@@ -46,7 +234,7 @@
       "friends_count": 1109,
       "listed_count": 0,
       "created_at": "Sun Jul 20 10:26:41 +0000 2014",
-      "favourites_count": 30328,
+      "favourites_count": 30341,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
@@ -84,6 +272,175 @@
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 1,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 27 14:26:29 +0000 2021",
+    "id": 1464601526387810300,
+    "id_str": "1464601526387810307",
+    "text": "alarms are a form of discrimination against girls who are so sleepy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 918522689362341900,
+      "id_str": "918522689362341888",
+      "name": "maya ✡︎",
+      "screen_name": "mayaisfiya",
+      "location": "los angeles",
+      "description": "student, Woman in stem™️, Sigma Female",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 34407,
+      "friends_count": 997,
+      "listed_count": 32,
+      "created_at": "Thu Oct 12 17:04:09 +0000 2017",
+      "favourites_count": 250385,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 22647,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1424626802887041032/pzQ-fwYY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1424626802887041032/pzQ-fwYY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/918522689362341888/1636236845",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 16117,
+    "favorite_count": 130476,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 27 13:58:18 +0000 2021",
+    "id": 1464594434507616300,
+    "id_str": "1464594434507616256",
+    "text": "There are some actors who are like… SUSPICIOUSLY good at playing gay",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 877256737673416700,
+      "id_str": "877256737673416704",
+      "name": "shivvy!",
+      "screen_name": "lgbtbluths",
+      "location": "lesbian, 19, she/her + any",
+      "description": "Sawry",
+      "url": "https://t.co/oOkaPJNwzJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/oOkaPJNwzJ",
+              "expanded_url": "https://decolonizepalestine.com/",
+              "display_url": "decolonizepalestine.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1034,
+      "friends_count": 576,
+      "listed_count": 16,
+      "created_at": "Tue Jun 20 20:07:59 +0000 2017",
+      "favourites_count": 224740,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35887,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1464966871325704195/G-5iWV6b_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1464966871325704195/G-5iWV6b_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/877256737673416704/1634044992",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4219,
+    "favorite_count": 73802,
     "favorited": true,
     "retweeted": false,
     "lang": "en"
