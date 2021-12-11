@@ -1,15 +1,25 @@
 [
   {
-    "created_at": "Tue Nov 09 00:41:25 +0000 2021",
-    "id": 1457870910271099000,
-    "id_str": "1457870910271098887",
-    "text": "some ppl just don't smoke weed",
+    "created_at": "Fri Dec 10 06:41:40 +0000 2021",
+    "id": 1469195592320520200,
+    "id_str": "1469195592320520192",
+    "text": "😩😩😩😩\nhttps://t.co/PbeAbn8oSD",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/PbeAbn8oSD",
+          "expanded_url": "https://open.spotify.com/track/67C8NRYbI2XwiYilezmxZQ?si=GLAmegfxRsG1qY2P1Aylwg&utm_source=copy-link",
+          "display_url": "open.spotify.com/track/67C8NRYb…",
+          "indices": [
+            5,
+            28
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -85,9 +95,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "lang": "en"
+    "possibly_sensitive": false,
+    "lang": "und"
   }
 ]
