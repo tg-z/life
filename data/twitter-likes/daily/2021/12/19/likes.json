@@ -52,15 +52,15 @@
       },
       "protected": false,
       "followers_count": 1302,
-      "friends_count": 381,
+      "friends_count": 382,
       "listed_count": 64,
       "created_at": "Thu Mar 04 15:11:55 +0000 2010",
-      "favourites_count": 27819,
+      "favourites_count": 27839,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 39770,
+      "statuses_count": 39781,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -159,15 +159,15 @@
       },
       "protected": false,
       "followers_count": 1302,
-      "friends_count": 381,
+      "friends_count": 382,
       "listed_count": 64,
       "created_at": "Thu Mar 04 15:11:55 +0000 2010",
-      "favourites_count": 27819,
+      "favourites_count": 27839,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 39770,
+      "statuses_count": 39781,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -200,6 +200,248 @@
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 4,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Dec 19 21:16:29 +0000 2021",
+    "id": 1472677237270847500,
+    "id_str": "1472677237270847493",
+    "text": "My mom got this book to help me when I was getting bullied in middle school I’m dying https://t.co/sAq87wGEsR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1472677200235155500,
+          "id_str": "1472677200235155458",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FHAAHGzVUAIc6Ml.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FHAAHGzVUAIc6Ml.jpg",
+          "url": "https://t.co/sAq87wGEsR",
+          "display_url": "pic.twitter.com/sAq87wGEsR",
+          "expanded_url": "https://twitter.com/DylanAdler6/status/1472677237270847493/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 567,
+              "h": 756,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 567,
+              "h": 756,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1472677200235155500,
+          "id_str": "1472677200235155458",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FHAAHGzVUAIc6Ml.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FHAAHGzVUAIc6Ml.jpg",
+          "url": "https://t.co/sAq87wGEsR",
+          "display_url": "pic.twitter.com/sAq87wGEsR",
+          "expanded_url": "https://twitter.com/DylanAdler6/status/1472677237270847493/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 567,
+              "h": 756,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 567,
+              "h": 756,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1472677200235163600,
+          "id_str": "1472677200235163649",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FHAAHGzVcAE48KW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FHAAHGzVcAE48KW.jpg",
+          "url": "https://t.co/sAq87wGEsR",
+          "display_url": "pic.twitter.com/sAq87wGEsR",
+          "expanded_url": "https://twitter.com/DylanAdler6/status/1472677237270847493/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 567,
+              "h": 756,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 567,
+              "h": 756,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1472677200230977500,
+          "id_str": "1472677200230977537",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FHAAHGyVkAEQ-70.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FHAAHGyVkAEQ-70.jpg",
+          "url": "https://t.co/sAq87wGEsR",
+          "display_url": "pic.twitter.com/sAq87wGEsR",
+          "expanded_url": "https://twitter.com/DylanAdler6/status/1472677237270847493/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 567,
+              "h": 756,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 567,
+              "h": 756,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1054961835173204000,
+      "id_str": "1054961835173203968",
+      "name": "Dylan Adler",
+      "screen_name": "DylanAdler6",
+      "location": "Brooklyn, NY",
+      "description": "If Yzma was Asian @Dylanadler_ on insta He/Him.",
+      "url": "https://t.co/JnwOnmDQtI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/JnwOnmDQtI",
+              "expanded_url": "http://www.dylanaadler.com",
+              "display_url": "dylanaadler.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25451,
+      "friends_count": 1869,
+      "listed_count": 49,
+      "created_at": "Wed Oct 24 05:04:36 +0000 2018",
+      "favourites_count": 80882,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5489,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1324264986999463936/8vJ_U_or_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324264986999463936/8vJ_U_or_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054961835173203968/1584397684",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7549,
+    "favorite_count": 157634,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -250,16 +492,16 @@
         }
       },
       "protected": false,
-      "followers_count": 4032,
+      "followers_count": 4036,
       "friends_count": 730,
       "listed_count": 14,
       "created_at": "Thu Nov 15 14:21:56 +0000 2012",
-      "favourites_count": 6977,
+      "favourites_count": 6985,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 1208,
+      "statuses_count": 1210,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -324,7 +566,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 39,
+    "favorite_count": 46,
     "favorited": true,
     "retweeted": false,
     "lang": "en"
@@ -462,16 +704,16 @@
         }
       },
       "protected": false,
-      "followers_count": 14324,
-      "friends_count": 2601,
+      "followers_count": 14512,
+      "friends_count": 2607,
       "listed_count": 106,
       "created_at": "Fri Jan 24 01:50:36 +0000 2014",
-      "favourites_count": 76407,
+      "favourites_count": 76471,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 54897,
+      "statuses_count": 54950,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -502,8 +744,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 287,
-    "favorite_count": 2389,
+    "retweet_count": 399,
+    "favorite_count": 3329,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -555,15 +797,15 @@
       },
       "protected": false,
       "followers_count": 385,
-      "friends_count": 351,
+      "friends_count": 349,
       "listed_count": 1,
       "created_at": "Thu Nov 09 22:09:06 +0000 2017",
-      "favourites_count": 40931,
+      "favourites_count": 40943,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 11595,
+      "statuses_count": 11596,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -632,7 +874,7 @@
       "id": 1243280352874877000,
       "id_str": "1243280352874876928",
       "name": "ok",
-      "screen_name": "toadcummies",
+      "screen_name": "ranthrutohell",
       "location": "",
       "description": "",
       "url": null,
@@ -642,16 +884,16 @@
         }
       },
       "protected": true,
-      "followers_count": 24,
-      "friends_count": 67,
+      "followers_count": 25,
+      "friends_count": 138,
       "listed_count": 0,
       "created_at": "Thu Mar 26 20:55:18 +0000 2020",
-      "favourites_count": 723,
+      "favourites_count": 743,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 967,
+      "statuses_count": 976,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -660,8 +902,8 @@
       "profile_background_image_url": null,
       "profile_background_image_url_https": null,
       "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1248496488906231808/j-5Zb9_1_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248496488906231808/j-5Zb9_1_normal.jpg",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1472784149329047556/6iVy3tsX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472784149329047556/6iVy3tsX_normal.jpg",
       "profile_link_color": "1DA1F2",
       "profile_sidebar_border_color": "C0DEED",
       "profile_sidebar_fill_color": "DDEEF6",
@@ -811,15 +1053,15 @@
       },
       "protected": false,
       "followers_count": 385,
-      "friends_count": 351,
+      "friends_count": 349,
       "listed_count": 1,
       "created_at": "Thu Nov 09 22:09:06 +0000 2017",
-      "favourites_count": 40931,
+      "favourites_count": 40943,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 11595,
+      "statuses_count": 11596,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
