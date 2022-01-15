@@ -3,7 +3,7 @@
     "artist": {
       "url": "https://www.last.fm/music/NCT",
       "name": "NCT",
-      "mbid": ""
+      "mbid": "0eb3a5c2-5716-48d8-8c3a-f976f58a4c19"
     },
     "image": [
       {
@@ -25,7 +25,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/NCT/Universe+-+The+3rd+Album",
-    "playcount": "94",
+    "playcount": "75",
     "@attr": {
       "rank": "1"
     },
@@ -35,7 +35,7 @@
     "artist": {
       "url": "https://www.last.fm/music/P1Harmony",
       "name": "P1Harmony",
-      "mbid": ""
+      "mbid": "d03d8ba8-065c-41d9-a804-d6c05a949194"
     },
     "image": [
       {
@@ -57,7 +57,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/P1Harmony/DISHARMONY+:+FIND+OUT",
-    "playcount": "46",
+    "playcount": "51",
     "@attr": {
       "rank": "2"
     },
@@ -67,7 +67,7 @@
     "artist": {
       "url": "https://www.last.fm/music/Stray+Kids",
       "name": "Stray Kids",
-      "mbid": ""
+      "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9"
     },
     "image": [
       {
@@ -87,7 +87,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f3d357f53c915cb240e938c414d6f61.jpg"
       }
     ],
-    "mbid": "",
+    "mbid": "cbae7d6c-700b-4962-b140-747026582fd9",
     "url": "https://www.last.fm/music/Stray+Kids/SKZ2021",
     "playcount": "32",
     "@attr": {
@@ -121,11 +121,43 @@
     ],
     "mbid": "40008d03-e334-4287-9142-dc4faac68134",
     "url": "https://www.last.fm/music/ATEEZ/TREASURE+EPILOGUE+:+Action+To+Answer",
-    "playcount": "27",
+    "playcount": "28",
     "@attr": {
       "rank": "4"
     },
     "name": "TREASURE EPILOGUE : Action To Answer"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/ATEEZ",
+      "name": "ATEEZ",
+      "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0953dec93349b400ff4bc3249caacde3.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0953dec93349b400ff4bc3249caacde3.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0953dec93349b400ff4bc3249caacde3.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0953dec93349b400ff4bc3249caacde3.jpg"
+      }
+    ],
+    "mbid": "2755f8c3-54d7-43e6-b253-d50195956559",
+    "url": "https://www.last.fm/music/ATEEZ/TREASURE+EP.FIN:+All+To+Action",
+    "playcount": "22",
+    "@attr": {
+      "rank": "5"
+    },
+    "name": "TREASURE EP.FIN: All To Action"
   },
   {
     "artist": {
@@ -155,41 +187,9 @@
     "url": "https://www.last.fm/music/King+Krule/The+OOZ",
     "playcount": "22",
     "@attr": {
-      "rank": "5"
-    },
-    "name": "The OOZ"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/ATEEZ",
-      "name": "ATEEZ",
-      "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0953dec93349b400ff4bc3249caacde3.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0953dec93349b400ff4bc3249caacde3.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0953dec93349b400ff4bc3249caacde3.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0953dec93349b400ff4bc3249caacde3.jpg"
-      }
-    ],
-    "mbid": "2755f8c3-54d7-43e6-b253-d50195956559",
-    "url": "https://www.last.fm/music/ATEEZ/TREASURE+EP.FIN:+All+To+Action",
-    "playcount": "20",
-    "@attr": {
       "rank": "6"
     },
-    "name": "TREASURE EP.FIN: All To Action"
+    "name": "The OOZ"
   },
   {
     "artist": {
@@ -217,7 +217,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/NCT+127/Sticker+-+The+3rd+Album",
-    "playcount": "20",
+    "playcount": "21",
     "@attr": {
       "rank": "7"
     },
@@ -249,7 +249,7 @@
     ],
     "mbid": "4d018617-e455-4b10-aee6-cf0373cb5b57",
     "url": "https://www.last.fm/music/Zella+Day/Kicker",
-    "playcount": "19",
+    "playcount": "21",
     "@attr": {
       "rank": "8"
     },
@@ -259,7 +259,7 @@
     "artist": {
       "url": "https://www.last.fm/music/Kai",
       "name": "Kai",
-      "mbid": ""
+      "mbid": "42c8f9b1-60b5-4b0e-9036-f9a9596695c1"
     },
     "image": [
       {
@@ -281,7 +281,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/Kai/Peaches+-+The+2nd+Mini+Album",
-    "playcount": "18",
+    "playcount": "20",
     "@attr": {
       "rank": "9"
     },
@@ -313,7 +313,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/NCT+127/NCT+%23127+Neo+Zone+-+The+2nd+Album",
-    "playcount": "18",
+    "playcount": "19",
     "@attr": {
       "rank": "10"
     },
@@ -323,7 +323,7 @@
     "artist": {
       "url": "https://www.last.fm/music/ATEEZ",
       "name": "ATEEZ",
-      "mbid": ""
+      "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690"
     },
     "image": [
       {
@@ -343,45 +343,13 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75f554540cf87c27df380b1ec670be79.jpg"
       }
     ],
-    "mbid": "",
+    "mbid": "35c0f9cd-266c-4558-8e93-190045ba72ca",
     "url": "https://www.last.fm/music/ATEEZ/ZERO+:+FEVER+EPILOGUE",
     "playcount": "17",
     "@attr": {
       "rank": "11"
     },
     "name": "ZERO : FEVER EPILOGUE"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Stray+Kids",
-      "name": "Stray Kids",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9dd5ff829d20592ad2f933637cbe626e.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9dd5ff829d20592ad2f933637cbe626e.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9dd5ff829d20592ad2f933637cbe626e.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9dd5ff829d20592ad2f933637cbe626e.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Stray+Kids/Christmas+EveL",
-    "playcount": "15",
-    "@attr": {
-      "rank": "12"
-    },
-    "name": "Christmas EveL"
   },
   {
     "artist": {
@@ -409,43 +377,11 @@
     ],
     "mbid": "bad9aef0-0851-4369-95c4-d09fae6af6a7",
     "url": "https://www.last.fm/music/Phony+Ppl/Yesterday%27s+Tomorrow",
-    "playcount": "13",
+    "playcount": "17",
     "@attr": {
-      "rank": "13"
+      "rank": "12"
     },
     "name": "Yesterday's Tomorrow"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/ATEEZ",
-      "name": "ATEEZ",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acbfa8fddc2680b5ee7afa83d8412912.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/ATEEZ/ZERO+:+FEVER+Part.3",
-    "playcount": "12",
-    "@attr": {
-      "rank": "14"
-    },
-    "name": "ZERO : FEVER Part.3"
   },
   {
     "artist": {
@@ -473,11 +409,107 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/NCT+127/NCT%23127+LIMITLESS+-+The+2nd+Mini+Album",
+    "playcount": "14",
+    "@attr": {
+      "rank": "13"
+    },
+    "name": "NCT#127 LIMITLESS - The 2nd Mini Album"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/Stray+Kids",
+      "name": "Stray Kids",
+      "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9dd5ff829d20592ad2f933637cbe626e.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9dd5ff829d20592ad2f933637cbe626e.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9dd5ff829d20592ad2f933637cbe626e.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9dd5ff829d20592ad2f933637cbe626e.jpg"
+      }
+    ],
+    "mbid": "7dc38b51-fecf-4796-890e-2c61cb2aa374",
+    "url": "https://www.last.fm/music/Stray+Kids/Christmas+EveL",
+    "playcount": "13",
+    "@attr": {
+      "rank": "14"
+    },
+    "name": "Christmas EveL"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/ATEEZ",
+      "name": "ATEEZ",
+      "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acbfa8fddc2680b5ee7afa83d8412912.jpg"
+      }
+    ],
+    "mbid": "f86a6af8-6e37-4be2-a52f-ad19c9cc6bca",
+    "url": "https://www.last.fm/music/ATEEZ/ZERO+:+FEVER+Part.3",
     "playcount": "12",
     "@attr": {
       "rank": "15"
     },
-    "name": "NCT#127 LIMITLESS - The 2nd Mini Album"
+    "name": "ZERO : FEVER Part.3"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/WayV-TEN&YANGYANG",
+      "name": "WayV-TEN&YANGYANG",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/38d01da2859f346f00764bd292a5b52f.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/38d01da2859f346f00764bd292a5b52f.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/38d01da2859f346f00764bd292a5b52f.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38d01da2859f346f00764bd292a5b52f.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/WayV-TEN&YANGYANG/Low+Low",
+    "playcount": "12",
+    "@attr": {
+      "rank": "16"
+    },
+    "name": "Low Low"
   },
   {
     "artist": {
@@ -507,105 +539,9 @@
     "url": "https://www.last.fm/music/ATEEZ/ZERO+:+FEVER+Part.1",
     "playcount": "11",
     "@attr": {
-      "rank": "16"
-    },
-    "name": "ZERO : FEVER Part.1"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/WayV-TEN&YANGYANG",
-      "name": "WayV-TEN&YANGYANG",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/38d01da2859f346f00764bd292a5b52f.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/38d01da2859f346f00764bd292a5b52f.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/38d01da2859f346f00764bd292a5b52f.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38d01da2859f346f00764bd292a5b52f.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/WayV-TEN&YANGYANG/Low+Low",
-    "playcount": "11",
-    "@attr": {
       "rank": "17"
     },
-    "name": "Low Low"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/ATEEZ",
-      "name": "ATEEZ",
-      "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5870465fabd150faccd4e8422f27720c.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5870465fabd150faccd4e8422f27720c.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5870465fabd150faccd4e8422f27720c.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5870465fabd150faccd4e8422f27720c.jpg"
-      }
-    ],
-    "mbid": "9fc5c89e-9a39-40a6-952a-5bb3acfe2355",
-    "url": "https://www.last.fm/music/ATEEZ/TREASURE+EP.1:+All+to+Zero",
-    "playcount": "9",
-    "@attr": {
-      "rank": "18"
-    },
-    "name": "TREASURE EP.1: All to Zero"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Doja+Cat",
-      "name": "Doja Cat",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d1619e7707eb9f63884cebce1f76b382.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d1619e7707eb9f63884cebce1f76b382.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d1619e7707eb9f63884cebce1f76b382.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1619e7707eb9f63884cebce1f76b382.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Doja+Cat/Planet+Her",
-    "playcount": "8",
-    "@attr": {
-      "rank": "19"
-    },
-    "name": "Planet Her"
+    "name": "ZERO : FEVER Part.1"
   },
   {
     "artist": {
@@ -633,10 +569,74 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/La+Goony+Chonga/Dimen5i%C3%B3n",
-    "playcount": "8",
+    "playcount": "11",
+    "@attr": {
+      "rank": "18"
+    },
+    "name": "Dimen5ión"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/ATEEZ",
+      "name": "ATEEZ",
+      "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5870465fabd150faccd4e8422f27720c.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5870465fabd150faccd4e8422f27720c.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5870465fabd150faccd4e8422f27720c.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5870465fabd150faccd4e8422f27720c.jpg"
+      }
+    ],
+    "mbid": "9fc5c89e-9a39-40a6-952a-5bb3acfe2355",
+    "url": "https://www.last.fm/music/ATEEZ/TREASURE+EP.1:+All+to+Zero",
+    "playcount": "10",
+    "@attr": {
+      "rank": "19"
+    },
+    "name": "TREASURE EP.1: All to Zero"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/p4rkr",
+      "name": "p4rkr",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2145f8940654e6d2ce3e6239f909d2d0.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2145f8940654e6d2ce3e6239f909d2d0.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2145f8940654e6d2ce3e6239f909d2d0.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2145f8940654e6d2ce3e6239f909d2d0.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/p4rkr/jealousy+is+a+bitch.+i+hate+her",
+    "playcount": "9",
     "@attr": {
       "rank": "20"
     },
-    "name": "Dimen5ión"
+    "name": "jealousy is a bitch. i hate her"
   }
 ]

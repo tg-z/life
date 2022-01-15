@@ -57,7 +57,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/NCT+127/Sticker+-+The+3rd+Album",
-    "playcount": "108",
+    "playcount": "109",
     "@attr": {
       "rank": "2"
     },
@@ -67,7 +67,7 @@
     "artist": {
       "url": "https://www.last.fm/music/NCT",
       "name": "NCT",
-      "mbid": ""
+      "mbid": "0eb3a5c2-5716-48d8-8c3a-f976f58a4c19"
     },
     "image": [
       {
@@ -89,7 +89,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/NCT/Universe+-+The+3rd+Album",
-    "playcount": "103",
+    "playcount": "104",
     "@attr": {
       "rank": "3"
     },
@@ -99,7 +99,7 @@
     "artist": {
       "url": "https://www.last.fm/music/Stray+Kids",
       "name": "Stray Kids",
-      "mbid": ""
+      "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9"
     },
     "image": [
       {
@@ -119,7 +119,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9dd5ff829d20592ad2f933637cbe626e.jpg"
       }
     ],
-    "mbid": "",
+    "mbid": "7dc38b51-fecf-4796-890e-2c61cb2aa374",
     "url": "https://www.last.fm/music/Stray+Kids/Christmas+EveL",
     "playcount": "93",
     "@attr": {
@@ -257,6 +257,38 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
+      "name": "TOMORROW X TOGETHER",
+      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      }
+    ],
+    "mbid": "e33af126-15b7-4869-9438-524ca12687d4",
+    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Chaos+Chapter:+FREEZE",
+    "playcount": "65",
+    "@attr": {
+      "rank": "9"
+    },
+    "name": "The Chaos Chapter: FREEZE"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/ENHYPEN",
       "name": "ENHYPEN",
       "mbid": "95663592-1447-4579-90f7-c94733476667"
@@ -283,7 +315,7 @@
     "url": "https://www.last.fm/music/ENHYPEN/BORDER+:+DAY+ONE",
     "playcount": "64",
     "@attr": {
-      "rank": "9"
+      "rank": "10"
     },
     "name": "BORDER : DAY ONE"
   },
@@ -315,41 +347,9 @@
     "url": "https://www.last.fm/music/P1Harmony/DISHARMONY+:+BREAK+OUT",
     "playcount": "63",
     "@attr": {
-      "rank": "10"
-    },
-    "name": "DISHARMONY : BREAK OUT"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
-      "name": "TOMORROW X TOGETHER",
-      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      }
-    ],
-    "mbid": "e33af126-15b7-4869-9438-524ca12687d4",
-    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Chaos+Chapter:+FREEZE",
-    "playcount": "63",
-    "@attr": {
       "rank": "11"
     },
-    "name": "The Chaos Chapter: FREEZE"
+    "name": "DISHARMONY : BREAK OUT"
   },
   {
     "artist": {
@@ -439,7 +439,7 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/799889a45a0aed866919708e1c6913a2.jpg"
       }
     ],
-    "mbid": "3c80a2dc-fac2-45d8-a439-4768870f9120",
+    "mbid": "13a3863f-6087-4688-a8b5-2e78a99d4e6f",
     "url": "https://www.last.fm/music/TWICE/Formula+of+Love:+O%252BT=%3C3",
     "playcount": "56",
     "@attr": {
@@ -567,45 +567,13 @@
         "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/84f1d741d7852b73931e3949c620b4fb.jpg"
       }
     ],
-    "mbid": "",
+    "mbid": "84e4085d-c5b6-40fd-840c-f5913fa22cdc",
     "url": "https://www.last.fm/music/88rising/Shang-Chi+and+The+Legend+of+The+Ten+Rings:+The+Album",
     "playcount": "51",
     "@attr": {
       "rank": "18"
     },
     "name": "Shang-Chi and The Legend of The Ten Rings: The Album"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/ATEEZ",
-      "name": "ATEEZ",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acbfa8fddc2680b5ee7afa83d8412912.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/ATEEZ/ZERO+:+FEVER+Part.3",
-    "playcount": "51",
-    "@attr": {
-      "rank": "19"
-    },
-    "name": "ZERO : FEVER Part.3"
   },
   {
     "artist": {
@@ -633,10 +601,42 @@
     ],
     "mbid": "2755f8c3-54d7-43e6-b253-d50195956559",
     "url": "https://www.last.fm/music/ATEEZ/TREASURE+EP.FIN:+All+To+Action",
-    "playcount": "49",
+    "playcount": "51",
+    "@attr": {
+      "rank": "19"
+    },
+    "name": "TREASURE EP.FIN: All To Action"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/ATEEZ",
+      "name": "ATEEZ",
+      "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acbfa8fddc2680b5ee7afa83d8412912.jpg"
+      }
+    ],
+    "mbid": "f86a6af8-6e37-4be2-a52f-ad19c9cc6bca",
+    "url": "https://www.last.fm/music/ATEEZ/ZERO+:+FEVER+Part.3",
+    "playcount": "51",
     "@attr": {
       "rank": "20"
     },
-    "name": "TREASURE EP.FIN: All To Action"
+    "name": "ZERO : FEVER Part.3"
   }
 ]
