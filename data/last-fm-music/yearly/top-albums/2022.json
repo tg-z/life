@@ -193,6 +193,38 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
+      "name": "TOMORROW X TOGETHER",
+      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
+      }
+    ],
+    "mbid": "e33af126-15b7-4869-9438-524ca12687d4",
+    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Chaos+Chapter:+FREEZE",
+    "playcount": "69",
+    "@attr": {
+      "rank": "7"
+    },
+    "name": "The Chaos Chapter: FREEZE"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/Stray+Kids",
       "name": "Stray Kids",
       "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9"
@@ -219,41 +251,9 @@
     "url": "https://www.last.fm/music/Stray+Kids/NOEASY",
     "playcount": "67",
     "@attr": {
-      "rank": "7"
-    },
-    "name": "NOEASY"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
-      "name": "TOMORROW X TOGETHER",
-      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5e86c8e1dc3ef48bf1b5b1ee6963eab.jpg"
-      }
-    ],
-    "mbid": "e33af126-15b7-4869-9438-524ca12687d4",
-    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/The+Chaos+Chapter:+FREEZE",
-    "playcount": "66",
-    "@attr": {
       "rank": "8"
     },
-    "name": "The Chaos Chapter: FREEZE"
+    "name": "NOEASY"
   },
   {
     "artist": {
@@ -537,7 +537,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/P1Harmony/DISHARMONY+:+FIND+OUT",
-    "playcount": "54",
+    "playcount": "55",
     "@attr": {
       "rank": "17"
     },
