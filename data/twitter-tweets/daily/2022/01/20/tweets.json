@@ -1,15 +1,93 @@
 [
   {
-    "created_at": "Thu Jan 13 23:25:03 +0000 2022",
-    "id": 1481769289904316400,
-    "id_str": "1481769289904316418",
-    "text": "unfollowing spree coming soon",
+    "created_at": "Thu Jan 20 20:04:10 +0000 2022",
+    "id": 1484255453752148000,
+    "id_str": "1484255453752147969",
+    "text": "you just don't get it and i refuse to explain https://t.co/pRrl834akL",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 1484255451805937700,
+          "id_str": "1484255451805937664",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/FJkieDDUcAA63gW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FJkieDDUcAA63gW.jpg",
+          "url": "https://t.co/pRrl834akL",
+          "display_url": "pic.twitter.com/pRrl834akL",
+          "expanded_url": "https://twitter.com/parasite______/status/1484255453752147969/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1350,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1484255451805937700,
+          "id_str": "1484255451805937664",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/FJkieDDUcAA63gW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FJkieDDUcAA63gW.jpg",
+          "url": "https://t.co/pRrl834akL",
+          "display_url": "pic.twitter.com/pRrl834akL",
+          "expanded_url": "https://twitter.com/parasite______/status/1484255453752147969/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1350,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -17,6 +95,108 @@
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "# parasite",
+      "screen_name": "parasite______",
+      "location": "latiné | los angeles",
+      "description": "serafina • they/he • 20 -- i co-run @BLADEE_BOT",
+      "url": "https://t.co/vDXSTwGfQY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vDXSTwGfQY",
+              "expanded_url": "https://pond.computer",
+              "display_url": "pond.computer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 246,
+      "friends_count": 682,
+      "listed_count": 3,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 21757,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4960,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1481857910502137856/gpF8ttdB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481857910502137856/gpF8ttdB_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 20 20:03:44 +0000 2022",
+    "id": 1484255343441956900,
+    "id_str": "1484255343441956864",
+    "text": "@emo_warlord noooo get well soon 😵‍💫",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "emo_warlord",
+          "name": "sully",
+          "id": 928746295229014000,
+          "id_str": "928746295229014016",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1484246547197952000,
+    "in_reply_to_status_id_str": "1484246547197952008",
+    "in_reply_to_user_id": 928746295229014000,
+    "in_reply_to_user_id_str": "928746295229014016",
+    "in_reply_to_screen_name": "emo_warlord",
     "user": {
       "id": 2902176888,
       "id_str": "2902176888",
@@ -84,29 +264,29 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "en"
   },
   {
-    "created_at": "Thu Jan 13 23:23:06 +0000 2022",
-    "id": 1481768800164794400,
-    "id_str": "1481768800164794368",
-    "text": "RT @maksim_unltd: am i too slow or is the world too fast?",
+    "created_at": "Thu Jan 20 18:03:29 +0000 2022",
+    "id": 1484225081341481000,
+    "id_str": "1484225081341480961",
+    "text": "RT @FINALLEVEL: ICE COLD Fact: Your inability to give OTHER people credit and praise when it’s due… Is the character trait of a true Hater.…",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "maksim_unltd",
-          "name": "max ∞",
-          "id": 1144253133088002000,
-          "id_str": "1144253133088002049",
+          "screen_name": "FINALLEVEL",
+          "name": "ICE T",
+          "id": 28420827,
+          "id_str": "28420827",
           "indices": [
             3,
-            16
+            14
           ]
         }
       ],
@@ -184,10 +364,10 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Thu Jan 13 22:17:34 +0000 2022",
-      "id": 1481752306089697300,
-      "id_str": "1481752306089697285",
-      "text": "am i too slow or is the world too fast?",
+      "created_at": "Thu Jan 20 17:48:35 +0000 2022",
+      "id": 1484221332162293800,
+      "id_str": "1484221332162293763",
+      "text": "ICE COLD Fact: Your inability to give OTHER people credit and praise when it’s due… Is the character trait of a true Hater.  Just sayin.",
       "truncated": false,
       "entities": {
         "hashtags": [],
@@ -195,211 +375,19 @@
         "user_mentions": [],
         "urls": []
       },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "in_reply_to_status_id": null,
       "in_reply_to_status_id_str": null,
       "in_reply_to_user_id": null,
       "in_reply_to_user_id_str": null,
       "in_reply_to_screen_name": null,
       "user": {
-        "id": 1144253133088002000,
-        "id_str": "1144253133088002049",
-        "name": "max ∞",
-        "screen_name": "maksim_unltd",
-        "location": "",
-        "description": "aspiring world saver",
-        "url": "https://t.co/I9zIfhtcrA",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/I9zIfhtcrA",
-                "expanded_url": "http://instagram.com/maksim.unltd",
-                "display_url": "instagram.com/maksim.unltd",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 88,
-        "friends_count": 108,
-        "listed_count": 0,
-        "created_at": "Thu Jun 27 14:36:20 +0000 2019",
-        "favourites_count": 7966,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 2032,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1291805292225798145/sWChVq68_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291805292225798145/sWChVq68_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144253133088002049/1640895590",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": true,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 1,
-      "favorited": true,
-      "retweeted": true,
-      "lang": "en"
-    },
-    "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
-    "lang": "en"
-  },
-  {
-    "created_at": "Thu Jan 13 23:22:39 +0000 2022",
-    "id": 1481768686658592800,
-    "id_str": "1481768686658592769",
-    "text": "RT @religiouspuke: not gonna lie i stalk the people i follow on spotify and see what they listen to",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "religiouspuke",
-          "name": "jesse",
-          "id": 728379104546807800,
-          "id_str": "728379104546807809",
-          "indices": [
-            3,
-            17
-          ]
-        }
-      ],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 2902176888,
-      "id_str": "2902176888",
-      "name": "# parasite",
-      "screen_name": "parasite______",
-      "location": "latiné | los angeles",
-      "description": "serafina • they/he • 20 -- i co-run @BLADEE_BOT",
-      "url": "https://t.co/vDXSTwGfQY",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/vDXSTwGfQY",
-              "expanded_url": "https://pond.computer",
-              "display_url": "pond.computer",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 246,
-      "friends_count": 682,
-      "listed_count": 3,
-      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
-      "favourites_count": 21757,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 4960,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "000000",
-      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1481857910502137856/gpF8ttdB_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481857910502137856/gpF8ttdB_normal.jpg",
-      "profile_link_color": "ABB8C2",
-      "profile_sidebar_border_color": "000000",
-      "profile_sidebar_fill_color": "000000",
-      "profile_text_color": "000000",
-      "profile_use_background_image": false,
-      "has_extended_profile": true,
-      "default_profile": false,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Jan 13 22:40:58 +0000 2022",
-      "id": 1481758195626303500,
-      "id_str": "1481758195626303491",
-      "text": "not gonna lie i stalk the people i follow on spotify and see what they listen to",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "user": {
-        "id": 728379104546807800,
-        "id_str": "728379104546807809",
-        "name": "jesse",
-        "screen_name": "religiouspuke",
-        "location": "",
-        "description": "they/he",
+        "id": 28420827,
+        "id_str": "28420827",
+        "name": "ICE T",
+        "screen_name": "FINALLEVEL",
+        "location": "THE UNDERWORLD",
+        "description": "‘FOR MATURE AUDIENCES’ ICE T Leader of BODYCOUNT & The FINAL LEVEL TWITTER GANG. #FLTG @ICET on Instagram Oh yeah.. I got a couple a GRAMMYS 💎",
         "url": null,
         "entities": {
           "description": {
@@ -407,32 +395,32 @@
           }
         },
         "protected": false,
-        "followers_count": 133,
-        "friends_count": 138,
-        "listed_count": 0,
-        "created_at": "Fri May 06 00:21:25 +0000 2016",
-        "favourites_count": 4392,
+        "followers_count": 1842540,
+        "friends_count": 1732,
+        "listed_count": 6432,
+        "created_at": "Thu Apr 02 21:09:40 +0000 2009",
+        "favourites_count": 316763,
         "utc_offset": null,
         "time_zone": null,
-        "geo_enabled": true,
-        "verified": false,
-        "statuses_count": 3724,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 35330,
         "lang": null,
         "contributors_enabled": false,
         "is_translator": false,
         "is_translation_enabled": false,
-        "profile_background_color": "000000",
+        "profile_background_color": "9AE4E8",
         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1464504727593390080/YdqeuvZa_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1464504727593390080/YdqeuvZa_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/728379104546807809/1607118245",
-        "profile_link_color": "E81C4F",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/909984858818170881/jagXDTlf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/909984858818170881/jagXDTlf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28420827/1529487640",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
         "has_extended_profile": false,
         "default_profile": false,
         "default_profile_image": false,
@@ -447,43 +435,129 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 2,
-      "favorite_count": 10,
+      "retweet_count": 693,
+      "favorite_count": 4147,
       "favorited": true,
       "retweeted": true,
       "lang": "en"
     },
     "is_quote_status": false,
-    "retweet_count": 2,
+    "retweet_count": 693,
     "favorite_count": 0,
     "favorited": true,
     "retweeted": true,
     "lang": "en"
   },
   {
-    "created_at": "Thu Jan 13 23:21:44 +0000 2022",
-    "id": 1481768454537367600,
-    "id_str": "1481768454537367555",
-    "text": "RT @lapublichealth: Masks protect everyone – even you. Upgrade your mask from just a cloth mask to reduce your risk of catching &amp; transmitt…",
+    "created_at": "Thu Jan 20 03:30:11 +0000 2022",
+    "id": 1484005306153586700,
+    "id_str": "1484005306153586691",
+    "text": "RT @parasite______: wcw https://t.co/NyA59IdUny",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "lapublichealth",
-          "name": "LA Public Health",
-          "id": 38287098,
-          "id_str": "38287098",
+          "screen_name": "parasite______",
+          "name": "# parasite",
+          "id": 2902176888,
+          "id_str": "2902176888",
           "indices": [
             3,
             18
           ]
         }
       ],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 1433062060766625800,
+          "id_str": "1433062060766625800",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-NCWgEVgAgyiGf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-NCWgEVgAgyiGf.jpg",
+          "url": "https://t.co/NyA59IdUny",
+          "display_url": "pic.twitter.com/NyA59IdUny",
+          "expanded_url": "https://twitter.com/parasite______/status/1433062064273051651/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1433062064273051600,
+          "source_status_id_str": "1433062064273051651",
+          "source_user_id": 2902176888,
+          "source_user_id_str": "2902176888"
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1433062060766625800,
+          "id_str": "1433062060766625800",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-NCWgEVgAgyiGf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-NCWgEVgAgyiGf.jpg",
+          "url": "https://t.co/NyA59IdUny",
+          "display_url": "pic.twitter.com/NyA59IdUny",
+          "expanded_url": "https://twitter.com/parasite______/status/1433062064273051651/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1433062064273051600,
+          "source_status_id_str": "1433062064273051651",
+          "source_user_id": 2902176888,
+          "source_user_id_str": "2902176888"
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -555,48 +629,116 @@
     "place": null,
     "contributors": null,
     "retweeted_status": {
-      "created_at": "Thu Jan 13 22:55:00 +0000 2022",
-      "id": 1481761727272210400,
-      "id_str": "1481761727272210432",
-      "text": "Masks protect everyone – even you. Upgrade your mask from just a cloth mask to reduce your risk of catching &amp; trans… https://t.co/7zMP12YWFw",
-      "truncated": true,
+      "created_at": "Wed Sep 01 13:39:55 +0000 2021",
+      "id": 1433062064273051600,
+      "id_str": "1433062064273051651",
+      "text": "wcw https://t.co/NyA59IdUny",
+      "truncated": false,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
-        "urls": [
+        "urls": [],
+        "media": [
           {
-            "url": "https://t.co/7zMP12YWFw",
-            "expanded_url": "https://twitter.com/i/web/status/1481761727272210432",
-            "display_url": "twitter.com/i/web/status/1…",
+            "id": 1433062060766625800,
+            "id_str": "1433062060766625800",
             "indices": [
-              121,
-              144
-            ]
+              4,
+              27
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-NCWgEVgAgyiGf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-NCWgEVgAgyiGf.jpg",
+            "url": "https://t.co/NyA59IdUny",
+            "display_url": "pic.twitter.com/NyA59IdUny",
+            "expanded_url": "https://twitter.com/parasite______/status/1433062064273051651/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
           }
         ]
       },
-      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1433062060766625800,
+            "id_str": "1433062060766625800",
+            "indices": [
+              4,
+              27
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-NCWgEVgAgyiGf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-NCWgEVgAgyiGf.jpg",
+            "url": "https://t.co/NyA59IdUny",
+            "display_url": "pic.twitter.com/NyA59IdUny",
+            "expanded_url": "https://twitter.com/parasite______/status/1433062064273051651/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": null,
       "in_reply_to_status_id_str": null,
       "in_reply_to_user_id": null,
       "in_reply_to_user_id_str": null,
       "in_reply_to_screen_name": null,
       "user": {
-        "id": 38287098,
-        "id_str": "38287098",
-        "name": "LA Public Health",
-        "screen_name": "lapublichealth",
-        "location": "Los Angeles, California",
-        "description": "Committed to protecting & improving the health of the over 10 million residents of #LACounty. Follow for #HealthAlerts & #HealthTips. #PublicHealth",
-        "url": "https://t.co/Fiv01QwVHL",
+        "id": 2902176888,
+        "id_str": "2902176888",
+        "name": "# parasite",
+        "screen_name": "parasite______",
+        "location": "latiné | los angeles",
+        "description": "serafina • they/he • 20 -- i co-run @BLADEE_BOT",
+        "url": "https://t.co/vDXSTwGfQY",
         "entities": {
           "url": {
             "urls": [
               {
-                "url": "https://t.co/Fiv01QwVHL",
-                "expanded_url": "http://publichealth.lacounty.gov",
-                "display_url": "publichealth.lacounty.gov",
+                "url": "https://t.co/vDXSTwGfQY",
+                "expanded_url": "https://pond.computer",
+                "display_url": "pond.computer",
                 "indices": [
                   0,
                   23
@@ -609,33 +751,32 @@
           }
         },
         "protected": false,
-        "followers_count": 126832,
-        "friends_count": 695,
-        "listed_count": 1236,
-        "created_at": "Wed May 06 21:57:05 +0000 2009",
-        "favourites_count": 1429,
+        "followers_count": 246,
+        "friends_count": 682,
+        "listed_count": 3,
+        "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+        "favourites_count": 21757,
         "utc_offset": null,
         "time_zone": null,
-        "geo_enabled": true,
-        "verified": true,
-        "statuses_count": 11590,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4960,
         "lang": null,
         "contributors_enabled": false,
         "is_translator": false,
         "is_translation_enabled": false,
-        "profile_background_color": "9AE4E8",
+        "profile_background_color": "000000",
         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
         "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38287098/1527611465",
-        "profile_link_color": "00205B",
-        "profile_sidebar_border_color": "BDDCAD",
-        "profile_sidebar_fill_color": "DCE7EA",
-        "profile_text_color": "404040",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1481857910502137856/gpF8ttdB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481857910502137856/gpF8ttdB_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
         "profile_use_background_image": false,
-        "has_extended_profile": false,
+        "has_extended_profile": true,
         "default_profile": false,
         "default_profile_image": false,
         "following": false,
@@ -649,18 +790,19 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 66,
-      "favorite_count": 152,
-      "favorited": true,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
       "retweeted": true,
       "possibly_sensitive": false,
-      "lang": "en"
+      "lang": "und"
     },
     "is_quote_status": false,
-    "retweet_count": 66,
+    "retweet_count": 1,
     "favorite_count": 0,
-    "favorited": true,
+    "favorited": false,
     "retweeted": true,
-    "lang": "en"
+    "possibly_sensitive": false,
+    "lang": "und"
   }
 ]
