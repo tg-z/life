@@ -104,6 +104,38 @@
     "image": [
       {
         "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d3484d5d4ad9efba4c67ec6fd9149da2.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d3484d5d4ad9efba4c67ec6fd9149da2.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d3484d5d4ad9efba4c67ec6fd9149da2.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3484d5d4ad9efba4c67ec6fd9149da2.jpg"
+      }
+    ],
+    "mbid": "40008d03-e334-4287-9142-dc4faac68134",
+    "url": "https://www.last.fm/music/ATEEZ/TREASURE+EPILOGUE+:+Action+To+Answer",
+    "playcount": "5",
+    "@attr": {
+      "rank": "4"
+    },
+    "name": "TREASURE EPILOGUE : Action To Answer"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/ATEEZ",
+      "name": "ATEEZ",
+      "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690"
+    },
+    "image": [
+      {
+        "size": "small",
         "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acbfa8fddc2680b5ee7afa83d8412912.jpg"
       },
       {
@@ -123,7 +155,7 @@
     "url": "https://www.last.fm/music/ATEEZ/ZERO+:+FEVER+Part.3",
     "playcount": "5",
     "@attr": {
-      "rank": "4"
+      "rank": "5"
     },
     "name": "ZERO : FEVER Part.3"
   },
@@ -155,41 +187,9 @@
     "url": "https://www.last.fm/music/ATEEZ/TREASURE+EP.3:+One+To+All",
     "playcount": "4",
     "@attr": {
-      "rank": "5"
-    },
-    "name": "TREASURE EP.3: One To All"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/ATEEZ",
-      "name": "ATEEZ",
-      "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d3484d5d4ad9efba4c67ec6fd9149da2.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d3484d5d4ad9efba4c67ec6fd9149da2.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d3484d5d4ad9efba4c67ec6fd9149da2.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3484d5d4ad9efba4c67ec6fd9149da2.jpg"
-      }
-    ],
-    "mbid": "40008d03-e334-4287-9142-dc4faac68134",
-    "url": "https://www.last.fm/music/ATEEZ/TREASURE+EPILOGUE+:+Action+To+Answer",
-    "playcount": "4",
-    "@attr": {
       "rank": "6"
     },
-    "name": "TREASURE EPILOGUE : Action To Answer"
+    "name": "TREASURE EP.3: One To All"
   },
   {
     "artist": {
@@ -321,38 +321,6 @@
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/Ecco2K",
-      "name": "Ecco2K",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/459bcf1c1160e5c8991da55445560032.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/459bcf1c1160e5c8991da55445560032.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/459bcf1c1160e5c8991da55445560032.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/459bcf1c1160e5c8991da55445560032.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Ecco2K/Amygdala",
-    "playcount": "3",
-    "@attr": {
-      "rank": "11"
-    },
-    "name": "Amygdala"
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/aespa",
       "name": "aespa",
       "mbid": "b51c672b-85e0-48fe-8648-470a2422229f"
@@ -379,7 +347,7 @@
     "url": "https://www.last.fm/music/aespa/Savage+-+The+1st+Mini+Album",
     "playcount": "2",
     "@attr": {
-      "rank": "12"
+      "rank": "11"
     },
     "name": "Savage - The 1st Mini Album"
   },
@@ -411,7 +379,7 @@
     "url": "https://www.last.fm/music/ATEEZ/Don%27t+Stop",
     "playcount": "2",
     "@attr": {
-      "rank": "13"
+      "rank": "12"
     },
     "name": "Don't Stop"
   },
@@ -443,9 +411,41 @@
     "url": "https://www.last.fm/music/CL/Hello+Bitches",
     "playcount": "2",
     "@attr": {
-      "rank": "14"
+      "rank": "13"
     },
     "name": "Hello Bitches"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/Ecco2K",
+      "name": "Ecco2K",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/459bcf1c1160e5c8991da55445560032.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/459bcf1c1160e5c8991da55445560032.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/459bcf1c1160e5c8991da55445560032.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/459bcf1c1160e5c8991da55445560032.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/Ecco2K/Amygdala",
+    "playcount": "2",
+    "@attr": {
+      "rank": "14"
+    },
+    "name": "Amygdala"
   },
   {
     "artist": {
