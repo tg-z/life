@@ -122,16 +122,16 @@
         }
       },
       "protected": false,
-      "followers_count": 32673,
+      "followers_count": 32742,
       "friends_count": 304,
-      "listed_count": 222,
+      "listed_count": 221,
       "created_at": "Wed Aug 12 20:27:10 +0000 2020",
-      "favourites_count": 9363,
+      "favourites_count": 9393,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 4918,
+      "statuses_count": 4922,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -162,8 +162,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 894,
-    "favorite_count": 7887,
+    "retweet_count": 898,
+    "favorite_count": 7902,
     "favorited": true,
     "retweeted": true,
     "possibly_sensitive": false,
@@ -279,16 +279,16 @@
         }
       },
       "protected": false,
-      "followers_count": 19390,
-      "friends_count": 1906,
+      "followers_count": 19386,
+      "friends_count": 1904,
       "listed_count": 47,
       "created_at": "Sun Dec 23 06:04:05 +0000 2018",
-      "favourites_count": 247324,
+      "favourites_count": 247530,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 57678,
+      "statuses_count": 57705,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -325,6 +325,187 @@
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "und"
+  },
+  {
+    "created_at": "Wed Feb 02 10:25:11 +0000 2022",
+    "id": 1488820789491077000,
+    "id_str": "1488820789491077123",
+    "text": "@bang_chanito looking at me like i hung the stars in the sky https://t.co/U3B3IdWtU4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "bang_chanito",
+          "name": "serafina ⁸",
+          "id": 1433296459068162000,
+          "id_str": "1433296459068162051",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1488820780368470000,
+          "id_str": "1488820780368470017",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKlanJQVIAE5wpl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKlanJQVIAE5wpl.jpg",
+          "url": "https://t.co/U3B3IdWtU4",
+          "display_url": "pic.twitter.com/U3B3IdWtU4",
+          "expanded_url": "https://twitter.com/MINGINAKAMOTO/status/1488820789491077123/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1488820780368470000,
+          "id_str": "1488820780368470017",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKlanJQVIAE5wpl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKlanJQVIAE5wpl.jpg",
+          "url": "https://t.co/U3B3IdWtU4",
+          "display_url": "pic.twitter.com/U3B3IdWtU4",
+          "expanded_url": "https://twitter.com/MINGINAKAMOTO/status/1488820789491077123/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1433296459068162000,
+    "in_reply_to_user_id_str": "1433296459068162051",
+    "in_reply_to_screen_name": "bang_chanito",
+    "user": {
+      "id": 1281839423529709600,
+      "id_str": "1281839423529709568",
+      "name": "day ⁸",
+      "screen_name": "MINGINAKAMOTO",
+      "location": "|blk|22|she/her|",
+      "description": "#민기: y’all straight booty butt cheek ass!",
+      "url": "https://t.co/hDKFyMQjKc",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/hDKFyMQjKc",
+              "expanded_url": "http://minginakamoto.carrd.co",
+              "display_url": "minginakamoto.carrd.co",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 538,
+      "friends_count": 484,
+      "listed_count": 16,
+      "created_at": "Sat Jul 11 06:35:27 +0000 2020",
+      "favourites_count": 44899,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20475,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1492261467772440579/ckMOIr8__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492261467772440579/ckMOIr8__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1281839423529709568/1644617844",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
   },
   {
     "created_at": "Wed Feb 02 08:52:27 +0000 2022",
@@ -381,16 +562,16 @@
         }
       },
       "protected": false,
-      "followers_count": 252209,
+      "followers_count": 252475,
       "friends_count": 421,
-      "listed_count": 495,
+      "listed_count": 493,
       "created_at": "Mon Aug 26 02:46:59 +0000 2013",
-      "favourites_count": 29604,
+      "favourites_count": 29613,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": true,
-      "statuses_count": 25700,
+      "statuses_count": 25701,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -421,8 +602,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 5531,
-    "favorite_count": 98303,
+    "retweet_count": 5535,
+    "favorite_count": 98296,
     "favorited": true,
     "retweeted": false,
     "lang": "en"
@@ -459,16 +640,16 @@
         }
       },
       "protected": false,
-      "followers_count": 23411,
-      "friends_count": 1344,
+      "followers_count": 23426,
+      "friends_count": 1343,
       "listed_count": 23,
       "created_at": "Fri Jul 05 17:20:37 +0000 2013",
-      "favourites_count": 96211,
+      "favourites_count": 96210,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 81394,
+      "statuses_count": 81406,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -500,7 +681,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 561,
-    "favorite_count": 1813,
+    "favorite_count": 1814,
     "favorited": true,
     "retweeted": false,
     "lang": "en"
@@ -638,16 +819,16 @@
         }
       },
       "protected": false,
-      "followers_count": 44524,
-      "friends_count": 1056,
+      "followers_count": 44567,
+      "friends_count": 1058,
       "listed_count": 134,
       "created_at": "Sun Mar 29 07:52:00 +0000 2020",
-      "favourites_count": 44786,
+      "favourites_count": 44839,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 32813,
+      "statuses_count": 32872,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
