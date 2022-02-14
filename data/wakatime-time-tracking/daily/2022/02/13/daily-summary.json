@@ -1,25 +1,98 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:51",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 51,
+        "text": "51 secs",
+        "total_seconds": 51.075768
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:51",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 51,
+        "text": "51 secs",
+        "total_seconds": 51.075768
+      }
+    ],
     "grand_total": {
       "decimal": "0.00",
       "digital": "0:00",
       "hours": 0,
       "minutes": 0,
       "text": "0 secs",
-      "total_seconds": 0
+      "total_seconds": 51.075768
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:51",
+        "hours": 0,
+        "minutes": 0,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 51,
+        "text": "51 secs",
+        "total_seconds": 51.075768
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:51",
+        "hours": 0,
+        "machine_name_id": "9d53f40e-4176-4e32-8514-c440de300c4b",
+        "minutes": 0,
+        "name": "bluetooths-macbook-pro.lan",
+        "percent": 100,
+        "seconds": 51,
+        "text": "51 secs",
+        "total_seconds": 51.075768
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:51",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 51,
+        "text": "51 secs",
+        "total_seconds": 51.075768
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:51",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Terminal",
+        "percent": 100,
+        "seconds": 51,
+        "text": "51 secs",
+        "total_seconds": 51.075768
+      }
+    ],
     "range": {
       "date": "2022-02-13",
       "end": "2022-02-14T07:59:59Z",
       "start": "2022-02-13T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
