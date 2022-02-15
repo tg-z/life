@@ -1,25 +1,110 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.18",
+        "digital": "0:11:46",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 46,
+        "text": "11 mins",
+        "total_seconds": 706.424693
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.18",
+        "digital": "0:11:46",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 46,
+        "text": "11 mins",
+        "total_seconds": 706.424693
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.18",
+      "digital": "0:11",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 11,
+      "text": "11 mins",
+      "total_seconds": 706.424693
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.18",
+        "digital": "0:11:46",
+        "hours": 0,
+        "minutes": 11,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 46,
+        "text": "11 mins",
+        "total_seconds": 706.424693
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.18",
+        "digital": "0:11:37",
+        "hours": 0,
+        "machine_name_id": "735a61a0-f20d-437e-afe3-2f8e20272395",
+        "minutes": 11,
+        "name": "bluetooths-macbook-pro.ddnszone.calstatela.edu",
+        "percent": 98.75,
+        "seconds": 37,
+        "text": "11 mins",
+        "total_seconds": 697.6121
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:08",
+        "hours": 0,
+        "machine_name_id": "d37b3e4b-2779-44a5-9511-569f9fbe7d8d",
+        "minutes": 0,
+        "name": "Camryns-Air.ddnszone.calstatela.edu",
+        "percent": 1.25,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.812593
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.18",
+        "digital": "0:11:46",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 46,
+        "text": "11 mins",
+        "total_seconds": 706.424693
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.18",
+        "digital": "0:11:46",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Terminal",
+        "percent": 100,
+        "seconds": 46,
+        "text": "11 mins",
+        "total_seconds": 706.424693
+      }
+    ],
     "range": {
       "date": "2022-02-14",
       "end": "2022-02-15T07:59:59Z",
       "start": "2022-02-14T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
