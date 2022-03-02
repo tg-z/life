@@ -3,28 +3,39 @@
     "categories": [
       {
         "decimal": "0.00",
-        "digital": "0:00:00",
+        "digital": "0:00:57",
         "hours": 0,
         "minutes": 0,
         "name": "Coding",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "percent": 100,
+        "seconds": 57,
+        "text": "57 secs",
+        "total_seconds": 57.104896
       }
     ],
     "dependencies": [],
     "editors": [
       {
         "decimal": "0.00",
-        "digital": "0:00:00",
+        "digital": "0:00:41",
         "hours": 0,
         "minutes": 0,
         "name": "Zsh",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "percent": 72.52,
+        "seconds": 41,
+        "text": "41 secs",
+        "total_seconds": 41.410684
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Vim",
+        "percent": 27.48,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.694212
       }
     ],
     "grand_total": {
@@ -33,66 +44,88 @@
       "hours": 0,
       "minutes": 0,
       "text": "0 secs",
-      "total_seconds": 0
+      "total_seconds": 57.104896
     },
     "languages": [
       {
         "decimal": "0.00",
-        "digital": "0:00:00",
+        "digital": "0:00:41",
         "hours": 0,
         "minutes": 0,
         "name": "sh",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "percent": 72.52,
+        "seconds": 41,
+        "text": "41 secs",
+        "total_seconds": 41.410684
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Text",
+        "percent": 27.48,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.694212
       }
     ],
     "machines": [
       {
         "decimal": "0.00",
-        "digital": "0:00:00",
+        "digital": "0:00:57",
         "hours": 0,
         "machine_name_id": "147930ba-af1d-4b71-9434-2390f1a1c2da",
         "minutes": 0,
         "name": "bluetooths-macbook-pro.local",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "percent": 100,
+        "seconds": 57,
+        "text": "57 secs",
+        "total_seconds": 57.104896
       }
     ],
     "operating_systems": [
       {
         "decimal": "0.00",
-        "digital": "0:00:00",
+        "digital": "0:00:57",
         "hours": 0,
         "minutes": 0,
         "name": "Mac",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "percent": 100,
+        "seconds": 57,
+        "text": "57 secs",
+        "total_seconds": 57.104896
       }
     ],
     "projects": [
       {
         "decimal": "0.00",
-        "digital": "0:00:00",
+        "digital": "0:00:41",
         "hours": 0,
         "minutes": 0,
         "name": "OutfitGen",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "percent": 72.52,
+        "seconds": 41,
+        "text": "41 secs",
+        "total_seconds": 41.410684
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Unknown Project",
+        "percent": 27.48,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.694212
       }
     ],
     "range": {
       "date": "2022-02-28",
       "end": "2022-03-01T07:59:59Z",
       "start": "2022-02-28T08:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Los_Angeles"
     }
   }
