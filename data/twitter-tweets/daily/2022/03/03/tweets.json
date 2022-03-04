@@ -1,15 +1,25 @@
 [
   {
-    "created_at": "Mon Feb 21 20:45:46 +0000 2022",
-    "id": 1495862333666898000,
-    "id_str": "1495862333666897920",
-    "text": "crestfallen as hell",
-    "truncated": false,
+    "created_at": "Thu Mar 03 20:18:05 +0000 2022",
+    "id": 1499479244820271000,
+    "id_str": "1499479244820271104",
+    "text": "was walking next to a 7 foot white boy yesterday on campus and wondered if we looked like nate and maddy in the hal… https://t.co/kWwa4dccfL",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/kWwa4dccfL",
+          "expanded_url": "https://twitter.com/i/web/status/1499479244820271104",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -83,10 +93,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "lang": "sv"
+    "possibly_sensitive": false,
+    "lang": "en"
   }
 ]
