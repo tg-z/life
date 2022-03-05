@@ -56,12 +56,12 @@
       "friends_count": 142,
       "listed_count": 0,
       "created_at": "Fri May 06 00:21:25 +0000 2016",
-      "favourites_count": 4688,
+      "favourites_count": 4700,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 3840,
+      "statuses_count": 3843,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -146,12 +146,12 @@
       "friends_count": 145,
       "listed_count": 0,
       "created_at": "Thu Mar 26 20:55:18 +0000 2020",
-      "favourites_count": 1006,
+      "favourites_count": 1015,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 1359,
+      "statuses_count": 1366,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -242,16 +242,16 @@
         }
       },
       "protected": false,
-      "followers_count": 849479,
+      "followers_count": 873361,
       "friends_count": 1320,
-      "listed_count": 8867,
+      "listed_count": 9203,
       "created_at": "Mon Mar 07 16:23:56 +0000 2011",
-      "favourites_count": 21987,
+      "favourites_count": 22026,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": true,
-      "statuses_count": 13557,
+      "statuses_count": 13613,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -315,8 +315,8 @@
     },
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 5969,
-    "favorite_count": 40431,
+    "retweet_count": 5963,
+    "favorite_count": 40416,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -367,16 +367,16 @@
         }
       },
       "protected": false,
-      "followers_count": 5385,
-      "friends_count": 1171,
+      "followers_count": 5388,
+      "friends_count": 1170,
       "listed_count": 7,
       "created_at": "Thu Jun 20 04:28:29 +0000 2019",
-      "favourites_count": 47090,
+      "favourites_count": 47194,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 19667,
+      "statuses_count": 19678,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -576,12 +576,12 @@
       "friends_count": 54,
       "listed_count": 0,
       "created_at": "Sun May 27 08:27:23 +0000 2012",
-      "favourites_count": 4061,
+      "favourites_count": 4062,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 9793,
+      "statuses_count": 9796,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -614,6 +614,284 @@
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 6,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 25 00:20:33 +0000 2022",
+    "id": 1497003547111559200,
+    "id_str": "1497003547111559180",
+    "text": "DONDA 2 shot by me https://t.co/DYzV50d7l3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1497003543022256000,
+          "id_str": "1497003543022256138",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMZsynlXwAoc7Sj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMZsynlXwAoc7Sj.jpg",
+          "url": "https://t.co/DYzV50d7l3",
+          "display_url": "pic.twitter.com/DYzV50d7l3",
+          "expanded_url": "https://twitter.com/dill35mm/status/1497003547111559180/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1364,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1497003543022256000,
+          "id_str": "1497003543022256138",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMZsynlXwAoc7Sj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMZsynlXwAoc7Sj.jpg",
+          "url": "https://t.co/DYzV50d7l3",
+          "display_url": "pic.twitter.com/DYzV50d7l3",
+          "expanded_url": "https://twitter.com/dill35mm/status/1497003547111559180/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1364,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1497003543018057700,
+          "id_str": "1497003543018057728",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMZsynkXsAAeyph.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMZsynkXsAAeyph.jpg",
+          "url": "https://t.co/DYzV50d7l3",
+          "display_url": "pic.twitter.com/DYzV50d7l3",
+          "expanded_url": "https://twitter.com/dill35mm/status/1497003547111559180/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 454,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1366,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1497003543018057700,
+          "id_str": "1497003543018057734",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMZsynkXsAY4JaE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMZsynkXsAY4JaE.jpg",
+          "url": "https://t.co/DYzV50d7l3",
+          "display_url": "pic.twitter.com/DYzV50d7l3",
+          "expanded_url": "https://twitter.com/dill35mm/status/1497003547111559180/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1364,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1497003543282262000,
+          "id_str": "1497003543282262017",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMZsyojXIAEy1gY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMZsyojXIAEy1gY.jpg",
+          "url": "https://t.co/DYzV50d7l3",
+          "display_url": "pic.twitter.com/DYzV50d7l3",
+          "expanded_url": "https://twitter.com/dill35mm/status/1497003547111559180/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1364,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 859638345932185600,
+      "id_str": "859638345932185600",
+      "name": "Dill",
+      "screen_name": "dill35mm",
+      "location": "Florida, USA",
+      "description": "you never saw this",
+      "url": "https://t.co/ynaF8JR39k",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ynaF8JR39k",
+              "expanded_url": "https://dill35mm.bigcartel.com/",
+              "display_url": "dill35mm.bigcartel.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1952,
+      "friends_count": 88,
+      "listed_count": 1,
+      "created_at": "Wed May 03 05:18:47 +0000 2017",
+      "favourites_count": 15927,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 15791,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1491203705919741958/sUE70Cnr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491203705919741958/sUE70Cnr_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/859638345932185600/1634372515",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 503,
+    "favorite_count": 4828,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,

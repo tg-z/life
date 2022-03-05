@@ -132,16 +132,16 @@
         }
       },
       "protected": false,
-      "followers_count": 134587,
+      "followers_count": 134704,
       "friends_count": 559,
-      "listed_count": 1021,
+      "listed_count": 1023,
       "created_at": "Fri Feb 15 03:51:09 +0000 2008",
-      "favourites_count": 91264,
+      "favourites_count": 91317,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 239730,
+      "statuses_count": 239823,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -171,8 +171,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 55,
-    "favorite_count": 360,
+    "retweet_count": 56,
+    "favorite_count": 377,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -311,16 +311,16 @@
         }
       },
       "protected": false,
-      "followers_count": 134587,
+      "followers_count": 134704,
       "friends_count": 559,
-      "listed_count": 1021,
+      "listed_count": 1023,
       "created_at": "Fri Feb 15 03:51:09 +0000 2008",
-      "favourites_count": 91264,
+      "favourites_count": 91317,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
       "verified": false,
-      "statuses_count": 239730,
+      "statuses_count": 239823,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -350,8 +350,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 67,
-    "favorite_count": 786,
+    "retweet_count": 70,
+    "favorite_count": 816,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -480,16 +480,16 @@
         }
       },
       "protected": false,
-      "followers_count": 626,
-      "friends_count": 488,
+      "followers_count": 639,
+      "friends_count": 486,
       "listed_count": 3,
       "created_at": "Sat Mar 13 10:23:08 +0000 2021",
-      "favourites_count": 51130,
+      "favourites_count": 51300,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 25476,
+      "statuses_count": 25570,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -520,8 +520,188 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 819,
-    "favorite_count": 11567,
+    "retweet_count": 5076,
+    "favorite_count": 73506,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 02 18:23:41 +0000 2022",
+    "id": 1499088066614804500,
+    "id_str": "1499088066614804481",
+    "text": "Announcing my latest Mac app:\n\nPure Paste — Paste as plain text by default\n\nhttps://t.co/Ki28rEFHr7 https://t.co/gLXvEGuilg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ki28rEFHr7",
+          "expanded_url": "https://apps.apple.com/app/id1611378436",
+          "display_url": "apps.apple.com/app/id16113784…",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1499087855100248000,
+          "id_str": "1499087855100248064",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/FM3UdjJaQAAJNy8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FM3UdjJaQAAJNy8.jpg",
+          "url": "https://t.co/gLXvEGuilg",
+          "display_url": "pic.twitter.com/gLXvEGuilg",
+          "expanded_url": "https://twitter.com/sindresorhus/status/1499088066614804481/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 750,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1440,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1499087855100248000,
+          "id_str": "1499087855100248064",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/FM3UdjJaQAAJNy8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FM3UdjJaQAAJNy8.jpg",
+          "url": "https://t.co/gLXvEGuilg",
+          "display_url": "pic.twitter.com/gLXvEGuilg",
+          "expanded_url": "https://twitter.com/sindresorhus/status/1499088066614804481/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 750,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1440,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 170686450,
+      "id_str": "170686450",
+      "name": "Sindre Sorhus 💙💛",
+      "screen_name": "sindresorhus",
+      "location": "",
+      "description": "Full-time open-sourcerer. \"Work hard. Enjoy life. Be kind.\". ❤️ Swift. Makes macOS apps, CLI tools, npm packages. Made @awesome__re. Follow: @sindre_gh_repos",
+      "url": "https://t.co/WUPAI8bQOG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/WUPAI8bQOG",
+              "expanded_url": "https://sindresorhus.com",
+              "display_url": "sindresorhus.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 52221,
+      "friends_count": 486,
+      "listed_count": 1439,
+      "created_at": "Sun Jul 25 13:48:23 +0000 2010",
+      "favourites_count": 14469,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 18468,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FAFAFA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1131626244745834497/0SzJoz_J_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131626244745834497/0SzJoz_J_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/170686450/1646406000",
+      "profile_link_color": "7F5CE3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 77,
+    "favorite_count": 593,
     "favorited": true,
     "retweeted": false,
     "possibly_sensitive": false,
