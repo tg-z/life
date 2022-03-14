@@ -1,32 +1,33 @@
 [
   {
-    "created_at": "Thu Mar 03 20:18:05 +0000 2022",
-    "id": 1499479244820271000,
-    "id_str": "1499479244820271104",
-    "text": "was walking next to a 7 foot white boy yesterday on campus and wondered if we looked like nate and maddy in the hal… https://t.co/kWwa4dccfL",
-    "truncated": true,
+    "created_at": "Sun Mar 13 04:25:34 +0000 2022",
+    "id": 1502863415844683800,
+    "id_str": "1502863415844683779",
+    "text": "@jahooob family guy is only funny if i'm high",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/kWwa4dccfL",
-          "expanded_url": "https://twitter.com/i/web/status/1499479244820271104",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "jahooob",
+          "name": "hoob",
+          "id": 2662446618,
+          "id_str": "2662446618",
           "indices": [
-            117,
-            140
+            0,
+            8
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1502861852564508700,
+    "in_reply_to_status_id_str": "1502861852564508675",
+    "in_reply_to_user_id": 2662446618,
+    "in_reply_to_user_id_str": "2662446618",
+    "in_reply_to_screen_name": "jahooob",
     "user": {
       "id": 2902176888,
       "id_str": "2902176888",
@@ -94,10 +95,9 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   }
 ]
