@@ -1,25 +1,109 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.162491
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.162491
+      }
+    ],
     "grand_total": {
       "decimal": "0.00",
       "digital": "0:00",
       "hours": 0,
       "minutes": 0,
       "text": "0 secs",
-      "total_seconds": 0
+      "total_seconds": 15.162491
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.162491
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 0,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.162491
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.162491
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:11",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Terminal",
+        "percent": 72.75,
+        "seconds": 11,
+        "text": "11 secs",
+        "total_seconds": 11.029997
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:04",
+        "hours": 0,
+        "minutes": 0,
+        "name": "OutfitGen",
+        "percent": 27.25,
+        "seconds": 4,
+        "text": "4 secs",
+        "total_seconds": 4.132494
+      }
+    ],
     "range": {
       "date": "2022-03-20",
       "end": "2022-03-21T06:59:59Z",
       "start": "2022-03-20T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
