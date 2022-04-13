@@ -1,6 +1,42 @@
 [
   {
     "artist": {
+      "mbid": "",
+      "#text": "Hannah Diamond"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cbf1002371b840064122c3fc25227ac6.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cbf1002371b840064122c3fc25227ac6.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cbf1002371b840064122c3fc25227ac6.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cbf1002371b840064122c3fc25227ac6.jpg"
+      }
+    ],
+    "mbid": "",
+    "album": {
+      "mbid": "2e70fd2e-5e86-4a34-9e43-4b511839063f",
+      "#text": "Reflections Remixes"
+    },
+    "name": "Love Goes On - Palmistry Remix",
+    "url": "https://www.last.fm/music/Hannah+Diamond/_/Love+Goes+On+-+Palmistry+Remix",
+    "date": {
+      "uts": "1649711024",
+      "#text": "11 Apr 2022, 21:03"
+    }
+  },
+  {
+    "artist": {
       "mbid": "cd689e77-dfdd-4f81-b50c-5e5a3f5e38a4",
       "#text": "Bladee"
     },
@@ -1113,6 +1149,42 @@
     "date": {
       "uts": "1649694970",
       "#text": "11 Apr 2022, 16:36"
+    }
+  },
+  {
+    "artist": {
+      "mbid": "66ab36ce-8f58-46fb-9284-396c2c90ecbd",
+      "#text": "Ecco2K"
+    },
+    "streamable": "0",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20671dbc2cd6e2e17e8456539069f548.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20671dbc2cd6e2e17e8456539069f548.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20671dbc2cd6e2e17e8456539069f548.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20671dbc2cd6e2e17e8456539069f548.jpg"
+      }
+    ],
+    "mbid": "d5d359e9-82fa-4214-b14f-163f1c04b7cb",
+    "album": {
+      "mbid": "8275ac2a-400d-499e-8757-5ea29018b8a4",
+      "#text": "PXE"
+    },
+    "name": "In the Flesh",
+    "url": "https://www.last.fm/music/Ecco2K/_/In+the+Flesh",
+    "date": {
+      "uts": "1649670473",
+      "#text": "11 Apr 2022, 09:47"
     }
   }
 ]
