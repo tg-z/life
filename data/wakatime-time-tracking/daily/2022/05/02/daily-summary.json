@@ -1,25 +1,98 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.13",
+        "digital": "0:08:30",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 30,
+        "text": "8 mins",
+        "total_seconds": 510.123124
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.13",
+        "digital": "0:08:30",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 30,
+        "text": "8 mins",
+        "total_seconds": 510.123124
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.13",
+      "digital": "0:08",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 8,
+      "text": "8 mins",
+      "total_seconds": 510.123124
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.13",
+        "digital": "0:08:30",
+        "hours": 0,
+        "minutes": 8,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 30,
+        "text": "8 mins",
+        "total_seconds": 510.123124
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.13",
+        "digital": "0:08:30",
+        "hours": 0,
+        "machine_name_id": "1cfb0bfb-2ba1-452c-8769-78a61b2f1ced",
+        "minutes": 8,
+        "name": "bluetooths-macbook-pro.ddnszone.calstatela.edu",
+        "percent": 100,
+        "seconds": 30,
+        "text": "8 mins",
+        "total_seconds": 510.123124
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.13",
+        "digital": "0:08:30",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 30,
+        "text": "8 mins",
+        "total_seconds": 510.123124
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.13",
+        "digital": "0:08:30",
+        "hours": 0,
+        "minutes": 8,
+        "name": "Terminal",
+        "percent": 100,
+        "seconds": 30,
+        "text": "8 mins",
+        "total_seconds": 510.123124
+      }
+    ],
     "range": {
       "date": "2022-05-02",
       "end": "2022-05-03T06:59:59Z",
       "start": "2022-05-02T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
