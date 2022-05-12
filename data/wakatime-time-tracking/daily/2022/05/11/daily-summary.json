@@ -1,25 +1,131 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.42",
+        "digital": "0:25:29",
+        "hours": 0,
+        "minutes": 25,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 29,
+        "text": "25 mins",
+        "total_seconds": 1529.217168
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.42",
+        "digital": "0:25:29",
+        "hours": 0,
+        "minutes": 25,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 29,
+        "text": "25 mins",
+        "total_seconds": 1529.217168
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.42",
+      "digital": "0:25",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 25,
+      "text": "25 mins",
+      "total_seconds": 1529.217168
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.42",
+        "digital": "0:25:29",
+        "hours": 0,
+        "minutes": 25,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 29,
+        "text": "25 mins",
+        "total_seconds": 1529.217168
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.42",
+        "digital": "0:25:29",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 25,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 29,
+        "text": "25 mins",
+        "total_seconds": 1529.217168
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.42",
+        "digital": "0:25:29",
+        "hours": 0,
+        "minutes": 25,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 29,
+        "text": "25 mins",
+        "total_seconds": 1529.217168
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.35",
+        "digital": "0:21:34",
+        "hours": 0,
+        "minutes": 21,
+        "name": "Terminal",
+        "percent": 84.63,
+        "seconds": 34,
+        "text": "21 mins",
+        "total_seconds": 1294.127014
+      },
+      {
+        "decimal": "0.03",
+        "digital": "0:02:33",
+        "hours": 0,
+        "minutes": 2,
+        "name": "tiktok-download",
+        "percent": 10.03,
+        "seconds": 33,
+        "text": "2 mins",
+        "total_seconds": 153.455929
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:43",
+        "hours": 0,
+        "minutes": 0,
+        "name": "ttdl",
+        "percent": 2.85,
+        "seconds": 43,
+        "text": "43 secs",
+        "total_seconds": 43.580342
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:38",
+        "hours": 0,
+        "minutes": 0,
+        "name": "TikTok-Video-Downloader",
+        "percent": 2.49,
+        "seconds": 38,
+        "text": "38 secs",
+        "total_seconds": 38.053883
+      }
+    ],
     "range": {
       "date": "2022-05-11",
       "end": "2022-05-12T06:59:59Z",
       "start": "2022-05-11T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
