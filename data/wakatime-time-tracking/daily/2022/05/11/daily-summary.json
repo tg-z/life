@@ -2,90 +2,157 @@
   {
     "categories": [
       {
-        "decimal": "0.42",
-        "digital": "0:25:29",
-        "hours": 0,
-        "minutes": 25,
+        "decimal": "1.78",
+        "digital": "1:47:20",
+        "hours": 1,
+        "minutes": 47,
         "name": "Coding",
         "percent": 100,
-        "seconds": 29,
-        "text": "25 mins",
-        "total_seconds": 1529.217168
+        "seconds": 20,
+        "text": "1 hr 47 mins",
+        "total_seconds": 6440.171889
       }
     ],
-    "dependencies": [],
+    "dependencies": [
+      {
+        "decimal": "0.12",
+        "digital": "0:07:26",
+        "hours": 0,
+        "minutes": 7,
+        "name": "tweepy",
+        "percent": 58.66,
+        "seconds": 26,
+        "text": "7 mins",
+        "total_seconds": 446.319243
+      },
+      {
+        "decimal": "0.08",
+        "digital": "0:05:14",
+        "hours": 0,
+        "minutes": 5,
+        "name": "auth",
+        "percent": 41.34,
+        "seconds": 14,
+        "text": "5 mins",
+        "total_seconds": 314.574557
+      }
+    ],
     "editors": [
       {
-        "decimal": "0.42",
-        "digital": "0:25:29",
-        "hours": 0,
-        "minutes": 25,
+        "decimal": "1.48",
+        "digital": "1:29:56",
+        "hours": 1,
+        "minutes": 29,
         "name": "Zsh",
-        "percent": 100,
-        "seconds": 29,
-        "text": "25 mins",
-        "total_seconds": 1529.217168
+        "percent": 83.8,
+        "seconds": 56,
+        "text": "1 hr 29 mins",
+        "total_seconds": 5396.668264
+      },
+      {
+        "decimal": "0.28",
+        "digital": "0:17:23",
+        "hours": 0,
+        "minutes": 17,
+        "name": "Vim",
+        "percent": 16.2,
+        "seconds": 23,
+        "text": "17 mins",
+        "total_seconds": 1043.503625
       }
     ],
     "grand_total": {
-      "decimal": "0.42",
-      "digital": "0:25",
-      "hours": 0,
-      "minutes": 25,
-      "text": "25 mins",
-      "total_seconds": 1529.217168
+      "decimal": "1.78",
+      "digital": "1:47",
+      "hours": 1,
+      "minutes": 47,
+      "text": "1 hr 47 mins",
+      "total_seconds": 6440.171889
     },
     "languages": [
       {
-        "decimal": "0.42",
-        "digital": "0:25:29",
-        "hours": 0,
-        "minutes": 25,
+        "decimal": "1.48",
+        "digital": "1:29:56",
+        "hours": 1,
+        "minutes": 29,
         "name": "sh",
-        "percent": 100,
-        "seconds": 29,
-        "text": "25 mins",
-        "total_seconds": 1529.217168
+        "percent": 83.8,
+        "seconds": 56,
+        "text": "1 hr 29 mins",
+        "total_seconds": 5396.668264
+      },
+      {
+        "decimal": "0.15",
+        "digital": "0:09:57",
+        "hours": 0,
+        "minutes": 9,
+        "name": "JSON",
+        "percent": 9.27,
+        "seconds": 57,
+        "text": "9 mins",
+        "total_seconds": 597.184382
+      },
+      {
+        "decimal": "0.12",
+        "digital": "0:07:26",
+        "hours": 0,
+        "minutes": 7,
+        "name": "Python",
+        "percent": 6.93,
+        "seconds": 26,
+        "text": "7 mins",
+        "total_seconds": 446.319243
       }
     ],
     "machines": [
       {
-        "decimal": "0.42",
-        "digital": "0:25:29",
-        "hours": 0,
+        "decimal": "1.78",
+        "digital": "1:47:20",
+        "hours": 1,
         "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
-        "minutes": 25,
+        "minutes": 47,
         "name": "bluetooths-macbook-pro.local",
         "percent": 100,
-        "seconds": 29,
-        "text": "25 mins",
-        "total_seconds": 1529.217168
+        "seconds": 20,
+        "text": "1 hr 47 mins",
+        "total_seconds": 6440.171889
       }
     ],
     "operating_systems": [
       {
-        "decimal": "0.42",
-        "digital": "0:25:29",
-        "hours": 0,
-        "minutes": 25,
+        "decimal": "1.78",
+        "digital": "1:47:20",
+        "hours": 1,
+        "minutes": 47,
         "name": "Mac",
         "percent": 100,
-        "seconds": 29,
-        "text": "25 mins",
-        "total_seconds": 1529.217168
+        "seconds": 20,
+        "text": "1 hr 47 mins",
+        "total_seconds": 6440.171889
       }
     ],
     "projects": [
       {
-        "decimal": "0.35",
-        "digital": "0:21:34",
-        "hours": 0,
-        "minutes": 21,
+        "decimal": "1.43",
+        "digital": "1:26:01",
+        "hours": 1,
+        "minutes": 26,
         "name": "Terminal",
-        "percent": 84.63,
-        "seconds": 34,
-        "text": "21 mins",
-        "total_seconds": 1294.127014
+        "percent": 80.15,
+        "seconds": 1,
+        "text": "1 hr 26 mins",
+        "total_seconds": 5161.57811
+      },
+      {
+        "decimal": "0.28",
+        "digital": "0:17:23",
+        "hours": 0,
+        "minutes": 17,
+        "name": "Unknown Project",
+        "percent": 16.2,
+        "seconds": 23,
+        "text": "17 mins",
+        "total_seconds": 1043.503625
       },
       {
         "decimal": "0.03",
@@ -93,7 +160,7 @@
         "hours": 0,
         "minutes": 2,
         "name": "tiktok-download",
-        "percent": 10.03,
+        "percent": 2.38,
         "seconds": 33,
         "text": "2 mins",
         "total_seconds": 153.455929
@@ -104,7 +171,7 @@
         "hours": 0,
         "minutes": 0,
         "name": "ttdl",
-        "percent": 2.85,
+        "percent": 0.68,
         "seconds": 43,
         "text": "43 secs",
         "total_seconds": 43.580342
@@ -115,7 +182,7 @@
         "hours": 0,
         "minutes": 0,
         "name": "TikTok-Video-Downloader",
-        "percent": 2.49,
+        "percent": 0.59,
         "seconds": 38,
         "text": "38 secs",
         "total_seconds": 38.053883
@@ -125,7 +192,7 @@
       "date": "2022-05-11",
       "end": "2022-05-12T06:59:59Z",
       "start": "2022-05-11T07:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Los_Angeles"
     }
   }
