@@ -1,5 +1,745 @@
 [
   {
+    "created_at": "Tue May 24 17:25:23 +0000 2022",
+    "id": 1529151589683847200,
+    "id_str": "1529151589683847169",
+    "text": "https://t.co/vvY1WMde6s",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vvY1WMde6s",
+          "expanded_url": "https://www.last.fm/user/parasite______",
+          "display_url": "last.fm/user/parasite_…",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "parasite",
+      "screen_name": "parasite______",
+      "location": "latiné | los angeles",
+      "description": "serafina (they/he) 2001 -- ceo of @BLADEE_BOT",
+      "url": "https://t.co/vDXSTwGfQY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vDXSTwGfQY",
+              "expanded_url": "https://pond.computer",
+              "display_url": "pond.computer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 430,
+      "friends_count": 704,
+      "listed_count": 3,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 22565,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5984,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1524908586282807297/vpGxvVNc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1524908586282807297/vpGxvVNc_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Tue May 24 17:14:38 +0000 2022",
+    "id": 1529148884252905500,
+    "id_str": "1529148884252905473",
+    "text": "@raciist it's been started 🫣",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "raciist",
+          "name": "real-life visibility race",
+          "id": 2474855089,
+          "id_str": "2474855089",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1529147780689629200,
+    "in_reply_to_status_id_str": "1529147780689629184",
+    "in_reply_to_user_id": 2474855089,
+    "in_reply_to_user_id_str": "2474855089",
+    "in_reply_to_screen_name": "raciist",
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "parasite",
+      "screen_name": "parasite______",
+      "location": "latiné | los angeles",
+      "description": "serafina (they/he) 2001 -- ceo of @BLADEE_BOT",
+      "url": "https://t.co/vDXSTwGfQY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vDXSTwGfQY",
+              "expanded_url": "https://pond.computer",
+              "display_url": "pond.computer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 430,
+      "friends_count": 704,
+      "listed_count": 3,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 22565,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5984,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1524908586282807297/vpGxvVNc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1524908586282807297/vpGxvVNc_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue May 24 16:53:13 +0000 2022",
+    "id": 1529143491976044500,
+    "id_str": "1529143491976044544",
+    "text": "RT @AyooKd: They done Fucked Up In Gave Me A Horse 🐴🏇🏾 https://t.co/ah5nmDpI0D",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AyooKd",
+          "name": "Ayoo Kd",
+          "id": 518168983,
+          "id_str": "518168983",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 658023713040957400,
+          "id_str": "658023713040957440",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/CSHFFKWXAAA7TyX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CSHFFKWXAAA7TyX.jpg",
+          "url": "https://t.co/ah5nmDpI0D",
+          "display_url": "pic.twitter.com/ah5nmDpI0D",
+          "expanded_url": "https://twitter.com/AyooKd/status/658023800232128512/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 658023800232128500,
+          "source_status_id_str": "658023800232128512",
+          "source_user_id": 518168983,
+          "source_user_id_str": "518168983"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 658023713040957400,
+          "id_str": "658023713040957440",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/CSHFFKWXAAA7TyX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CSHFFKWXAAA7TyX.jpg",
+          "url": "https://t.co/ah5nmDpI0D",
+          "display_url": "pic.twitter.com/ah5nmDpI0D",
+          "expanded_url": "https://twitter.com/AyooKd/status/658023800232128512/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 658023800232128500,
+          "source_status_id_str": "658023800232128512",
+          "source_user_id": 518168983,
+          "source_user_id_str": "518168983"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "parasite",
+      "screen_name": "parasite______",
+      "location": "latiné | los angeles",
+      "description": "serafina (they/he) 2001 -- ceo of @BLADEE_BOT",
+      "url": "https://t.co/vDXSTwGfQY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vDXSTwGfQY",
+              "expanded_url": "https://pond.computer",
+              "display_url": "pond.computer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 430,
+      "friends_count": 704,
+      "listed_count": 3,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 22565,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5984,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1524908586282807297/vpGxvVNc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1524908586282807297/vpGxvVNc_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 24 20:54:34 +0000 2015",
+      "id": 658023800232128500,
+      "id_str": "658023800232128512",
+      "text": "They done Fucked Up In Gave Me A Horse 🐴🏇🏾 https://t.co/ah5nmDpI0D",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 658023713040957400,
+            "id_str": "658023713040957440",
+            "indices": [
+              43,
+              66
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSHFFKWXAAA7TyX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CSHFFKWXAAA7TyX.jpg",
+            "url": "https://t.co/ah5nmDpI0D",
+            "display_url": "pic.twitter.com/ah5nmDpI0D",
+            "expanded_url": "https://twitter.com/AyooKd/status/658023800232128512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 658023713040957400,
+            "id_str": "658023713040957440",
+            "indices": [
+              43,
+              66
+            ],
+            "media_url": "http://pbs.twimg.com/media/CSHFFKWXAAA7TyX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CSHFFKWXAAA7TyX.jpg",
+            "url": "https://t.co/ah5nmDpI0D",
+            "display_url": "pic.twitter.com/ah5nmDpI0D",
+            "expanded_url": "https://twitter.com/AyooKd/status/658023800232128512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 518168983,
+        "id_str": "518168983",
+        "name": "Ayoo Kd",
+        "screen_name": "AyooKd",
+        "location": "Ayoo Kd On Youtube Look Me Up ",
+        "description": "Seen On Worldstar,Vladtv,DjSmall,Saycheese…& more Song With Trippie Red, Souljaboy ,Lil Wop & More Surf Or Die Coming Soon 🤫🔥 Follow My Instagram Ayookd1",
+        "url": "https://t.co/My7hSORv4l",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/My7hSORv4l",
+                "expanded_url": "https://youtu.be/0zqcPvRjYd4",
+                "display_url": "youtu.be/0zqcPvRjYd4",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 148250,
+        "friends_count": 32549,
+        "listed_count": 244,
+        "created_at": "Thu Mar 08 03:39:32 +0000 2012",
+        "favourites_count": 90139,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 352492,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1522725650087432193/j_z8w7HU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1522725650087432193/j_z8w7HU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/518168983/1635483106",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 57686,
+      "favorite_count": 101706,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 57686,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue May 24 16:50:46 +0000 2022",
+    "id": 1529142875933401000,
+    "id_str": "1529142875933401088",
+    "text": "200 days till i see yung lean in LA!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "parasite",
+      "screen_name": "parasite______",
+      "location": "latiné | los angeles",
+      "description": "serafina (they/he) 2001 -- ceo of @BLADEE_BOT",
+      "url": "https://t.co/vDXSTwGfQY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vDXSTwGfQY",
+              "expanded_url": "https://pond.computer",
+              "display_url": "pond.computer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 430,
+      "friends_count": 704,
+      "listed_count": 3,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 22565,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5984,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1524908586282807297/vpGxvVNc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1524908586282807297/vpGxvVNc_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue May 24 01:07:34 +0000 2022",
+    "id": 1528905514276429800,
+    "id_str": "1528905514276429825",
+    "text": "my flume just died 💀 now so will i",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "parasite",
+      "screen_name": "parasite______",
+      "location": "latiné | los angeles",
+      "description": "serafina (they/he) 2001 -- ceo of @BLADEE_BOT",
+      "url": "https://t.co/vDXSTwGfQY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vDXSTwGfQY",
+              "expanded_url": "https://pond.computer",
+              "display_url": "pond.computer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 430,
+      "friends_count": 704,
+      "listed_count": 3,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 22565,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5984,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1524908586282807297/vpGxvVNc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1524908586282807297/vpGxvVNc_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Tue May 24 00:20:21 +0000 2022",
     "id": 1528893629221068800,
     "id_str": "1528893629221068800",
@@ -48,12 +788,12 @@
       "friends_count": 704,
       "listed_count": 3,
       "created_at": "Mon Nov 17 01:34:31 +0000 2014",
-      "favourites_count": 22562,
+      "favourites_count": 22565,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 5979,
+      "statuses_count": 5984,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -84,7 +824,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "en"
@@ -252,12 +992,12 @@
       "friends_count": 704,
       "listed_count": 3,
       "created_at": "Mon Nov 17 01:34:31 +0000 2014",
-      "favourites_count": 22562,
+      "favourites_count": 22565,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 5979,
+      "statuses_count": 5984,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -287,8 +1027,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 1,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,

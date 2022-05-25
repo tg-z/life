@@ -1,25 +1,98 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.20",
+        "digital": "0:12:49",
+        "hours": 0,
+        "minutes": 12,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 49,
+        "text": "12 mins",
+        "total_seconds": 769.253959
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.20",
+        "digital": "0:12:49",
+        "hours": 0,
+        "minutes": 12,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 49,
+        "text": "12 mins",
+        "total_seconds": 769.253959
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.20",
+      "digital": "0:12",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 12,
+      "text": "12 mins",
+      "total_seconds": 769.253959
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.20",
+        "digital": "0:12:49",
+        "hours": 0,
+        "minutes": 12,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 49,
+        "text": "12 mins",
+        "total_seconds": 769.253959
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.20",
+        "digital": "0:12:49",
+        "hours": 0,
+        "machine_name_id": "49d8caf9-a9e9-4865-85a0-18415bde3427",
+        "minutes": 12,
+        "name": "bluetooths-macbook-pro.lan",
+        "percent": 100,
+        "seconds": 49,
+        "text": "12 mins",
+        "total_seconds": 769.253959
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.20",
+        "digital": "0:12:49",
+        "hours": 0,
+        "minutes": 12,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 49,
+        "text": "12 mins",
+        "total_seconds": 769.253959
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.20",
+        "digital": "0:12:49",
+        "hours": 0,
+        "minutes": 12,
+        "name": "ttdl",
+        "percent": 100,
+        "seconds": 49,
+        "text": "12 mins",
+        "total_seconds": 769.253959
+      }
+    ],
     "range": {
       "date": "2022-05-24",
       "end": "2022-05-25T06:59:59Z",
       "start": "2022-05-24T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
