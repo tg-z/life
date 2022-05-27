@@ -33,6 +33,38 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
+      "name": "TOMORROW X TOGETHER",
+      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7448412cff639253ecf512f22ad42232.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7448412cff639253ecf512f22ad42232.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7448412cff639253ecf512f22ad42232.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7448412cff639253ecf512f22ad42232.png"
+      }
+    ],
+    "mbid": "54187a53-941b-4c14-a02f-7ab7cc8b73f0",
+    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/minisode+2:+Thursday%27s+Child",
+    "playcount": "120",
+    "@attr": {
+      "rank": "2"
+    },
+    "name": "minisode 2: Thursday's Child"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/NCT+127",
       "name": "NCT 127",
       "mbid": "9d17d14a-e81c-410e-a90b-b02b0a9de6f8"
@@ -59,41 +91,9 @@
     "url": "https://www.last.fm/music/NCT+127/Sticker+-+The+3rd+Album",
     "playcount": "119",
     "@attr": {
-      "rank": "2"
-    },
-    "name": "Sticker - The 3rd Album"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
-      "name": "TOMORROW X TOGETHER",
-      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7448412cff639253ecf512f22ad42232.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7448412cff639253ecf512f22ad42232.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7448412cff639253ecf512f22ad42232.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7448412cff639253ecf512f22ad42232.png"
-      }
-    ],
-    "mbid": "54187a53-941b-4c14-a02f-7ab7cc8b73f0",
-    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/minisode+2:+Thursday%27s+Child",
-    "playcount": "119",
-    "@attr": {
       "rank": "3"
     },
-    "name": "minisode 2: Thursday's Child"
+    "name": "Sticker - The 3rd Album"
   },
   {
     "artist": {
@@ -153,7 +153,7 @@
     ],
     "mbid": "",
     "url": "https://www.last.fm/music/P1Harmony/DISHARMONY+:+FIND+OUT",
-    "playcount": "100",
+    "playcount": "101",
     "@attr": {
       "rank": "5"
     },
@@ -249,7 +249,7 @@
     ],
     "mbid": "d8f34771-9fef-42f7-bb3e-4d37370ed3a6",
     "url": "https://www.last.fm/music/Ecco2K/E",
-    "playcount": "94",
+    "playcount": "95",
     "@attr": {
       "rank": "8"
     },
@@ -313,7 +313,7 @@
     ],
     "mbid": "d98d0f2e-8fc2-421d-951d-7bd0d1565f74",
     "url": "https://www.last.fm/music/Bladee/Icedancer",
-    "playcount": "85",
+    "playcount": "86",
     "@attr": {
       "rank": "10"
     },
@@ -577,6 +577,38 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/LE+SSERAFIM",
+      "name": "LE SSERAFIM",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e9241af49d5f63f63cf1b000a4276f46.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e9241af49d5f63f63cf1b000a4276f46.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e9241af49d5f63f63cf1b000a4276f46.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9241af49d5f63f63cf1b000a4276f46.png"
+      }
+    ],
+    "mbid": "cd7fa327-4886-4774-845a-5672596113ca",
+    "url": "https://www.last.fm/music/LE+SSERAFIM/FEARLESS",
+    "playcount": "68",
+    "@attr": {
+      "rank": "19"
+    },
+    "name": "FEARLESS"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/ATEEZ",
       "name": "ATEEZ",
       "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690"
@@ -603,40 +635,8 @@
     "url": "https://www.last.fm/music/ATEEZ/ZERO+:+FEVER+Part.3",
     "playcount": "67",
     "@attr": {
-      "rank": "19"
-    },
-    "name": "ZERO : FEVER Part.3"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/LE+SSERAFIM",
-      "name": "LE SSERAFIM",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e9241af49d5f63f63cf1b000a4276f46.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e9241af49d5f63f63cf1b000a4276f46.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e9241af49d5f63f63cf1b000a4276f46.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9241af49d5f63f63cf1b000a4276f46.png"
-      }
-    ],
-    "mbid": "cd7fa327-4886-4774-845a-5672596113ca",
-    "url": "https://www.last.fm/music/LE+SSERAFIM/FEARLESS",
-    "playcount": "67",
-    "@attr": {
       "rank": "20"
     },
-    "name": "FEARLESS"
+    "name": "ZERO : FEVER Part.3"
   }
 ]
