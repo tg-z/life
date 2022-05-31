@@ -227,6 +227,43 @@
       "#text": "0"
     },
     "mbid": "",
+    "name": "sour",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/Grandee",
+      "name": "Grandee",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/Grandee/_/sour",
+    "duration": "140",
+    "@attr": {
+      "rank": "7"
+    },
+    "playcount": "4"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
     "name": "project x",
     "image": [
       {
@@ -253,43 +290,6 @@
     },
     "url": "https://www.last.fm/music/RUDECLUB/_/project+x",
     "duration": "139",
-    "@attr": {
-      "rank": "7"
-    },
-    "playcount": "4"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "Knock Knock",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/SoFaygo",
-      "name": "SoFaygo",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/SoFaygo/_/Knock+Knock",
-    "duration": "0",
     "@attr": {
       "rank": "8"
     },
@@ -449,43 +449,6 @@
       "#text": "0"
     },
     "mbid": "",
-    "name": "sour",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/Grandee",
-      "name": "Grandee",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/Grandee/_/sour",
-    "duration": "140",
-    "@attr": {
-      "rank": "13"
-    },
-    "playcount": "3"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
     "name": "Regular - English Version",
     "image": [
       {
@@ -513,7 +476,7 @@
     "url": "https://www.last.fm/music/NCT+127/_/Regular+-+English+Version",
     "duration": "0",
     "@attr": {
-      "rank": "14"
+      "rank": "13"
     },
     "playcount": "3"
   },
@@ -550,7 +513,7 @@
     "url": "https://www.last.fm/music/Pierce+the+Veil/_/Besitos",
     "duration": "262",
     "@attr": {
-      "rank": "15"
+      "rank": "14"
     },
     "playcount": "3"
   },
@@ -587,7 +550,7 @@
     "url": "https://www.last.fm/music/Quinn/_/i+dont+want+that+many+friends+in+the+first+place",
     "duration": "109",
     "@attr": {
-      "rank": "16"
+      "rank": "15"
     },
     "playcount": "3"
   },
@@ -597,7 +560,7 @@
       "#text": "0"
     },
     "mbid": "",
-    "name": "I Don't Wanna Change",
+    "name": "QUEUE³",
     "image": [
       {
         "size": "small",
@@ -617,14 +580,88 @@
       }
     ],
     "artist": {
-      "url": "https://www.last.fm/music/Senses",
-      "name": "Senses",
-      "mbid": "31c1a979-4e6b-4c4d-bb22-9c2dd8c3d36f"
+      "url": "https://www.last.fm/music/SEBii",
+      "name": "SEBii",
+      "mbid": ""
     },
-    "url": "https://www.last.fm/music/Senses/_/I+Don%27t+Wanna+Change",
+    "url": "https://www.last.fm/music/SEBii/_/QUEUE%C2%B3",
+    "duration": "0",
+    "@attr": {
+      "rank": "16"
+    },
+    "playcount": "3"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "SLiiDE",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/SEBii",
+      "name": "SEBii",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/SEBii/_/SLiiDE",
     "duration": "0",
     "@attr": {
       "rank": "17"
+    },
+    "playcount": "3"
+  },
+  {
+    "streamable": {
+      "fulltrack": "0",
+      "#text": "0"
+    },
+    "mbid": "",
+    "name": "Knock Knock",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      }
+    ],
+    "artist": {
+      "url": "https://www.last.fm/music/SoFaygo",
+      "name": "SoFaygo",
+      "mbid": ""
+    },
+    "url": "https://www.last.fm/music/SoFaygo/_/Knock+Knock",
+    "duration": "0",
+    "@attr": {
+      "rank": "18"
     },
     "playcount": "3"
   },
@@ -661,7 +698,7 @@
     "url": "https://www.last.fm/music/Thaiboy+Digital/_/I%27m+Fresh",
     "duration": "88",
     "@attr": {
-      "rank": "18"
+      "rank": "19"
     },
     "playcount": "3"
   },
@@ -697,43 +734,6 @@
     },
     "url": "https://www.last.fm/music/Bayymack/_/kiss+n+tell",
     "duration": "138",
-    "@attr": {
-      "rank": "19"
-    },
-    "playcount": "2"
-  },
-  {
-    "streamable": {
-      "fulltrack": "0",
-      "#text": "0"
-    },
-    "mbid": "",
-    "name": "nicotine",
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      }
-    ],
-    "artist": {
-      "url": "https://www.last.fm/music/blackwinterwells",
-      "name": "blackwinterwells",
-      "mbid": ""
-    },
-    "url": "https://www.last.fm/music/blackwinterwells/_/nicotine",
-    "duration": "0",
     "@attr": {
       "rank": "20"
     },
