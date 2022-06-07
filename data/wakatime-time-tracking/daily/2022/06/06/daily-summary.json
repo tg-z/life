@@ -1,25 +1,109 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.40",
+        "digital": "0:24:48",
+        "hours": 0,
+        "minutes": 24,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 48,
+        "text": "24 mins",
+        "total_seconds": 1488.219224
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.40",
+        "digital": "0:24:48",
+        "hours": 0,
+        "minutes": 24,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 48,
+        "text": "24 mins",
+        "total_seconds": 1488.219224
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.40",
+      "digital": "0:24",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 24,
+      "text": "24 mins",
+      "total_seconds": 1488.219224
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.40",
+        "digital": "0:24:48",
+        "hours": 0,
+        "minutes": 24,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 48,
+        "text": "24 mins",
+        "total_seconds": 1488.219224
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.40",
+        "digital": "0:24:48",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 24,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 48,
+        "text": "24 mins",
+        "total_seconds": 1488.219224
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.40",
+        "digital": "0:24:48",
+        "hours": 0,
+        "minutes": 24,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 48,
+        "text": "24 mins",
+        "total_seconds": 1488.219224
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.40",
+        "digital": "0:24:20",
+        "hours": 0,
+        "minutes": 24,
+        "name": "ttdl",
+        "percent": 98.16,
+        "seconds": 20,
+        "text": "24 mins",
+        "total_seconds": 1460.767541
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:27",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Terminal",
+        "percent": 1.84,
+        "seconds": 27,
+        "text": "27 secs",
+        "total_seconds": 27.451683
+      }
+    ],
     "range": {
       "date": "2022-06-06",
       "end": "2022-06-07T06:59:59Z",
       "start": "2022-06-06T07:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
