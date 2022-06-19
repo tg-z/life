@@ -257,38 +257,6 @@
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
-      "name": "TOMORROW X TOGETHER",
-      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7448412cff639253ecf512f22ad42232.png"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7448412cff639253ecf512f22ad42232.png"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7448412cff639253ecf512f22ad42232.png"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7448412cff639253ecf512f22ad42232.png"
-      }
-    ],
-    "mbid": "54187a53-941b-4c14-a02f-7ab7cc8b73f0",
-    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/minisode+2:+Thursday%27s+Child",
-    "playcount": "30",
-    "@attr": {
-      "rank": "9"
-    },
-    "name": "minisode 2: Thursday's Child"
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/Charli+XCX",
       "name": "Charli XCX",
       "mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
@@ -315,7 +283,7 @@
     "url": "https://www.last.fm/music/Charli+XCX/CRASH",
     "playcount": "21",
     "@attr": {
-      "rank": "10"
+      "rank": "9"
     },
     "name": "CRASH"
   },
@@ -347,9 +315,41 @@
     "url": "https://www.last.fm/music/prxybb/2007",
     "playcount": "21",
     "@attr": {
-      "rank": "11"
+      "rank": "10"
     },
     "name": "2007"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER",
+      "name": "TOMORROW X TOGETHER",
+      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de"
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7448412cff639253ecf512f22ad42232.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7448412cff639253ecf512f22ad42232.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7448412cff639253ecf512f22ad42232.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7448412cff639253ecf512f22ad42232.png"
+      }
+    ],
+    "mbid": "54187a53-941b-4c14-a02f-7ab7cc8b73f0",
+    "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/minisode+2:+Thursday%27s+Child",
+    "playcount": "21",
+    "@attr": {
+      "rank": "11"
+    },
+    "name": "minisode 2: Thursday's Child"
   },
   {
     "artist": {
