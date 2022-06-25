@@ -1,25 +1,109 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.18",
+        "digital": "0:11:21",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 21,
+        "text": "11 mins",
+        "total_seconds": 681.746673
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.18",
+        "digital": "0:11:21",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 21,
+        "text": "11 mins",
+        "total_seconds": 681.746673
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.18",
+      "digital": "0:11",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 11,
+      "text": "11 mins",
+      "total_seconds": 681.746673
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.18",
+        "digital": "0:11:21",
+        "hours": 0,
+        "minutes": 11,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 21,
+        "text": "11 mins",
+        "total_seconds": 681.746673
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.18",
+        "digital": "0:11:21",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 11,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 21,
+        "text": "11 mins",
+        "total_seconds": 681.746673
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.18",
+        "digital": "0:11:21",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 21,
+        "text": "11 mins",
+        "total_seconds": 681.746673
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.17",
+        "digital": "0:10:48",
+        "hours": 0,
+        "minutes": 10,
+        "name": "ttdl",
+        "percent": 95.14,
+        "seconds": 48,
+        "text": "10 mins",
+        "total_seconds": 648.597761
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:33",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Terminal",
+        "percent": 4.86,
+        "seconds": 33,
+        "text": "33 secs",
+        "total_seconds": 33.148912
+      }
+    ],
     "range": {
       "date": "2022-06-23",
       "end": "2022-06-24T06:59:59Z",
       "start": "2022-06-23T07:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Los_Angeles"
     }
   }
