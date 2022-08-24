@@ -65,6 +65,38 @@
   },
   {
     "artist": {
+      "url": "https://www.last.fm/music/Lil+Kirby",
+      "name": "Lil Kirby",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/37dc99ea8f3a80a820b75ee0b116504b.jpg"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/37dc99ea8f3a80a820b75ee0b116504b.jpg"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/37dc99ea8f3a80a820b75ee0b116504b.jpg"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/37dc99ea8f3a80a820b75ee0b116504b.jpg"
+      }
+    ],
+    "mbid": "",
+    "url": "https://www.last.fm/music/Lil+Kirby/Kirby%E2%80%99s+Adventure",
+    "playcount": "123",
+    "@attr": {
+      "rank": "3"
+    },
+    "name": "Kirby’s Adventure"
+  },
+  {
+    "artist": {
       "url": "https://www.last.fm/music/NCT",
       "name": "NCT",
       "mbid": "0eb3a5c2-5716-48d8-8c3a-f976f58a4c19"
@@ -91,41 +123,9 @@
     "url": "https://www.last.fm/music/NCT/Universe+-+The+3rd+Album",
     "playcount": "122",
     "@attr": {
-      "rank": "3"
-    },
-    "name": "Universe - The 3rd Album"
-  },
-  {
-    "artist": {
-      "url": "https://www.last.fm/music/Lil+Kirby",
-      "name": "Lil Kirby",
-      "mbid": ""
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/37dc99ea8f3a80a820b75ee0b116504b.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/37dc99ea8f3a80a820b75ee0b116504b.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/37dc99ea8f3a80a820b75ee0b116504b.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/37dc99ea8f3a80a820b75ee0b116504b.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/Lil+Kirby/Kirby%E2%80%99s+Adventure",
-    "playcount": "121",
-    "@attr": {
       "rank": "4"
     },
-    "name": "Kirby’s Adventure"
+    "name": "Universe - The 3rd Album"
   },
   {
     "artist": {
@@ -353,38 +353,6 @@
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/Stray+Kids",
-      "name": "Stray Kids",
-      "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/95ba25e82cda0256a6c82dfd4793b104.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/95ba25e82cda0256a6c82dfd4793b104.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/95ba25e82cda0256a6c82dfd4793b104.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95ba25e82cda0256a6c82dfd4793b104.jpg"
-      }
-    ],
-    "mbid": "27c0a08e-5e50-4dd8-b057-b3ed037d5bc2",
-    "url": "https://www.last.fm/music/Stray+Kids/NOEASY",
-    "playcount": "91",
-    "@attr": {
-      "rank": "12"
-    },
-    "name": "NOEASY"
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/Bladee",
       "name": "Bladee",
       "mbid": "cd689e77-dfdd-4f81-b50c-5e5a3f5e38a4"
@@ -411,7 +379,7 @@
     "url": "https://www.last.fm/music/Bladee/The+Fool",
     "playcount": "90",
     "@attr": {
-      "rank": "13"
+      "rank": "12"
     },
     "name": "The Fool"
   },
@@ -443,7 +411,7 @@
     "url": "https://www.last.fm/music/Bladee/EVERSINCE",
     "playcount": "89",
     "@attr": {
-      "rank": "14"
+      "rank": "13"
     },
     "name": "EVERSINCE"
   },
@@ -475,7 +443,7 @@
     "url": "https://www.last.fm/music/Bladee/Icedancer",
     "playcount": "88",
     "@attr": {
-      "rank": "15"
+      "rank": "14"
     },
     "name": "Icedancer"
   },
@@ -505,9 +473,9 @@
     ],
     "mbid": "3ba7dd4b-9d0c-4b24-bda9-d1ba44882487",
     "url": "https://www.last.fm/music/Bladee/333",
-    "playcount": "82",
+    "playcount": "83",
     "@attr": {
-      "rank": "16"
+      "rank": "15"
     },
     "name": "333"
   },
@@ -539,7 +507,7 @@
     "url": "https://www.last.fm/music/Dirty+Bird/Dirty+Bird",
     "playcount": "81",
     "@attr": {
-      "rank": "17"
+      "rank": "16"
     },
     "name": "Dirty Bird"
   },
@@ -571,7 +539,7 @@
     "url": "https://www.last.fm/music/Hackle/Gunsmith+tha+Mixtape",
     "playcount": "81",
     "@attr": {
-      "rank": "18"
+      "rank": "17"
     },
     "name": "Gunsmith tha Mixtape"
   },
@@ -603,7 +571,7 @@
     "url": "https://www.last.fm/music/Buckshot/Burning+Barn",
     "playcount": "78",
     "@attr": {
-      "rank": "19"
+      "rank": "18"
     },
     "name": "Burning Barn"
   },
@@ -635,8 +603,40 @@
     "url": "https://www.last.fm/music/NCT+DREAM/Glitch+Mode+-+The+2nd+Album",
     "playcount": "74",
     "@attr": {
-      "rank": "20"
+      "rank": "19"
     },
     "name": "Glitch Mode - The 2nd Album"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/LE+SSERAFIM",
+      "name": "LE SSERAFIM",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e9241af49d5f63f63cf1b000a4276f46.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e9241af49d5f63f63cf1b000a4276f46.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e9241af49d5f63f63cf1b000a4276f46.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9241af49d5f63f63cf1b000a4276f46.png"
+      }
+    ],
+    "mbid": "cd7fa327-4886-4774-845a-5672596113ca",
+    "url": "https://www.last.fm/music/LE+SSERAFIM/FEARLESS",
+    "playcount": "73",
+    "@attr": {
+      "rank": "20"
+    },
+    "name": "FEARLESS"
   }
 ]
