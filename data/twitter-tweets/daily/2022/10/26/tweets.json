@@ -1,5 +1,580 @@
 [
   {
+    "created_at": "Wed Oct 26 16:54:53 +0000 2022",
+    "id": 1585314031379751000,
+    "id_str": "1585314031379750920",
+    "text": "https://t.co/2P6byApknr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2P6byApknr",
+          "expanded_url": "https://open.spotify.com/track/1gkPJAV1ja2MIkdNnv4gyO?si=rklJqZVOSkaLBoOJVBj7mg&utm_source=copy-link",
+          "display_url": "open.spotify.com/track/1gkPJAV1…",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "parasite",
+      "screen_name": "parasite______",
+      "location": "los angeles",
+      "description": "serafina (they/he) 21, latiné ~ founder @BLADEE_BOT",
+      "url": "https://t.co/lz49R4C4V8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/lz49R4C4V8",
+              "expanded_url": "https://www.instagram.com/serafizzzle/",
+              "display_url": "instagram.com/serafizzzle/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 510,
+      "friends_count": 811,
+      "listed_count": 2,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 25922,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8625,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1579257382122582016/zjRCoQuF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1579257382122582016/zjRCoQuF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2902176888/1663902271",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zxx"
+  },
+  {
+    "created_at": "Wed Oct 26 00:59:54 +0000 2022",
+    "id": 1585073703435792400,
+    "id_str": "1585073703435792384",
+    "text": "RT @swamisound: y'all mind if I - https://t.co/Qf3TI0RaAp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "swamisound",
+          "name": "swami sound | HALLESCHES TOUR",
+          "id": 4105953203,
+          "id_str": "4105953203",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1585053368308867000,
+          "id_str": "1585053368308867072",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585053368308867072/pu/img/BVgBSf3B1lDk2YIl.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585053368308867072/pu/img/BVgBSf3B1lDk2YIl.jpg",
+          "url": "https://t.co/Qf3TI0RaAp",
+          "display_url": "pic.twitter.com/Qf3TI0RaAp",
+          "expanded_url": "https://twitter.com/swamisound/status/1585053409421377536/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 480,
+              "h": 854,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 854,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1585053409421377500,
+          "source_status_id_str": "1585053409421377536",
+          "source_user_id": 4105953203,
+          "source_user_id_str": "4105953203"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1585053368308867000,
+          "id_str": "1585053368308867072",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585053368308867072/pu/img/BVgBSf3B1lDk2YIl.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585053368308867072/pu/img/BVgBSf3B1lDk2YIl.jpg",
+          "url": "https://t.co/Qf3TI0RaAp",
+          "display_url": "pic.twitter.com/Qf3TI0RaAp",
+          "expanded_url": "https://twitter.com/swamisound/status/1585053409421377536/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 480,
+              "h": 854,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 854,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1585053409421377500,
+          "source_status_id_str": "1585053409421377536",
+          "source_user_id": 4105953203,
+          "source_user_id_str": "4105953203",
+          "video_info": {
+            "aspect_ratio": [
+              240,
+              427
+            ],
+            "duration_millis": 10283,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1585053368308867072/pu/vid/320x568/qC_WNsb1cbHyXeao.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1585053368308867072/pu/pl/rBBEtsr2cKISDbEE.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1585053368308867072/pu/vid/480x854/6Dh1gt6FtBhMNpuw.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 4105953203,
+              "id_str": "4105953203",
+              "name": "swami sound | HALLESCHES TOUR",
+              "screen_name": "swamisound",
+              "location": "NYC",
+              "description": "@eldia000 email: music.swamisound@gmail.com | nyc garage",
+              "url": "https://t.co/V94N8FAD1B",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/V94N8FAD1B",
+                      "expanded_url": "http://twostepverification.info",
+                      "display_url": "twostepverification.info",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "protected": false,
+              "followers_count": 3268,
+              "friends_count": 424,
+              "listed_count": 5,
+              "created_at": "Tue Nov 03 17:11:57 +0000 2015",
+              "favourites_count": 10853,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": true,
+              "verified": false,
+              "statuses_count": 11545,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1575158810234294272/PIF2xd4w_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1575158810234294272/PIF2xd4w_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/4105953203/1655638656",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "has_extended_profile": false,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": true,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "parasite",
+      "screen_name": "parasite______",
+      "location": "los angeles",
+      "description": "serafina (they/he) 21, latiné ~ founder @BLADEE_BOT",
+      "url": "https://t.co/lz49R4C4V8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/lz49R4C4V8",
+              "expanded_url": "https://www.instagram.com/serafizzzle/",
+              "display_url": "instagram.com/serafizzzle/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 510,
+      "friends_count": 811,
+      "listed_count": 2,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 25922,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8625,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1579257382122582016/zjRCoQuF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1579257382122582016/zjRCoQuF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2902176888/1663902271",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Oct 25 23:39:16 +0000 2022",
+      "id": 1585053409421377500,
+      "id_str": "1585053409421377536",
+      "text": "y'all mind if I - https://t.co/Qf3TI0RaAp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1585053368308867000,
+            "id_str": "1585053368308867072",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585053368308867072/pu/img/BVgBSf3B1lDk2YIl.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585053368308867072/pu/img/BVgBSf3B1lDk2YIl.jpg",
+            "url": "https://t.co/Qf3TI0RaAp",
+            "display_url": "pic.twitter.com/Qf3TI0RaAp",
+            "expanded_url": "https://twitter.com/swamisound/status/1585053409421377536/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 480,
+                "h": 854,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 480,
+                "h": 854,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1585053368308867000,
+            "id_str": "1585053368308867072",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585053368308867072/pu/img/BVgBSf3B1lDk2YIl.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585053368308867072/pu/img/BVgBSf3B1lDk2YIl.jpg",
+            "url": "https://t.co/Qf3TI0RaAp",
+            "display_url": "pic.twitter.com/Qf3TI0RaAp",
+            "expanded_url": "https://twitter.com/swamisound/status/1585053409421377536/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 480,
+                "h": 854,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 480,
+                "h": 854,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                240,
+                427
+              ],
+              "duration_millis": 10283,
+              "variants": [
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1585053368308867072/pu/vid/320x568/qC_WNsb1cbHyXeao.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1585053368308867072/pu/pl/rBBEtsr2cKISDbEE.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1585053368308867072/pu/vid/480x854/6Dh1gt6FtBhMNpuw.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4105953203,
+        "id_str": "4105953203",
+        "name": "swami sound | HALLESCHES TOUR",
+        "screen_name": "swamisound",
+        "location": "NYC",
+        "description": "@eldia000 email: music.swamisound@gmail.com | nyc garage",
+        "url": "https://t.co/V94N8FAD1B",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/V94N8FAD1B",
+                "expanded_url": "http://twostepverification.info",
+                "display_url": "twostepverification.info",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3268,
+        "friends_count": 424,
+        "listed_count": 5,
+        "created_at": "Tue Nov 03 17:11:57 +0000 2015",
+        "favourites_count": 10853,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11545,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1575158810234294272/PIF2xd4w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1575158810234294272/PIF2xd4w_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4105953203/1655638656",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 159,
+      "favorite_count": 892,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 159,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Oct 26 00:58:45 +0000 2022",
     "id": 1585073413911371800,
     "id_str": "1585073413911371777",
@@ -55,16 +630,16 @@
         }
       },
       "protected": false,
-      "followers_count": 511,
-      "friends_count": 810,
+      "followers_count": 510,
+      "friends_count": 811,
       "listed_count": 2,
       "created_at": "Mon Nov 17 01:34:31 +0000 2014",
-      "favourites_count": 25916,
+      "favourites_count": 25922,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 8623,
+      "statuses_count": 8625,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -149,16 +724,16 @@
           }
         },
         "protected": false,
-        "followers_count": 33990,
-        "friends_count": 471,
-        "listed_count": 72,
+        "followers_count": 34007,
+        "friends_count": 476,
+        "listed_count": 73,
         "created_at": "Thu Jan 14 05:36:37 +0000 2021",
-        "favourites_count": 15962,
+        "favourites_count": 16013,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 6511,
+        "statuses_count": 6532,
         "lang": null,
         "contributors_enabled": false,
         "is_translator": false,
@@ -189,14 +764,14 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 47,
-      "favorite_count": 263,
+      "retweet_count": 108,
+      "favorite_count": 578,
       "favorited": true,
       "retweeted": true,
       "lang": "en"
     },
     "is_quote_status": false,
-    "retweet_count": 47,
+    "retweet_count": 108,
     "favorite_count": 0,
     "favorited": true,
     "retweeted": true,
@@ -484,16 +1059,16 @@
         }
       },
       "protected": false,
-      "followers_count": 511,
-      "friends_count": 810,
+      "followers_count": 510,
+      "friends_count": 811,
       "listed_count": 2,
       "created_at": "Mon Nov 17 01:34:31 +0000 2014",
-      "favourites_count": 25916,
+      "favourites_count": 25922,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 8623,
+      "statuses_count": 8625,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -775,16 +1350,16 @@
           }
         },
         "protected": false,
-        "followers_count": 26899,
-        "friends_count": 894,
-        "listed_count": 50,
+        "followers_count": 26869,
+        "friends_count": 898,
+        "listed_count": 51,
         "created_at": "Tue Sep 03 15:04:33 +0000 2019",
-        "favourites_count": 105360,
+        "favourites_count": 105486,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 12913,
+        "statuses_count": 13020,
         "lang": null,
         "contributors_enabled": false,
         "is_translator": false,
@@ -816,7 +1391,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 195,
-      "favorite_count": 1003,
+      "favorite_count": 1012,
       "favorited": true,
       "retweeted": true,
       "possibly_sensitive": false,
