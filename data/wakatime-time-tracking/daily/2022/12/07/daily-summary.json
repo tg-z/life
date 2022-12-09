@@ -2,98 +2,132 @@
   {
     "categories": [
       {
-        "decimal": "0.00",
-        "digital": "0:00:00",
+        "decimal": "0.18",
+        "digital": "0:11:32",
         "hours": 0,
-        "minutes": 0,
+        "minutes": 11,
         "name": "Coding",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "percent": 100,
+        "seconds": 32,
+        "text": "11 mins",
+        "total_seconds": 692.187396
       }
     ],
     "dependencies": [],
     "editors": [
       {
+        "decimal": "0.18",
+        "digital": "0:11:16",
+        "hours": 0,
+        "minutes": 11,
+        "name": "Zsh",
+        "percent": 97.76,
+        "seconds": 16,
+        "text": "11 mins",
+        "total_seconds": 676.663069
+      },
+      {
         "decimal": "0.00",
-        "digital": "0:00:00",
+        "digital": "0:00:15",
         "hours": 0,
         "minutes": 0,
-        "name": "Zsh",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "name": "Vim",
+        "percent": 2.24,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.524327
       }
     ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.18",
+      "digital": "0:11",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 11,
+      "text": "11 mins",
+      "total_seconds": 692.187396
     },
     "languages": [
       {
+        "decimal": "0.18",
+        "digital": "0:11:16",
+        "hours": 0,
+        "minutes": 11,
+        "name": "sh",
+        "percent": 97.76,
+        "seconds": 16,
+        "text": "11 mins",
+        "total_seconds": 676.663069
+      },
+      {
         "decimal": "0.00",
-        "digital": "0:00:00",
+        "digital": "0:00:15",
         "hours": 0,
         "minutes": 0,
-        "name": "sh",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "name": "Other",
+        "percent": 2.24,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.524327
       }
     ],
     "machines": [
       {
-        "decimal": "0.00",
-        "digital": "0:00:00",
+        "decimal": "0.18",
+        "digital": "0:11:32",
         "hours": 0,
         "machine_name_id": "b6050da4-4e3c-447d-9833-b4838cd3aa52",
-        "minutes": 0,
+        "minutes": 11,
         "name": "bluetooths-macbook-pro.local",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "percent": 100,
+        "seconds": 32,
+        "text": "11 mins",
+        "total_seconds": 692.187396
       }
     ],
     "operating_systems": [
       {
-        "decimal": "0.00",
-        "digital": "0:00:00",
+        "decimal": "0.18",
+        "digital": "0:11:32",
         "hours": 0,
-        "minutes": 0,
+        "minutes": 11,
         "name": "Mac",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "percent": 100,
+        "seconds": 32,
+        "text": "11 mins",
+        "total_seconds": 692.187396
       }
     ],
     "projects": [
       {
         "color": null,
+        "decimal": "0.18",
+        "digital": "0:11:11",
+        "hours": 0,
+        "minutes": 11,
+        "name": "defend_kids",
+        "percent": 97.06,
+        "seconds": 11,
+        "text": "11 mins",
+        "total_seconds": 671.833581
+      },
+      {
+        "color": null,
         "decimal": "0.00",
-        "digital": "0:00:00",
+        "digital": "0:00:20",
         "hours": 0,
         "minutes": 0,
         "name": "Terminal",
-        "percent": 0,
-        "seconds": 0,
-        "text": "0 secs",
-        "total_seconds": 0
+        "percent": 2.94,
+        "seconds": 20,
+        "text": "20 secs",
+        "total_seconds": 20.353815
       }
     ],
     "range": {
       "date": "2022-12-07",
       "end": "2022-12-08T07:59:59Z",
       "start": "2022-12-07T08:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Los_Angeles"
     }
   }
