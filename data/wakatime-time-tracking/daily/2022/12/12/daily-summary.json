@@ -1,25 +1,111 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:18",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 18,
+        "text": "18 secs",
+        "total_seconds": 18.417062
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:18",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 18,
+        "text": "18 secs",
+        "total_seconds": 18.417062
+      }
+    ],
     "grand_total": {
       "decimal": "0.00",
       "digital": "0:00",
       "hours": 0,
       "minutes": 0,
       "text": "0 secs",
-      "total_seconds": 0
+      "total_seconds": 18.417062
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:18",
+        "hours": 0,
+        "minutes": 0,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 18,
+        "text": "18 secs",
+        "total_seconds": 18.417062
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:18",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 0,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 18,
+        "text": "18 secs",
+        "total_seconds": 18.417062
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:18",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 18,
+        "text": "18 secs",
+        "total_seconds": 18.417062
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "0.00",
+        "digital": "0:00:10",
+        "hours": 0,
+        "minutes": 0,
+        "name": "defend_kids",
+        "percent": 55.32,
+        "seconds": 10,
+        "text": "10 secs",
+        "total_seconds": 10.187905
+      },
+      {
+        "color": null,
+        "decimal": "0.00",
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Terminal",
+        "percent": 44.68,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.229157
+      }
+    ],
     "range": {
       "date": "2022-12-12",
       "end": "2022-12-13T07:59:59Z",
       "start": "2022-12-12T08:00:00Z",
-      "text": "Today",
+      "text": "Yesterday",
       "timezone": "America/Los_Angeles"
     }
   }
