@@ -1,25 +1,123 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.38",
+        "digital": "0:23:42",
+        "hours": 0,
+        "minutes": 23,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 42,
+        "text": "23 mins",
+        "total_seconds": 1422.651447
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.38",
+        "digital": "0:23:42",
+        "hours": 0,
+        "minutes": 23,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 42,
+        "text": "23 mins",
+        "total_seconds": 1422.651447
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.38",
+      "digital": "0:23",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 23,
+      "text": "23 mins",
+      "total_seconds": 1422.651447
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.38",
+        "digital": "0:23:42",
+        "hours": 0,
+        "minutes": 23,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 42,
+        "text": "23 mins",
+        "total_seconds": 1422.651447
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.38",
+        "digital": "0:23:42",
+        "hours": 0,
+        "machine_name_id": "b58ebbc0-84c7-4216-b903-7dd02de4ba14",
+        "minutes": 23,
+        "name": "bluetooths-macbook-pro.local",
+        "percent": 100,
+        "seconds": 42,
+        "text": "23 mins",
+        "total_seconds": 1422.651447
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.38",
+        "digital": "0:23:42",
+        "hours": 0,
+        "minutes": 23,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 42,
+        "text": "23 mins",
+        "total_seconds": 1422.651447
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "0.23",
+        "digital": "0:14:38",
+        "hours": 0,
+        "minutes": 14,
+        "name": "nexfil",
+        "percent": 61.77,
+        "seconds": 38,
+        "text": "14 mins",
+        "total_seconds": 878.789857
+      },
+      {
+        "color": null,
+        "decimal": "0.15",
+        "digital": "0:09:02",
+        "hours": 0,
+        "minutes": 9,
+        "name": "Terminal",
+        "percent": 38.11,
+        "seconds": 2,
+        "text": "9 mins",
+        "total_seconds": 542.180783
+      },
+      {
+        "color": null,
+        "decimal": "0.00",
+        "digital": "0:00:01",
+        "hours": 0,
+        "minutes": 0,
+        "name": "bashflix",
+        "percent": 0.12,
+        "seconds": 1,
+        "text": "1 sec",
+        "total_seconds": 1.680807
+      }
+    ],
     "range": {
       "date": "2023-01-05",
       "end": "2023-01-06T07:59:59Z",
       "start": "2023-01-05T08:00:00Z",
-      "text": "Tomorrow",
+      "text": "Today",
       "timezone": "America/Los_Angeles"
     }
   }
