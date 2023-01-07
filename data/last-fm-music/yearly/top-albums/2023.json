@@ -545,38 +545,6 @@
   },
   {
     "artist": {
-      "url": "https://www.last.fm/music/P1Harmony",
-      "name": "P1Harmony",
-      "mbid": "d03d8ba8-065c-41d9-a804-d6c05a949194"
-    },
-    "image": [
-      {
-        "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5a4d99e0fbf9fdc98238fecb99156cab.jpg"
-      },
-      {
-        "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5a4d99e0fbf9fdc98238fecb99156cab.jpg"
-      },
-      {
-        "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5a4d99e0fbf9fdc98238fecb99156cab.jpg"
-      },
-      {
-        "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5a4d99e0fbf9fdc98238fecb99156cab.jpg"
-      }
-    ],
-    "mbid": "",
-    "url": "https://www.last.fm/music/P1Harmony/DISHARMONY+:+FIND+OUT",
-    "playcount": "83",
-    "@attr": {
-      "rank": "18"
-    },
-    "name": "DISHARMONY : FIND OUT"
-  },
-  {
-    "artist": {
       "url": "https://www.last.fm/music/NCT+DREAM",
       "name": "NCT DREAM",
       "mbid": "dc7c8277-d4b6-4bca-bdfe-50eee42536ac"
@@ -603,7 +571,7 @@
     "url": "https://www.last.fm/music/NCT+DREAM/Glitch+Mode+-+The+2nd+Album",
     "playcount": "78",
     "@attr": {
-      "rank": "19"
+      "rank": "18"
     },
     "name": "Glitch Mode - The 2nd Album"
   },
@@ -635,8 +603,40 @@
     "url": "https://www.last.fm/music/Sematary/Rainbow+Bridge+2",
     "playcount": "78",
     "@attr": {
-      "rank": "20"
+      "rank": "19"
     },
     "name": "Rainbow Bridge 2"
+  },
+  {
+    "artist": {
+      "url": "https://www.last.fm/music/LE+SSERAFIM",
+      "name": "LE SSERAFIM",
+      "mbid": ""
+    },
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e9241af49d5f63f63cf1b000a4276f46.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e9241af49d5f63f63cf1b000a4276f46.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e9241af49d5f63f63cf1b000a4276f46.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9241af49d5f63f63cf1b000a4276f46.png"
+      }
+    ],
+    "mbid": "cd7fa327-4886-4774-845a-5672596113ca",
+    "url": "https://www.last.fm/music/LE+SSERAFIM/FEARLESS",
+    "playcount": "77",
+    "@attr": {
+      "rank": "20"
+    },
+    "name": "FEARLESS"
   }
 ]
