@@ -1,20 +1,94 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "1.12",
+        "digital": "1:07:54",
+        "hours": 1,
+        "minutes": 7,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 54,
+        "text": "1 hr 7 mins",
+        "total_seconds": 4074.978594
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "1.12",
+        "digital": "1:07:54",
+        "hours": 1,
+        "minutes": 7,
+        "name": "Zsh",
+        "percent": 100,
+        "seconds": 54,
+        "text": "1 hr 7 mins",
+        "total_seconds": 4074.978594
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
-      "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "decimal": "1.12",
+      "digital": "1:07",
+      "hours": 1,
+      "minutes": 7,
+      "text": "1 hr 7 mins",
+      "total_seconds": 4074.978594
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "1.12",
+        "digital": "1:07:54",
+        "hours": 1,
+        "minutes": 7,
+        "name": "sh",
+        "percent": 100,
+        "seconds": 54,
+        "text": "1 hr 7 mins",
+        "total_seconds": 4074.978594
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "1.12",
+        "digital": "1:07:54",
+        "hours": 1,
+        "machine_name_id": "ddca5542-1f8a-4eab-81f0-a3138689ae2d",
+        "minutes": 7,
+        "name": "bluetooths-macbook-pro.ddnszone.calstatela.edu",
+        "percent": 100,
+        "seconds": 54,
+        "text": "1 hr 7 mins",
+        "total_seconds": 4074.978594
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "1.12",
+        "digital": "1:07:54",
+        "hours": 1,
+        "minutes": 7,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 54,
+        "text": "1 hr 7 mins",
+        "total_seconds": 4074.978594
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "1.12",
+        "digital": "1:07:54",
+        "hours": 1,
+        "minutes": 7,
+        "name": "Terminal",
+        "percent": 100,
+        "seconds": 54,
+        "text": "1 hr 7 mins",
+        "total_seconds": 4074.978594
+      }
+    ],
     "range": {
       "date": "2023-02-21",
       "end": "2023-02-22T07:59:59Z",
