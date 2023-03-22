@@ -1,20 +1,140 @@
 [
   {
-    "categories": [],
+    "categories": [
+      {
+        "decimal": "0.70",
+        "digital": "0:42:28",
+        "hours": 0,
+        "minutes": 42,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 28,
+        "text": "42 mins",
+        "total_seconds": 2548.848312
+      }
+    ],
     "dependencies": [],
-    "editors": [],
+    "editors": [
+      {
+        "decimal": "0.53",
+        "digital": "0:32:21",
+        "hours": 0,
+        "minutes": 32,
+        "name": "Zsh",
+        "percent": 76.19,
+        "seconds": 21,
+        "text": "32 mins",
+        "total_seconds": 1941.870354
+      },
+      {
+        "decimal": "0.17",
+        "digital": "0:10:06",
+        "hours": 0,
+        "minutes": 10,
+        "name": "Vim",
+        "percent": 23.81,
+        "seconds": 6,
+        "text": "10 mins",
+        "total_seconds": 606.977958
+      }
+    ],
     "grand_total": {
-      "decimal": "0.00",
-      "digital": "0:00",
+      "decimal": "0.70",
+      "digital": "0:42",
       "hours": 0,
-      "minutes": 0,
-      "text": "0 secs",
-      "total_seconds": 0
+      "minutes": 42,
+      "text": "42 mins",
+      "total_seconds": 2548.848312
     },
-    "languages": [],
-    "machines": [],
-    "operating_systems": [],
-    "projects": [],
+    "languages": [
+      {
+        "decimal": "0.53",
+        "digital": "0:32:21",
+        "hours": 0,
+        "minutes": 32,
+        "name": "sh",
+        "percent": 76.19,
+        "seconds": 21,
+        "text": "32 mins",
+        "total_seconds": 1941.870354
+      },
+      {
+        "decimal": "0.17",
+        "digital": "0:10:06",
+        "hours": 0,
+        "minutes": 10,
+        "name": "Markdown",
+        "percent": 23.81,
+        "seconds": 6,
+        "text": "10 mins",
+        "total_seconds": 606.977958
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.70",
+        "digital": "0:42:28",
+        "hours": 0,
+        "machine_name_id": "2c06a96b-2704-4ae2-b9a7-8e0015409825",
+        "minutes": 42,
+        "name": "bluetooths-macbook-pro.ddnszone.calstatela.edu",
+        "percent": 100,
+        "seconds": 28,
+        "text": "42 mins",
+        "total_seconds": 2548.848312
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.70",
+        "digital": "0:42:28",
+        "hours": 0,
+        "minutes": 42,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 28,
+        "text": "42 mins",
+        "total_seconds": 2548.848312
+      }
+    ],
+    "projects": [
+      {
+        "color": null,
+        "decimal": "0.33",
+        "digital": "0:20:56",
+        "hours": 0,
+        "minutes": 20,
+        "name": "Terminal",
+        "percent": 49.29,
+        "seconds": 56,
+        "text": "20 mins",
+        "total_seconds": 1256.378298
+      },
+      {
+        "color": null,
+        "decimal": "0.18",
+        "digital": "0:11:25",
+        "hours": 0,
+        "minutes": 11,
+        "name": "zet",
+        "percent": 26.89,
+        "seconds": 25,
+        "text": "11 mins",
+        "total_seconds": 685.492056
+      },
+      {
+        "color": null,
+        "decimal": "0.17",
+        "digital": "0:10:06",
+        "hours": 0,
+        "minutes": 10,
+        "name": "Unknown Project",
+        "percent": 23.81,
+        "seconds": 6,
+        "text": "10 mins",
+        "total_seconds": 606.977958
+      }
+    ],
     "range": {
       "date": "2023-03-21",
       "end": "2023-03-22T06:59:59Z",
