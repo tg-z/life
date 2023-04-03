@@ -1,5 +1,583 @@
 [
   {
+    "created_at": "Sun Apr 02 03:40:31 +0000 2023",
+    "id": 1642371405487693800,
+    "id_str": "1642371405487693826",
+    "text": "mapo chicken was soooo good",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "serafina",
+      "screen_name": "parasite______",
+      "location": "los angeles",
+      "description": "serafina (they/he) 21, latiné ~ founder @BLADEE_BOT",
+      "url": "https://t.co/3CxfFdkogI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3CxfFdkogI",
+              "expanded_url": "https://www.instagram.com/serafizzzle/",
+              "display_url": "instagram.com/serafizzzle/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 528,
+      "friends_count": 858,
+      "listed_count": 2,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 29346,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10453,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1635681882066280449/TSDIpYTj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1635681882066280449/TSDIpYTj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2902176888/1663902271",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Apr 02 03:40:00 +0000 2023",
+    "id": 1642371276554793000,
+    "id_str": "1642371276554792960",
+    "text": "@cgfoty lifesaverrrrr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "cgfoty",
+          "name": "Shawi",
+          "id": 1070919205644460000,
+          "id_str": "1070919205644460032",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1642368189110845400,
+    "in_reply_to_status_id_str": "1642368189110845441",
+    "in_reply_to_user_id": 1070919205644460000,
+    "in_reply_to_user_id_str": "1070919205644460032",
+    "in_reply_to_screen_name": "cgfoty",
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "serafina",
+      "screen_name": "parasite______",
+      "location": "los angeles",
+      "description": "serafina (they/he) 21, latiné ~ founder @BLADEE_BOT",
+      "url": "https://t.co/3CxfFdkogI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3CxfFdkogI",
+              "expanded_url": "https://www.instagram.com/serafizzzle/",
+              "display_url": "instagram.com/serafizzzle/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 528,
+      "friends_count": 858,
+      "listed_count": 2,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 29346,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10453,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1635681882066280449/TSDIpYTj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1635681882066280449/TSDIpYTj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2902176888/1663902271",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Apr 02 03:07:47 +0000 2023",
+    "id": 1642363168273105000,
+    "id_str": "1642363168273104899",
+    "text": "if i go out tonight i won't be able to use my phone which is fine but like how do i coordinate a ride home if i can… https://t.co/UTknujh25E",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UTknujh25E",
+          "expanded_url": "https://twitter.com/i/web/status/1642363168273104899",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "serafina",
+      "screen_name": "parasite______",
+      "location": "los angeles",
+      "description": "serafina (they/he) 21, latiné ~ founder @BLADEE_BOT",
+      "url": "https://t.co/3CxfFdkogI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3CxfFdkogI",
+              "expanded_url": "https://www.instagram.com/serafizzzle/",
+              "display_url": "instagram.com/serafizzzle/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 528,
+      "friends_count": 858,
+      "listed_count": 2,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 29346,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10453,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1635681882066280449/TSDIpYTj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1635681882066280449/TSDIpYTj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2902176888/1663902271",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Apr 02 02:38:43 +0000 2023",
+    "id": 1642355852597403600,
+    "id_str": "1642355852597403649",
+    "text": "i hate april fools day https://t.co/hy2Q6jVr3f",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hy2Q6jVr3f",
+          "expanded_url": "https://twitter.com/DrainLyricCards/status/1642171471354028033",
+          "display_url": "twitter.com/DrainLyricCard…",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2902176888,
+      "id_str": "2902176888",
+      "name": "serafina",
+      "screen_name": "parasite______",
+      "location": "los angeles",
+      "description": "serafina (they/he) 21, latiné ~ founder @BLADEE_BOT",
+      "url": "https://t.co/3CxfFdkogI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3CxfFdkogI",
+              "expanded_url": "https://www.instagram.com/serafizzzle/",
+              "display_url": "instagram.com/serafizzzle/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 528,
+      "friends_count": 858,
+      "listed_count": 2,
+      "created_at": "Mon Nov 17 01:34:31 +0000 2014",
+      "favourites_count": 29346,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10453,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1635681882066280449/TSDIpYTj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1635681882066280449/TSDIpYTj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2902176888/1663902271",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1642171471354028000,
+    "quoted_status_id_str": "1642171471354028033",
+    "quoted_status": {
+      "created_at": "Sat Apr 01 14:26:03 +0000 2023",
+      "id": 1642171471354028000,
+      "id_str": "1642171471354028033",
+      "text": "ICEDANCER VINYL \n\nOUT NOW @ https://t.co/NYNPf0HdGA https://t.co/ZZspcZlJRd",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NYNPf0HdGA",
+            "expanded_url": "http://ee.gtb.sg",
+            "display_url": "ee.gtb.sg",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1642171466954276900,
+            "id_str": "1642171466954276866",
+            "indices": [
+              52,
+              75
+            ],
+            "media_url": "http://pbs.twimg.com/media/FsoqP6QXgAIcbeR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FsoqP6QXgAIcbeR.jpg",
+            "url": "https://t.co/ZZspcZlJRd",
+            "display_url": "pic.twitter.com/ZZspcZlJRd",
+            "expanded_url": "https://twitter.com/DrainLyricCards/status/1642171471354028033/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 472,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 872,
+                "h": 605,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 872,
+                "h": 605,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1642171466954276900,
+            "id_str": "1642171466954276866",
+            "indices": [
+              52,
+              75
+            ],
+            "media_url": "http://pbs.twimg.com/media/FsoqP6QXgAIcbeR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FsoqP6QXgAIcbeR.jpg",
+            "url": "https://t.co/ZZspcZlJRd",
+            "display_url": "pic.twitter.com/ZZspcZlJRd",
+            "expanded_url": "https://twitter.com/DrainLyricCards/status/1642171471354028033/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 472,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 872,
+                "h": 605,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 872,
+                "h": 605,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1483113233833726000,
+        "id_str": "1483113233833725954",
+        "name": "Out of Context Drain Gang",
+        "screen_name": "DrainLyricCards",
+        "location": "rainworld",
+        "description": "legendary lyrics from legendary members. dm open, send your favorites (bladee, ecco2k, thaiboy digital, +SBE/yung lean content) | Personal: @squidmerchant",
+        "url": "https://t.co/lYDvnyPhRZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/lYDvnyPhRZ",
+                "expanded_url": "https://www.last.fm/user/oocdg",
+                "display_url": "last.fm/user/oocdg",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 30463,
+        "friends_count": 170,
+        "listed_count": 13,
+        "created_at": "Mon Jan 17 16:25:44 +0000 2022",
+        "favourites_count": 10843,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1188,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1562983710928011264/34Ts8AnU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1562983710928011264/34Ts8AnU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483113233833725954/1643169632",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 87,
+      "favorite_count": 1679,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Apr 02 00:01:26 +0000 2023",
     "id": 1642316270589866000,
     "id_str": "1642316270589865984",
@@ -44,16 +622,16 @@
         }
       },
       "protected": false,
-      "followers_count": 529,
+      "followers_count": 528,
       "friends_count": 858,
       "listed_count": 2,
       "created_at": "Mon Nov 17 01:34:31 +0000 2014",
-      "favourites_count": 29345,
+      "favourites_count": 29346,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 10449,
+      "statuses_count": 10453,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -85,7 +663,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "lang": "en"
